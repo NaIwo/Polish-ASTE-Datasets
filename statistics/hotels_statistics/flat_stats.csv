@@ -1,0 +1,23 @@
+,hotels
+Mean length of aspect phrases (with encoder),1.3484
+Mean length of aspect phrases (words),1.2607
+Mean length of opinion phrases (with encoder),3.3478
+Mean length of opinion phrases (words),2.968
+Mean sentence length,16.361
+Number of aspect phrases,798.0
+Number of aspects with length = 1,681.0
+Number of aspects with length > 1,117.0
+Number of negative sentiment,541.0
+Number of neutral sentiment,58.0
+Number of one-to-many relations (aspects),289.0
+Number of one-to-many relations (opinions),34.0
+Number of opinion phrases,1156.0
+Number of opinions with length = 1,412.0
+Number of opinions with length > 1,744.0
+Number of positive sentiment,598.0
+Number of sentences,590.0
+Number of triplets,1197.0
+Number of triplets where aspect span length > 1 and opinion span length = 1,46.0
+Number of triplets where at least one span length > 1,812.0
+Number of triplets where length of each span = 1,385.0
+Number of triplets where opinion span length > 1 and aspect span length = 1,649.0

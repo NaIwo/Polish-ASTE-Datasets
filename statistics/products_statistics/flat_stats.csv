@@ -1,0 +1,23 @@
+,products
+Mean length of aspect phrases (with encoder),1.5642
+Mean length of aspect phrases (words),1.3983
+Mean length of opinion phrases (with encoder),2.4365
+Mean length of opinion phrases (words),2.2201
+Mean sentence length,20.9765
+Number of aspect phrases,693.0
+Number of aspects with length = 1,526.0
+Number of aspects with length > 1,167.0
+Number of negative sentiment,376.0
+Number of neutral sentiment,54.0
+Number of one-to-many relations (aspects),128.0
+Number of one-to-many relations (opinions),22.0
+Number of opinion phrases,827.0
+Number of opinions with length = 1,343.0
+Number of opinions with length > 1,484.0
+Number of positive sentiment,421.0
+Number of sentences,511.0
+Number of triplets,851.0
+Number of triplets where aspect span length > 1 and opinion span length = 1,70.0
+Number of triplets where at least one span length > 1,564.0
+Number of triplets where length of each span = 1,287.0
+Number of triplets where opinion span length > 1 and aspect span length = 1,377.0
