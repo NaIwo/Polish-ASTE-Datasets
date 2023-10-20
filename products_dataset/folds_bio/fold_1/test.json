@@ -1,0 +1,1688 @@
+[
+    {
+        "id": 159,
+        "sentence": "Uwazam ze telefon s\u0142aby i dziwi mnie ogolny zachwyt tym produktem .",
+        "triplets": [
+            {
+                "uuid": "58e22831-f24f-4891-bcb4-ad22a7dc4d40",
+                "target_tags": "Uwazam\\O ze\\O telefon\\B s\u0142aby\\O i\\O dziwi\\O mnie\\O ogolny\\O zachwyt\\O tym\\O produktem\\O .\\O",
+                "opinion_tags": "Uwazam\\O ze\\O telefon\\O s\u0142aby\\B i\\O dziwi\\O mnie\\O ogolny\\O zachwyt\\O tym\\O produktem\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 443,
+        "sentence": "Obejrza\u0142a m ten film w TV i jestem rozczarowana .",
+        "triplets": [
+            {
+                "uuid": "29359979-95e6-414c-9075-fe75abe86f10",
+                "target_tags": "Obejrza\u0142a\\O m\\O ten\\O film\\B w\\O TV\\O i\\O jestem\\O rozczarowana\\O .\\O",
+                "opinion_tags": "Obejrza\u0142a\\O m\\O ten\\O film\\O w\\O TV\\O i\\O jestem\\O rozczarowana\\B .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 280,
+        "sentence": "\u015awietny sprz\u0119t do zada\u0144 biurowych .",
+        "triplets": [
+            {
+                "uuid": "9b090b47-614b-4f19-b3a5-3542dcce0839",
+                "target_tags": "\u015awietny\\O sprz\u0119t\\B do\\O zada\u0144\\O biurowych\\O .\\O",
+                "opinion_tags": "\u015awietny\\B sprz\u0119t\\O do\\O zada\u0144\\O biurowych\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "sentence": "2 godziny po tym jak go kupi\u0142 em , zwr\u00f3ci\u0142 em go do sklepu - Jako\u015b\u0107 obrazu tragiczna , m\u00f3j telefon kom\u00f3rkowy wy\u015bwietla lepszy obraz ni\u017c ten TV .",
+        "triplets": [
+            {
+                "uuid": "0ba06914-5874-42e7-bcb1-0fb95ebee373",
+                "target_tags": "2\\O godziny\\O po\\O tym\\O jak\\O go\\O kupi\u0142\\O em\\O ,\\O zwr\u00f3ci\u0142\\O em\\O go\\O do\\O sklepu\\O -\\O Jako\u015b\u0107\\B obrazu\\I tragiczna\\O ,\\O m\u00f3j\\O telefon\\O kom\u00f3rkowy\\O wy\u015bwietla\\O lepszy\\O obraz\\O ni\u017c\\O ten\\O TV\\O .\\O",
+                "opinion_tags": "2\\O godziny\\O po\\O tym\\O jak\\O go\\O kupi\u0142\\O em\\O ,\\O zwr\u00f3ci\u0142\\O em\\O go\\O do\\O sklepu\\O -\\O Jako\u015b\u0107\\O obrazu\\O tragiczna\\B ,\\O m\u00f3j\\O telefon\\O kom\u00f3rkowy\\O wy\u015bwietla\\O lepszy\\O obraz\\O ni\u017c\\O ten\\O TV\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "sentence": "Funkcjonalnie te\u017c jest dobrze , regulacja g\u0142o\u015bno\u015bci super , winlock i shadowing bardzo mi\u0142e .",
+        "triplets": [
+            {
+                "uuid": "bbbe7ba1-29c0-4b51-bdb7-4546b756a303",
+                "target_tags": "Funkcjonalnie\\O te\u017c\\O jest\\O dobrze\\O ,\\O regulacja\\B g\u0142o\u015bno\u015bci\\I super\\O ,\\O winlock\\O i\\O shadowing\\O bardzo\\O mi\u0142e\\O .\\O",
+                "opinion_tags": "Funkcjonalnie\\O te\u017c\\O jest\\O dobrze\\O ,\\O regulacja\\O g\u0142o\u015bno\u015bci\\O super\\B ,\\O winlock\\O i\\O shadowing\\O bardzo\\O mi\u0142e\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "3dae96f1-2615-4cb5-b862-4b7cd6abaa69",
+                "target_tags": "Funkcjonalnie\\O te\u017c\\O jest\\O dobrze\\O ,\\O regulacja\\O g\u0142o\u015bno\u015bci\\O super\\O ,\\O winlock\\O i\\O shadowing\\B bardzo\\O mi\u0142e\\O .\\O",
+                "opinion_tags": "Funkcjonalnie\\O te\u017c\\O jest\\O dobrze\\O ,\\O regulacja\\O g\u0142o\u015bno\u015bci\\O super\\O ,\\O winlock\\O i\\O shadowing\\O bardzo\\B mi\u0142e\\I .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "45c6a440-5d69-4096-8814-a247a096bcb5",
+                "target_tags": "Funkcjonalnie\\O te\u017c\\O jest\\O dobrze\\O ,\\O regulacja\\O g\u0142o\u015bno\u015bci\\O super\\O ,\\O winlock\\B i\\O shadowing\\O bardzo\\O mi\u0142e\\O .\\O",
+                "opinion_tags": "Funkcjonalnie\\O te\u017c\\O jest\\O dobrze\\O ,\\O regulacja\\O g\u0142o\u015bno\u015bci\\O super\\O ,\\O winlock\\O i\\O shadowing\\O bardzo\\B mi\u0142e\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "sentence": "S\u0142uchawki wykonane tanio i to od razu wida\u0107 .",
+        "triplets": [
+            {
+                "uuid": "66ecb5c5-a08d-47ce-a0d2-cfe2a77ede78",
+                "target_tags": "S\u0142uchawki\\B wykonane\\O tanio\\O i\\O to\\O od\\O razu\\O wida\u0107\\O .\\O",
+                "opinion_tags": "S\u0142uchawki\\O wykonane\\B tanio\\I i\\O to\\O od\\O razu\\O wida\u0107\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 309,
+        "sentence": "Ekran LCD przesta\u0142 dzia\u0142a\u0107 podczas rozmowy - nie mo\u017cna si\u0119 roz\u0142\u0105czy\u0107 samemu jak nie zrobi tego rozm\u00f3wca .",
+        "triplets": [
+            {
+                "uuid": "e56c5a27-91b8-4257-8c71-051a7d45321c",
+                "target_tags": "Ekran\\B LCD\\O przesta\u0142\\O dzia\u0142a\u0107\\O podczas\\O rozmowy\\O -\\O nie\\O mo\u017cna\\O si\u0119\\O roz\u0142\u0105czy\u0107\\O samemu\\O jak\\O nie\\O zrobi\\O tego\\O rozm\u00f3wca\\O .\\O",
+                "opinion_tags": "Ekran\\O LCD\\O przesta\u0142\\B dzia\u0142a\u0107\\I podczas\\O rozmowy\\O -\\O nie\\O mo\u017cna\\O si\u0119\\O roz\u0142\u0105czy\u0107\\O samemu\\O jak\\O nie\\O zrobi\\O tego\\O rozm\u00f3wca\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "sentence": "Wtedy obraz jest prawid\u0142owy i pojawia si\u0119 d\u017awi\u0119k .",
+        "triplets": [
+            {
+                "uuid": "97c35bca-0164-48f3-b3d7-a8ec1fe59b5d",
+                "target_tags": "Wtedy\\O obraz\\B jest\\O prawid\u0142owy\\O i\\O pojawia\\O si\u0119\\O d\u017awi\u0119k\\O .\\O",
+                "opinion_tags": "Wtedy\\O obraz\\O jest\\O prawid\u0142owy\\B i\\O pojawia\\O si\u0119\\O d\u017awi\u0119k\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 269,
+        "sentence": "Bardzo fajne szczoteczki w rozs\u0105dnej cenie jak za dwie sztuki , od razu z lepszymi ko\u0144c\u00f3wkami , kt\u00f3rych dro\u017cszy zestaw nie posiada .",
+        "triplets": [
+            {
+                "uuid": "5b366157-145f-47bc-8860-31af499f3e68",
+                "target_tags": "Bardzo\\O fajne\\O szczoteczki\\B w\\O rozs\u0105dnej\\O cenie\\O jak\\O za\\O dwie\\O sztuki\\O ,\\O od\\O razu\\O z\\O lepszymi\\O ko\u0144c\u00f3wkami\\O ,\\O kt\u00f3rych\\O dro\u017cszy\\O zestaw\\O nie\\O posiada\\O .\\O",
+                "opinion_tags": "Bardzo\\B fajne\\I szczoteczki\\O w\\O rozs\u0105dnej\\O cenie\\O jak\\O za\\O dwie\\O sztuki\\O ,\\O od\\O razu\\O z\\O lepszymi\\O ko\u0144c\u00f3wkami\\O ,\\O kt\u00f3rych\\O dro\u017cszy\\O zestaw\\O nie\\O posiada\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "bddb0128-3c25-4064-92b5-328440a1fda3",
+                "target_tags": "Bardzo\\O fajne\\O szczoteczki\\B w\\O rozs\u0105dnej\\O cenie\\O jak\\O za\\O dwie\\O sztuki\\O ,\\O od\\O razu\\O z\\O lepszymi\\O ko\u0144c\u00f3wkami\\O ,\\O kt\u00f3rych\\O dro\u017cszy\\O zestaw\\O nie\\O posiada\\O .\\O",
+                "opinion_tags": "Bardzo\\O fajne\\O szczoteczki\\O w\\O rozs\u0105dnej\\B cenie\\I jak\\O za\\O dwie\\O sztuki\\O ,\\O od\\O razu\\O z\\O lepszymi\\O ko\u0144c\u00f3wkami\\O ,\\O kt\u00f3rych\\O dro\u017cszy\\O zestaw\\O nie\\O posiada\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 345,
+        "sentence": "Plastikowa mocna ceg\u0142\u00f3wka i to jedyny plus minusy brak s\u0142ownika T9 trzeba r\u0119cznie wklepywa\u0107 tekst sms brak mo\u017cliwo\u015bci nawi\u0105zania po\u0142\u0105czenia z internetem bardzo s\u0142aby aparat radio tylko dzia\u0142a ze s\u0142uchawkami bardzo ma\u0142a pami\u0119\u0107 wewn\u0119trzn\u0105 niezb\u0119dna jest karta s\u0142uchawki na wtyczk\u0119 usb w sumie wy\u015bwietlacz m\u00f3g\u0142 by by\u0107 wi\u0119kszy w stosunku do ca\u0142ego telefonu .",
+        "triplets": [
+            {
+                "uuid": "26228a5c-ea07-445f-9175-dd539183d5ee",
+                "target_tags": "Plastikowa\\O mocna\\O ceg\u0142\u00f3wka\\O i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\O mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\O z\\O internetem\\O bardzo\\O s\u0142aby\\O aparat\\B radio\\O tylko\\O dzia\u0142a\\O ze\\O s\u0142uchawkami\\O bardzo\\O ma\u0142a\\O pami\u0119\u0107\\O wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\O m\u00f3g\u0142\\O by\\O by\u0107\\O wi\u0119kszy\\O w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "opinion_tags": "Plastikowa\\O mocna\\O ceg\u0142\u00f3wka\\O i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\O mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\O z\\O internetem\\O bardzo\\B s\u0142aby\\I aparat\\O radio\\O tylko\\O dzia\u0142a\\O ze\\O s\u0142uchawkami\\O bardzo\\O ma\u0142a\\O pami\u0119\u0107\\O wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\O m\u00f3g\u0142\\O by\\O by\u0107\\O wi\u0119kszy\\O w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "66b83d50-d33d-4c8c-a272-d9131b9ca024",
+                "target_tags": "Plastikowa\\O mocna\\O ceg\u0142\u00f3wka\\O i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\O mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\O z\\O internetem\\O bardzo\\O s\u0142aby\\O aparat\\O radio\\O tylko\\O dzia\u0142a\\O ze\\O s\u0142uchawkami\\O bardzo\\O ma\u0142a\\O pami\u0119\u0107\\O wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\B m\u00f3g\u0142\\O by\\O by\u0107\\O wi\u0119kszy\\O w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "opinion_tags": "Plastikowa\\O mocna\\O ceg\u0142\u00f3wka\\O i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\O mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\O z\\O internetem\\O bardzo\\O s\u0142aby\\O aparat\\O radio\\O tylko\\O dzia\u0142a\\O ze\\O s\u0142uchawkami\\O bardzo\\O ma\u0142a\\O pami\u0119\u0107\\O wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\O m\u00f3g\u0142\\B by\\I by\u0107\\I wi\u0119kszy\\I w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "sentiment": "neutral"
+            },
+            {
+                "uuid": "8eb6538b-aeb8-47ac-be1e-6045edece6f5",
+                "target_tags": "Plastikowa\\O mocna\\O ceg\u0142\u00f3wka\\O i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\O mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\O z\\O internetem\\O bardzo\\O s\u0142aby\\O aparat\\O radio\\O tylko\\O dzia\u0142a\\O ze\\O s\u0142uchawkami\\O bardzo\\O ma\u0142a\\O pami\u0119\u0107\\B wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\O m\u00f3g\u0142\\O by\\O by\u0107\\O wi\u0119kszy\\O w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "opinion_tags": "Plastikowa\\O mocna\\O ceg\u0142\u00f3wka\\O i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\O mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\O z\\O internetem\\O bardzo\\O s\u0142aby\\O aparat\\O radio\\O tylko\\O dzia\u0142a\\O ze\\O s\u0142uchawkami\\O bardzo\\B ma\u0142a\\I pami\u0119\u0107\\O wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\O m\u00f3g\u0142\\O by\\O by\u0107\\O wi\u0119kszy\\O w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "2d624171-df5e-4bb0-8407-cb20cbf5b3e6",
+                "target_tags": "Plastikowa\\O mocna\\O ceg\u0142\u00f3wka\\B i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\O mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\O z\\O internetem\\O bardzo\\O s\u0142aby\\O aparat\\O radio\\O tylko\\O dzia\u0142a\\O ze\\O s\u0142uchawkami\\O bardzo\\O ma\u0142a\\O pami\u0119\u0107\\O wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\O m\u00f3g\u0142\\O by\\O by\u0107\\O wi\u0119kszy\\O w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "opinion_tags": "Plastikowa\\O mocna\\B ceg\u0142\u00f3wka\\O i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\O mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\O z\\O internetem\\O bardzo\\O s\u0142aby\\O aparat\\O radio\\O tylko\\O dzia\u0142a\\O ze\\O s\u0142uchawkami\\O bardzo\\O ma\u0142a\\O pami\u0119\u0107\\O wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\O m\u00f3g\u0142\\O by\\O by\u0107\\O wi\u0119kszy\\O w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "007f07b3-bf13-4005-942e-12b509053bb0",
+                "target_tags": "Plastikowa\\O mocna\\O ceg\u0142\u00f3wka\\O i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\O mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\B z\\I internetem\\I bardzo\\O s\u0142aby\\O aparat\\O radio\\O tylko\\O dzia\u0142a\\O ze\\O s\u0142uchawkami\\O bardzo\\O ma\u0142a\\O pami\u0119\u0107\\O wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\O m\u00f3g\u0142\\O by\\O by\u0107\\O wi\u0119kszy\\O w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "opinion_tags": "Plastikowa\\O mocna\\O ceg\u0142\u00f3wka\\O i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\B mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\O z\\O internetem\\O bardzo\\O s\u0142aby\\O aparat\\O radio\\O tylko\\O dzia\u0142a\\O ze\\O s\u0142uchawkami\\O bardzo\\O ma\u0142a\\O pami\u0119\u0107\\O wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\O m\u00f3g\u0142\\O by\\O by\u0107\\O wi\u0119kszy\\O w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "b510af63-e39a-4a87-8208-6e7252ae197f",
+                "target_tags": "Plastikowa\\O mocna\\O ceg\u0142\u00f3wka\\O i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\O mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\O z\\O internetem\\O bardzo\\O s\u0142aby\\O aparat\\O radio\\B tylko\\O dzia\u0142a\\O ze\\O s\u0142uchawkami\\O bardzo\\O ma\u0142a\\O pami\u0119\u0107\\O wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\O m\u00f3g\u0142\\O by\\O by\u0107\\O wi\u0119kszy\\O w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "opinion_tags": "Plastikowa\\O mocna\\O ceg\u0142\u00f3wka\\O i\\O to\\O jedyny\\O plus\\O minusy\\O brak\\O s\u0142ownika\\O T9\\O trzeba\\O r\u0119cznie\\O wklepywa\u0107\\O tekst\\O sms\\O brak\\O mo\u017cliwo\u015bci\\O nawi\u0105zania\\O po\u0142\u0105czenia\\O z\\O internetem\\O bardzo\\O s\u0142aby\\O aparat\\O radio\\O tylko\\B dzia\u0142a\\I ze\\I s\u0142uchawkami\\I bardzo\\O ma\u0142a\\O pami\u0119\u0107\\O wewn\u0119trzn\u0105\\O niezb\u0119dna\\O jest\\O karta\\O s\u0142uchawki\\O na\\O wtyczk\u0119\\O usb\\O w\\O sumie\\O wy\u015bwietlacz\\O m\u00f3g\u0142\\O by\\O by\u0107\\O wi\u0119kszy\\O w\\O stosunku\\O do\\O ca\u0142ego\\O telefonu\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "sentence": "\u0141aweczka niby bardzo funkcjonalna , ale stojaki pod sztang\u0119 nie s\u0105 regulowane , a przy wyciskaniu skosu brakuje miejsca na g\u0142ow\u0119 pod gryfem : / Nie ma mowy o w\u0105skim chwycie sztangi , gdy\u017c rozstaw stojak\u00f3w ma w\u0142a\u015bnie tak\u0105 szeroko\u015b\u0107 : / Modlitewnik za w\u0105ski i przy zginaniu gryf zaczepia o d\u017awigni\u0119 na nogi : / D\u017awignie do rozpi\u0119tek tylko przeszkadzaj\u0105 przy wyciskaniu sztangi na le\u017c\u0105co : / \u0142aweczka osadzona tak nisko , \u017ce przy prostowaniu n\u00f3g na siedz\u0105co stopami zaczepia si\u0119 o pod\u0142og\u0119 , ponad to niewygodne wyko\u0144czenie \u0142aweczki powoduje obtarcia pod kolanami : / Zginanie n\u00f3g le\u017c\u0105c na brzuchu odbywa si\u0119 ca\u0142kiem wygodnie , poza faktem \u017ce \u0142aweczka si\u0119 trz\u0119sie i je\u017adzi w prz\u00f3d i w ty\u0142 .",
+        "triplets": [
+            {
+                "uuid": "60e902e8-1377-4427-a486-047ba7ca8e99",
+                "target_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\B za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "opinion_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\B w\u0105ski\\I i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "c3a55f47-8add-4689-a7fe-3b665edd2838",
+                "target_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\B pod\\I sztang\u0119\\I nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "opinion_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\B s\u0105\\I regulowane\\I ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "f22dbfbd-2790-4988-ae63-bcb218ef7dfd",
+                "target_tags": "\u0141aweczka\\B niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "opinion_tags": "\u0141aweczka\\O niby\\B bardzo\\I funkcjonalna\\I ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "sentiment": "neutral"
+            },
+            {
+                "uuid": "d7547145-489c-48de-93bd-9cc5769d6165",
+                "target_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\B na\\I g\u0142ow\u0119\\I pod\\I gryfem\\I :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "opinion_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\B miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "f9bf8a82-c168-4947-9210-6d280a70643b",
+                "target_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\B \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "opinion_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\B wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "48d7288f-e911-468a-99af-8ff0a0b0d939",
+                "target_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\B \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "opinion_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\B obtarcia\\I pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "a19c985a-a6c0-4dbe-b39a-4dbea4f0dfc3",
+                "target_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\B do\\I rozpi\u0119tek\\I tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "opinion_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\B przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "041c6188-8131-4629-b366-e5a2c00afe1f",
+                "target_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\B tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "opinion_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\B ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "790722ee-dadd-47cc-89a2-fd57847bfe6b",
+                "target_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\B si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "opinion_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\B trz\u0119sie\\I i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "bf57d34c-7c93-4f2a-a108-490b2e80cc95",
+                "target_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\B si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\O w\\O prz\u00f3d\\O i\\O w\\O ty\u0142\\O .\\O",
+                "opinion_tags": "\u0141aweczka\\O niby\\O bardzo\\O funkcjonalna\\O ,\\O ale\\O stojaki\\O pod\\O sztang\u0119\\O nie\\O s\u0105\\O regulowane\\O ,\\O a\\O przy\\O wyciskaniu\\O skosu\\O brakuje\\O miejsca\\O na\\O g\u0142ow\u0119\\O pod\\O gryfem\\O :\\O /\\O Nie\\O ma\\O mowy\\O o\\O w\u0105skim\\O chwycie\\O sztangi\\O ,\\O gdy\u017c\\O rozstaw\\O stojak\u00f3w\\O ma\\O w\u0142a\u015bnie\\O tak\u0105\\O szeroko\u015b\u0107\\O :\\O /\\O Modlitewnik\\O za\\O w\u0105ski\\O i\\O przy\\O zginaniu\\O gryf\\O zaczepia\\O o\\O d\u017awigni\u0119\\O na\\O nogi\\O :\\O /\\O D\u017awignie\\O do\\O rozpi\u0119tek\\O tylko\\O przeszkadzaj\u0105\\O przy\\O wyciskaniu\\O sztangi\\O na\\O le\u017c\u0105co\\O :\\O /\\O \u0142aweczka\\O osadzona\\O tak\\O nisko\\O ,\\O \u017ce\\O przy\\O prostowaniu\\O n\u00f3g\\O na\\O siedz\u0105co\\O stopami\\O zaczepia\\O si\u0119\\O o\\O pod\u0142og\u0119\\O ,\\O ponad\\O to\\O niewygodne\\O wyko\u0144czenie\\O \u0142aweczki\\O powoduje\\O obtarcia\\O pod\\O kolanami\\O :\\O /\\O Zginanie\\O n\u00f3g\\O le\u017c\u0105c\\O na\\O brzuchu\\O odbywa\\O si\u0119\\O ca\u0142kiem\\O wygodnie\\O ,\\O poza\\O faktem\\O \u017ce\\O \u0142aweczka\\O si\u0119\\O trz\u0119sie\\O i\\O je\u017adzi\\B w\\I prz\u00f3d\\I i\\I w\\I ty\u0142\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "sentence": "mam kran grohe i jest mi\u00f3d malina .",
+        "triplets": [
+            {
+                "uuid": "bcbb6608-410a-4c26-b9dd-2069321e9d6d",
+                "target_tags": "mam\\O kran\\B grohe\\I i\\O jest\\O mi\u00f3d\\O malina\\O .\\O",
+                "opinion_tags": "mam\\O kran\\O grohe\\O i\\O jest\\O mi\u00f3d\\B malina\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 389,
+        "sentence": "Wspomne tu jednak o charakterze dziweku gdyz ten moze byc dla jednych wspanialy a dla innych nie koniecznie , Dali Zensor 3 maja dosc wtrazna i czysta gore pasma , i silny dobrze konrolowany bas .",
+        "triplets": [
+            {
+                "uuid": "f033782e-16d2-4321-9f1d-29465491adfd",
+                "target_tags": "Wspomne\\O tu\\O jednak\\O o\\O charakterze\\O dziweku\\O gdyz\\O ten\\O moze\\O byc\\O dla\\O jednych\\O wspanialy\\O a\\O dla\\O innych\\O nie\\O koniecznie\\O ,\\O Dali\\O Zensor\\O 3\\O maja\\O dosc\\O wtrazna\\O i\\O czysta\\O gore\\O pasma\\O ,\\O i\\O silny\\O dobrze\\O konrolowany\\O bas\\B .\\O",
+                "opinion_tags": "Wspomne\\O tu\\O jednak\\O o\\O charakterze\\O dziweku\\O gdyz\\O ten\\O moze\\O byc\\O dla\\O jednych\\O wspanialy\\O a\\O dla\\O innych\\O nie\\O koniecznie\\O ,\\O Dali\\O Zensor\\O 3\\O maja\\O dosc\\O wtrazna\\O i\\O czysta\\O gore\\O pasma\\O ,\\O i\\O silny\\O dobrze\\B konrolowany\\I bas\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "bb2f3c3e-6416-4f67-bc58-b016d4a64b45",
+                "target_tags": "Wspomne\\O tu\\O jednak\\O o\\O charakterze\\O dziweku\\O gdyz\\O ten\\O moze\\O byc\\O dla\\O jednych\\O wspanialy\\O a\\O dla\\O innych\\O nie\\O koniecznie\\O ,\\O Dali\\O Zensor\\O 3\\O maja\\O dosc\\O wtrazna\\O i\\O czysta\\O gore\\B pasma\\I ,\\O i\\O silny\\O dobrze\\O konrolowany\\O bas\\O .\\O",
+                "opinion_tags": "Wspomne\\O tu\\O jednak\\O o\\O charakterze\\O dziweku\\O gdyz\\O ten\\O moze\\O byc\\O dla\\O jednych\\O wspanialy\\O a\\O dla\\O innych\\O nie\\O koniecznie\\O ,\\O Dali\\O Zensor\\O 3\\O maja\\O dosc\\O wtrazna\\O i\\O czysta\\B gore\\O pasma\\O ,\\O i\\O silny\\O dobrze\\O konrolowany\\O bas\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "ef830766-46fc-4670-9bb5-5fc9e5662ebe",
+                "target_tags": "Wspomne\\O tu\\O jednak\\O o\\O charakterze\\O dziweku\\O gdyz\\O ten\\O moze\\O byc\\O dla\\O jednych\\O wspanialy\\O a\\O dla\\O innych\\O nie\\O koniecznie\\O ,\\O Dali\\O Zensor\\O 3\\O maja\\O dosc\\O wtrazna\\O i\\O czysta\\O gore\\O pasma\\O ,\\O i\\O silny\\O dobrze\\O konrolowany\\O bas\\B .\\O",
+                "opinion_tags": "Wspomne\\O tu\\O jednak\\O o\\O charakterze\\O dziweku\\O gdyz\\O ten\\O moze\\O byc\\O dla\\O jednych\\O wspanialy\\O a\\O dla\\O innych\\O nie\\O koniecznie\\O ,\\O Dali\\O Zensor\\O 3\\O maja\\O dosc\\O wtrazna\\O i\\O czysta\\O gore\\O pasma\\O ,\\O i\\O silny\\B dobrze\\O konrolowany\\O bas\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "285ab04c-701c-4dc0-a601-bf27d29b64d9",
+                "target_tags": "Wspomne\\O tu\\O jednak\\O o\\O charakterze\\O dziweku\\O gdyz\\O ten\\O moze\\O byc\\O dla\\O jednych\\O wspanialy\\O a\\O dla\\O innych\\O nie\\O koniecznie\\O ,\\O Dali\\O Zensor\\O 3\\O maja\\O dosc\\O wtrazna\\O i\\O czysta\\O gore\\B pasma\\I ,\\O i\\O silny\\O dobrze\\O konrolowany\\O bas\\O .\\O",
+                "opinion_tags": "Wspomne\\O tu\\O jednak\\O o\\O charakterze\\O dziweku\\O gdyz\\O ten\\O moze\\O byc\\O dla\\O jednych\\O wspanialy\\O a\\O dla\\O innych\\O nie\\O koniecznie\\O ,\\O Dali\\O Zensor\\O 3\\O maja\\O dosc\\B wtrazna\\I i\\O czysta\\O gore\\O pasma\\O ,\\O i\\O silny\\O dobrze\\O konrolowany\\O bas\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "sentence": "Kabel wygl\u0105da jakby mia\u0142 si\u0119 za chwil\u0119 urwa\u0107 .",
+        "triplets": [
+            {
+                "uuid": "929729f3-4166-4726-8a44-113718040873",
+                "target_tags": "Kabel\\B wygl\u0105da\\O jakby\\O mia\u0142\\O si\u0119\\O za\\O chwil\u0119\\O urwa\u0107\\O .\\O",
+                "opinion_tags": "Kabel\\O wygl\u0105da\\B jakby\\I mia\u0142\\I si\u0119\\I za\\I chwil\u0119\\I urwa\u0107\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 451,
+        "sentence": "Seagaty s\u0105 wadliwe .",
+        "triplets": [
+            {
+                "uuid": "0388624e-c974-44ea-8a9c-3f1966e4a0de",
+                "target_tags": "Seagaty\\B s\u0105\\O wadliwe\\O .\\O",
+                "opinion_tags": "Seagaty\\O s\u0105\\O wadliwe\\B .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 364,
+        "sentence": "Nie wiem , co jeszcze powinien em napisa\u0107 , buty nie s\u0105 najwygodniejszymi jakie w \u017cyciu mia\u0142em jednak tragedii nie ma .",
+        "triplets": [
+            {
+                "uuid": "83ca51b7-51d5-4abb-bea4-390a38e61edc",
+                "target_tags": "Nie\\O wiem\\O ,\\O co\\O jeszcze\\O powinien\\O em\\O napisa\u0107\\O ,\\O buty\\B nie\\O s\u0105\\O najwygodniejszymi\\O jakie\\O w\\O \u017cyciu\\O mia\u0142em\\O jednak\\O tragedii\\O nie\\O ma\\O .\\O",
+                "opinion_tags": "Nie\\O wiem\\O ,\\O co\\O jeszcze\\O powinien\\O em\\O napisa\u0107\\O ,\\O buty\\O nie\\B s\u0105\\I najwygodniejszymi\\I jakie\\O w\\O \u017cyciu\\O mia\u0142em\\O jednak\\O tragedii\\O nie\\O ma\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 465,
+        "sentence": "Zapach nie utrzymuje si\u0119 zbyt d\u0142ugo , ale nie poczytuj\u0119 tego za wad\u0119 , bo jest bardzo s\u0142odki i wola\u0142a m , by by\u0142 wyczuwalny tylko podczas nak\u0142adania go .",
+        "triplets": [
+            {
+                "uuid": "e1c9e79b-3078-46ca-be61-c5ff5abc98fb",
+                "target_tags": "Zapach\\B nie\\O utrzymuje\\O si\u0119\\O zbyt\\O d\u0142ugo\\O ,\\O ale\\O nie\\O poczytuj\u0119\\O tego\\O za\\O wad\u0119\\O ,\\O bo\\O jest\\O bardzo\\O s\u0142odki\\O i\\O wola\u0142a\\O m\\O ,\\O by\\O by\u0142\\O wyczuwalny\\O tylko\\O podczas\\O nak\u0142adania\\O go\\O .\\O",
+                "opinion_tags": "Zapach\\O nie\\O utrzymuje\\O si\u0119\\O zbyt\\O d\u0142ugo\\O ,\\O ale\\O nie\\O poczytuj\u0119\\O tego\\O za\\O wad\u0119\\O ,\\O bo\\O jest\\O bardzo\\B s\u0142odki\\I i\\O wola\u0142a\\O m\\O ,\\O by\\O by\u0142\\O wyczuwalny\\O tylko\\O podczas\\O nak\u0142adania\\O go\\O .\\O",
+                "sentiment": "neutral"
+            },
+            {
+                "uuid": "0bb7d9bc-8c9e-48f5-a3bd-d3e9f580b71d",
+                "target_tags": "Zapach\\B nie\\O utrzymuje\\O si\u0119\\O zbyt\\O d\u0142ugo\\O ,\\O ale\\O nie\\O poczytuj\u0119\\O tego\\O za\\O wad\u0119\\O ,\\O bo\\O jest\\O bardzo\\O s\u0142odki\\O i\\O wola\u0142a\\O m\\O ,\\O by\\O by\u0142\\O wyczuwalny\\O tylko\\O podczas\\O nak\u0142adania\\O go\\O .\\O",
+                "opinion_tags": "Zapach\\O nie\\B utrzymuje\\I si\u0119\\I zbyt\\I d\u0142ugo\\I ,\\O ale\\O nie\\O poczytuj\u0119\\O tego\\O za\\O wad\u0119\\O ,\\O bo\\O jest\\O bardzo\\O s\u0142odki\\O i\\O wola\u0142a\\O m\\O ,\\O by\\O by\u0142\\O wyczuwalny\\O tylko\\O podczas\\O nak\u0142adania\\O go\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 317,
+        "sentence": "A dekle to ju\u017c pora\u017cka .",
+        "triplets": [
+            {
+                "uuid": "5ff8e233-9dc6-4c87-a216-64e661da3776",
+                "target_tags": "A\\O dekle\\B to\\O ju\u017c\\O pora\u017cka\\O .\\O",
+                "opinion_tags": "A\\O dekle\\O to\\O ju\u017c\\O pora\u017cka\\B .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "sentence": "Za trzecim razem jak nas zapewniano idealny i wymieniony mebel przywi\u00f3z\u0142 nas firmowy transport bezpo\u015brednio z Bydgoskiej fabryki - i zn\u00f3w zabrali kanap\u0119 poniewa\u017c zn\u00f3w : modu\u0142u w linii oparcia nie by\u0142y r\u00f3wne , tapicerka poszczeg\u00f3lnych element\u00f3w nier\u00f3wno uszyta , wysoko\u015b\u0107 element\u00f3w nier\u00f3wna - sami serwisanci stwierdzili \u017ce jest z ni\u0105 co\u015b nie tak !",
+        "triplets": [
+            {
+                "uuid": "51296d0a-cc7b-4839-9214-46f498a5036c",
+                "target_tags": "Za\\O trzecim\\O razem\\O jak\\O nas\\O zapewniano\\O idealny\\O i\\O wymieniony\\O mebel\\O przywi\u00f3z\u0142\\O nas\\O firmowy\\O transport\\O bezpo\u015brednio\\O z\\O Bydgoskiej\\O fabryki\\O -\\O i\\O zn\u00f3w\\O zabrali\\O kanap\u0119\\O poniewa\u017c\\O zn\u00f3w\\O :\\O modu\u0142u\\O w\\O linii\\O oparcia\\O nie\\O by\u0142y\\O r\u00f3wne\\O ,\\O tapicerka\\B poszczeg\u00f3lnych\\O element\u00f3w\\O nier\u00f3wno\\O uszyta\\O ,\\O wysoko\u015b\u0107\\O element\u00f3w\\O nier\u00f3wna\\O -\\O sami\\O serwisanci\\O stwierdzili\\O \u017ce\\O jest\\O z\\O ni\u0105\\O co\u015b\\O nie\\O tak\\O !\\O",
+                "opinion_tags": "Za\\O trzecim\\O razem\\O jak\\O nas\\O zapewniano\\O idealny\\O i\\O wymieniony\\O mebel\\O przywi\u00f3z\u0142\\O nas\\O firmowy\\O transport\\O bezpo\u015brednio\\O z\\O Bydgoskiej\\O fabryki\\O -\\O i\\O zn\u00f3w\\O zabrali\\O kanap\u0119\\O poniewa\u017c\\O zn\u00f3w\\O :\\O modu\u0142u\\O w\\O linii\\O oparcia\\O nie\\O by\u0142y\\O r\u00f3wne\\O ,\\O tapicerka\\O poszczeg\u00f3lnych\\O element\u00f3w\\O nier\u00f3wno\\B uszyta\\I ,\\O wysoko\u015b\u0107\\O element\u00f3w\\O nier\u00f3wna\\O -\\O sami\\O serwisanci\\O stwierdzili\\O \u017ce\\O jest\\O z\\O ni\u0105\\O co\u015b\\O nie\\O tak\\O !\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "ebdcf87a-4b8d-4e31-8fd3-1ab0299b920c",
+                "target_tags": "Za\\O trzecim\\O razem\\O jak\\O nas\\O zapewniano\\O idealny\\O i\\O wymieniony\\O mebel\\O przywi\u00f3z\u0142\\O nas\\O firmowy\\O transport\\O bezpo\u015brednio\\O z\\O Bydgoskiej\\O fabryki\\O -\\O i\\O zn\u00f3w\\O zabrali\\O kanap\u0119\\O poniewa\u017c\\O zn\u00f3w\\O :\\O modu\u0142u\\O w\\O linii\\O oparcia\\O nie\\O by\u0142y\\O r\u00f3wne\\O ,\\O tapicerka\\O poszczeg\u00f3lnych\\O element\u00f3w\\O nier\u00f3wno\\O uszyta\\O ,\\O wysoko\u015b\u0107\\B element\u00f3w\\I nier\u00f3wna\\O -\\O sami\\O serwisanci\\O stwierdzili\\O \u017ce\\O jest\\O z\\O ni\u0105\\O co\u015b\\O nie\\O tak\\O !\\O",
+                "opinion_tags": "Za\\O trzecim\\O razem\\O jak\\O nas\\O zapewniano\\O idealny\\O i\\O wymieniony\\O mebel\\O przywi\u00f3z\u0142\\O nas\\O firmowy\\O transport\\O bezpo\u015brednio\\O z\\O Bydgoskiej\\O fabryki\\O -\\O i\\O zn\u00f3w\\O zabrali\\O kanap\u0119\\O poniewa\u017c\\O zn\u00f3w\\O :\\O modu\u0142u\\O w\\O linii\\O oparcia\\O nie\\O by\u0142y\\O r\u00f3wne\\O ,\\O tapicerka\\O poszczeg\u00f3lnych\\O element\u00f3w\\O nier\u00f3wno\\O uszyta\\O ,\\O wysoko\u015b\u0107\\O element\u00f3w\\O nier\u00f3wna\\B -\\O sami\\O serwisanci\\O stwierdzili\\O \u017ce\\O jest\\O z\\O ni\u0105\\O co\u015b\\O nie\\O tak\\O !\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "2f6cd196-c923-4311-8b1d-e0a7d64b1297",
+                "target_tags": "Za\\O trzecim\\O razem\\O jak\\O nas\\O zapewniano\\O idealny\\O i\\O wymieniony\\O mebel\\O przywi\u00f3z\u0142\\O nas\\O firmowy\\O transport\\O bezpo\u015brednio\\O z\\O Bydgoskiej\\O fabryki\\O -\\O i\\O zn\u00f3w\\O zabrali\\O kanap\u0119\\O poniewa\u017c\\O zn\u00f3w\\O :\\O modu\u0142u\\O w\\O linii\\O oparcia\\B nie\\O by\u0142y\\O r\u00f3wne\\O ,\\O tapicerka\\O poszczeg\u00f3lnych\\O element\u00f3w\\O nier\u00f3wno\\O uszyta\\O ,\\O wysoko\u015b\u0107\\O element\u00f3w\\O nier\u00f3wna\\O -\\O sami\\O serwisanci\\O stwierdzili\\O \u017ce\\O jest\\O z\\O ni\u0105\\O co\u015b\\O nie\\O tak\\O !\\O",
+                "opinion_tags": "Za\\O trzecim\\O razem\\O jak\\O nas\\O zapewniano\\O idealny\\O i\\O wymieniony\\O mebel\\O przywi\u00f3z\u0142\\O nas\\O firmowy\\O transport\\O bezpo\u015brednio\\O z\\O Bydgoskiej\\O fabryki\\O -\\O i\\O zn\u00f3w\\O zabrali\\O kanap\u0119\\O poniewa\u017c\\O zn\u00f3w\\O :\\O modu\u0142u\\O w\\O linii\\O oparcia\\O nie\\B by\u0142y\\I r\u00f3wne\\I ,\\O tapicerka\\O poszczeg\u00f3lnych\\O element\u00f3w\\O nier\u00f3wno\\O uszyta\\O ,\\O wysoko\u015b\u0107\\O element\u00f3w\\O nier\u00f3wna\\O -\\O sami\\O serwisanci\\O stwierdzili\\O \u017ce\\O jest\\O z\\O ni\u0105\\O co\u015b\\O nie\\O tak\\O !\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 344,
+        "sentence": "Kamer\u0119 kupi\u0142a m w prezencie , ale niestety : mimo \u015bwietnej jako\u015bci nagrywania film\u00f3w , wi\u0119cej nie dzia\u0142a\u0142a ni\u017c dzia\u0142a\u0142a .",
+        "triplets": [
+            {
+                "uuid": "76eb4dab-318f-4e86-831a-d55a22b631e3",
+                "target_tags": "Kamer\u0119\\O kupi\u0142a\\O m\\O w\\O prezencie\\O ,\\O ale\\O niestety\\O :\\O mimo\\O \u015bwietnej\\O jako\u015bci\\B nagrywania\\I film\u00f3w\\O ,\\O wi\u0119cej\\O nie\\O dzia\u0142a\u0142a\\O ni\u017c\\O dzia\u0142a\u0142a\\O .\\O",
+                "opinion_tags": "Kamer\u0119\\O kupi\u0142a\\O m\\O w\\O prezencie\\O ,\\O ale\\O niestety\\O :\\O mimo\\O \u015bwietnej\\B jako\u015bci\\O nagrywania\\O film\u00f3w\\O ,\\O wi\u0119cej\\O nie\\O dzia\u0142a\u0142a\\O ni\u017c\\O dzia\u0142a\u0142a\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "1dddd5f4-52dd-471b-bdcb-360b12311c71",
+                "target_tags": "Kamer\u0119\\B kupi\u0142a\\O m\\O w\\O prezencie\\O ,\\O ale\\O niestety\\O :\\O mimo\\O \u015bwietnej\\O jako\u015bci\\O nagrywania\\O film\u00f3w\\O ,\\O wi\u0119cej\\O nie\\O dzia\u0142a\u0142a\\O ni\u017c\\O dzia\u0142a\u0142a\\O .\\O",
+                "opinion_tags": "Kamer\u0119\\O kupi\u0142a\\O m\\O w\\O prezencie\\O ,\\O ale\\O niestety\\O :\\O mimo\\O \u015bwietnej\\O jako\u015bci\\O nagrywania\\O film\u00f3w\\O ,\\O wi\u0119cej\\B nie\\I dzia\u0142a\u0142a\\I ni\u017c\\I dzia\u0142a\u0142a\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "sentence": "S\u0142uchawki maj\u0105 bardziej ni\u017c zadowalaj\u0105cy d\u017awi\u0119k , s\u0105 wygodne i nie wypadaj\u0105 z uszu podczas biegania .",
+        "triplets": [
+            {
+                "uuid": "3780edb5-2def-42ad-92b3-58d1ffda4de1",
+                "target_tags": "S\u0142uchawki\\B maj\u0105\\O bardziej\\O ni\u017c\\O zadowalaj\u0105cy\\O d\u017awi\u0119k\\O ,\\O s\u0105\\O wygodne\\O i\\O nie\\O wypadaj\u0105\\O z\\O uszu\\O podczas\\O biegania\\O .\\O",
+                "opinion_tags": "S\u0142uchawki\\O maj\u0105\\O bardziej\\O ni\u017c\\O zadowalaj\u0105cy\\O d\u017awi\u0119k\\O ,\\O s\u0105\\O wygodne\\B i\\O nie\\O wypadaj\u0105\\O z\\O uszu\\O podczas\\O biegania\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "e0ce0b46-87f3-4fb2-98ae-bc1bd12a1d2a",
+                "target_tags": "S\u0142uchawki\\O maj\u0105\\O bardziej\\O ni\u017c\\O zadowalaj\u0105cy\\O d\u017awi\u0119k\\B ,\\O s\u0105\\O wygodne\\O i\\O nie\\O wypadaj\u0105\\O z\\O uszu\\O podczas\\O biegania\\O .\\O",
+                "opinion_tags": "S\u0142uchawki\\O maj\u0105\\O bardziej\\B ni\u017c\\I zadowalaj\u0105cy\\I d\u017awi\u0119k\\O ,\\O s\u0105\\O wygodne\\O i\\O nie\\O wypadaj\u0105\\O z\\O uszu\\O podczas\\O biegania\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "sentence": "List\u0119 zalet uzupe\u0142nia du\u017ca wygoda noszenia i \u015bwietna izolacja od otoczenia .",
+        "triplets": [
+            {
+                "uuid": "2e99587f-b0b3-475d-8aef-4169b071ff73",
+                "target_tags": "List\u0119\\O zalet\\O uzupe\u0142nia\\O du\u017ca\\O wygoda\\O noszenia\\O i\\O \u015bwietna\\O izolacja\\B od\\I otoczenia\\I .\\O",
+                "opinion_tags": "List\u0119\\O zalet\\O uzupe\u0142nia\\O du\u017ca\\O wygoda\\O noszenia\\O i\\O \u015bwietna\\B izolacja\\O od\\O otoczenia\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "1fb4f62b-28bb-450a-ae3f-4ccaca2475ab",
+                "target_tags": "List\u0119\\O zalet\\O uzupe\u0142nia\\O du\u017ca\\O wygoda\\B noszenia\\I i\\O \u015bwietna\\O izolacja\\O od\\O otoczenia\\O .\\O",
+                "opinion_tags": "List\u0119\\O zalet\\O uzupe\u0142nia\\O du\u017ca\\B wygoda\\O noszenia\\O i\\O \u015bwietna\\O izolacja\\O od\\O otoczenia\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 294,
+        "sentence": "Jak dla mnie kosmetyk jest w zbyt ciep\u0142ej tonacji , trzeba z nim bardzo uwa\u017ca\u0107 by nie zrobi\u0107 sobie plam na twarzy ( nie wykluczam , \u017ce jest to spowodowane moim brakiem umiej\u0119tno\u015bci makija\u017cowych ) .",
+        "triplets": [
+            {
+                "uuid": "71ef8e9a-58bd-49cd-85ea-9b5b5355767e",
+                "target_tags": "Jak\\O dla\\O mnie\\O kosmetyk\\B jest\\O w\\O zbyt\\O ciep\u0142ej\\O tonacji\\O ,\\O trzeba\\O z\\O nim\\O bardzo\\O uwa\u017ca\u0107\\O by\\O nie\\O zrobi\u0107\\O sobie\\O plam\\O na\\O twarzy\\O (\\O nie\\O wykluczam\\O ,\\O \u017ce\\O jest\\O to\\O spowodowane\\O moim\\O brakiem\\O umiej\u0119tno\u015bci\\O makija\u017cowych\\O )\\O .\\O",
+                "opinion_tags": "Jak\\O dla\\O mnie\\O kosmetyk\\O jest\\O w\\B zbyt\\I ciep\u0142ej\\I tonacji\\I ,\\O trzeba\\O z\\O nim\\O bardzo\\O uwa\u017ca\u0107\\O by\\O nie\\O zrobi\u0107\\O sobie\\O plam\\O na\\O twarzy\\O (\\O nie\\O wykluczam\\O ,\\O \u017ce\\O jest\\O to\\O spowodowane\\O moim\\O brakiem\\O umiej\u0119tno\u015bci\\O makija\u017cowych\\O )\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 399,
+        "sentence": "Na domiar wszystkiego , naklejki wyci\u0119te s\u0105 bardzo krzywo w stosunku do nadruku ( przesuni\u0119cie o 2 - 3 mm ) , co bardzo niekorzystnie wp\u0142ywa na wygl\u0105d skompletowanego zestawu .",
+        "triplets": [
+            {
+                "uuid": "b4bd5fbd-5356-49cf-80ec-6d7b64616339",
+                "target_tags": "Na\\O domiar\\O wszystkiego\\O ,\\O naklejki\\B wyci\u0119te\\O s\u0105\\O bardzo\\O krzywo\\O w\\O stosunku\\O do\\O nadruku\\O (\\O przesuni\u0119cie\\O o\\O 2\\O -\\O 3\\O mm\\O )\\O ,\\O co\\O bardzo\\O niekorzystnie\\O wp\u0142ywa\\O na\\O wygl\u0105d\\O skompletowanego\\O zestawu\\O .\\O",
+                "opinion_tags": "Na\\O domiar\\O wszystkiego\\O ,\\O naklejki\\O wyci\u0119te\\B s\u0105\\I bardzo\\I krzywo\\I w\\O stosunku\\O do\\O nadruku\\O (\\O przesuni\u0119cie\\O o\\O 2\\O -\\O 3\\O mm\\O )\\O ,\\O co\\O bardzo\\O niekorzystnie\\O wp\u0142ywa\\O na\\O wygl\u0105d\\O skompletowanego\\O zestawu\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 462,
+        "sentence": "Poza tym fotelik lekki , dobrze wpasowuje si\u0119 w siedzenie auta .",
+        "triplets": [
+            {
+                "uuid": "26e3821f-20e8-438d-ad04-a2b89ca7ea79",
+                "target_tags": "Poza\\O tym\\O fotelik\\B lekki\\O ,\\O dobrze\\O wpasowuje\\O si\u0119\\O w\\O siedzenie\\O auta\\O .\\O",
+                "opinion_tags": "Poza\\O tym\\O fotelik\\O lekki\\B ,\\O dobrze\\O wpasowuje\\O si\u0119\\O w\\O siedzenie\\O auta\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "9c964715-0619-4d6d-9104-a2ce8f67c496",
+                "target_tags": "Poza\\O tym\\O fotelik\\B lekki\\O ,\\O dobrze\\O wpasowuje\\O si\u0119\\O w\\O siedzenie\\O auta\\O .\\O",
+                "opinion_tags": "Poza\\O tym\\O fotelik\\O lekki\\O ,\\O dobrze\\B wpasowuje\\I si\u0119\\I w\\I siedzenie\\I auta\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "sentence": "Mn\u00f3stwo informacji o Polakach , bardzo wnikliwa i rzeczowa analiza wydarze\u0144 maj\u0105cych miejsce na wyspie .",
+        "triplets": [
+            {
+                "uuid": "6b84faac-680a-4e9a-a92b-6e9d7a849652",
+                "target_tags": "Mn\u00f3stwo\\O informacji\\O o\\O Polakach\\O ,\\O bardzo\\O wnikliwa\\O i\\O rzeczowa\\O analiza\\B wydarze\u0144\\I maj\u0105cych\\O miejsce\\O na\\O wyspie\\O .\\O",
+                "opinion_tags": "Mn\u00f3stwo\\O informacji\\O o\\O Polakach\\O ,\\O bardzo\\O wnikliwa\\O i\\O rzeczowa\\B analiza\\O wydarze\u0144\\O maj\u0105cych\\O miejsce\\O na\\O wyspie\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "40566fff-8d65-4b5a-a8fb-12d280ff479e",
+                "target_tags": "Mn\u00f3stwo\\O informacji\\O o\\O Polakach\\O ,\\O bardzo\\O wnikliwa\\O i\\O rzeczowa\\O analiza\\B wydarze\u0144\\I maj\u0105cych\\O miejsce\\O na\\O wyspie\\O .\\O",
+                "opinion_tags": "Mn\u00f3stwo\\O informacji\\O o\\O Polakach\\O ,\\O bardzo\\B wnikliwa\\I i\\O rzeczowa\\O analiza\\O wydarze\u0144\\O maj\u0105cych\\O miejsce\\O na\\O wyspie\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "sentence": "S\u0142uchaweczka Tania ( mi si\u0119 uda\u0142o zakupi\u0107 w tesco za 22z\u0142 ) , przyzwoity czas pracy , jako\u015b\u0107 d\u017awi\u0119ku wystarczaj\u0105ca , jednak przy g\u0142o\u015bniejszym ustawieniu s\u0142yszalny pog\u0142os ( echo ) przez rozm\u00f3wc\u0119 , pa\u0142\u0105k na ucho nie w ka\u017cdym uchu le\u017cy wygodnie i stabilnie lubi\u0105c si\u0119 wysuwa\u0107 .",
+        "triplets": [
+            {
+                "uuid": "978b8d1d-e5c1-4f06-a39a-80528479f237",
+                "target_tags": "S\u0142uchaweczka\\O Tania\\O (\\O mi\\O si\u0119\\O uda\u0142o\\O zakupi\u0107\\O w\\O tesco\\O za\\O 22z\u0142\\O )\\O ,\\O przyzwoity\\O czas\\B pracy\\I ,\\O jako\u015b\u0107\\O d\u017awi\u0119ku\\O wystarczaj\u0105ca\\O ,\\O jednak\\O przy\\O g\u0142o\u015bniejszym\\O ustawieniu\\O s\u0142yszalny\\O pog\u0142os\\O (\\O echo\\O )\\O przez\\O rozm\u00f3wc\u0119\\O ,\\O pa\u0142\u0105k\\O na\\O ucho\\O nie\\O w\\O ka\u017cdym\\O uchu\\O le\u017cy\\O wygodnie\\O i\\O stabilnie\\O lubi\u0105c\\O si\u0119\\O wysuwa\u0107\\O .\\O",
+                "opinion_tags": "S\u0142uchaweczka\\O Tania\\O (\\O mi\\O si\u0119\\O uda\u0142o\\O zakupi\u0107\\O w\\O tesco\\O za\\O 22z\u0142\\O )\\O ,\\O przyzwoity\\B czas\\O pracy\\O ,\\O jako\u015b\u0107\\O d\u017awi\u0119ku\\O wystarczaj\u0105ca\\O ,\\O jednak\\O przy\\O g\u0142o\u015bniejszym\\O ustawieniu\\O s\u0142yszalny\\O pog\u0142os\\O (\\O echo\\O )\\O przez\\O rozm\u00f3wc\u0119\\O ,\\O pa\u0142\u0105k\\O na\\O ucho\\O nie\\O w\\O ka\u017cdym\\O uchu\\O le\u017cy\\O wygodnie\\O i\\O stabilnie\\O lubi\u0105c\\O si\u0119\\O wysuwa\u0107\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "55ba65d2-d1aa-46f6-a84d-a92088cacd9e",
+                "target_tags": "S\u0142uchaweczka\\O Tania\\O (\\O mi\\O si\u0119\\O uda\u0142o\\O zakupi\u0107\\O w\\O tesco\\O za\\O 22z\u0142\\O )\\O ,\\O przyzwoity\\O czas\\O pracy\\O ,\\O jako\u015b\u0107\\B d\u017awi\u0119ku\\I wystarczaj\u0105ca\\O ,\\O jednak\\O przy\\O g\u0142o\u015bniejszym\\O ustawieniu\\O s\u0142yszalny\\O pog\u0142os\\O (\\O echo\\O )\\O przez\\O rozm\u00f3wc\u0119\\O ,\\O pa\u0142\u0105k\\O na\\O ucho\\O nie\\O w\\O ka\u017cdym\\O uchu\\O le\u017cy\\O wygodnie\\O i\\O stabilnie\\O lubi\u0105c\\O si\u0119\\O wysuwa\u0107\\O .\\O",
+                "opinion_tags": "S\u0142uchaweczka\\O Tania\\O (\\O mi\\O si\u0119\\O uda\u0142o\\O zakupi\u0107\\O w\\O tesco\\O za\\O 22z\u0142\\O )\\O ,\\O przyzwoity\\O czas\\O pracy\\O ,\\O jako\u015b\u0107\\O d\u017awi\u0119ku\\O wystarczaj\u0105ca\\B ,\\O jednak\\O przy\\O g\u0142o\u015bniejszym\\O ustawieniu\\O s\u0142yszalny\\O pog\u0142os\\O (\\O echo\\O )\\O przez\\O rozm\u00f3wc\u0119\\O ,\\O pa\u0142\u0105k\\O na\\O ucho\\O nie\\O w\\O ka\u017cdym\\O uchu\\O le\u017cy\\O wygodnie\\O i\\O stabilnie\\O lubi\u0105c\\O si\u0119\\O wysuwa\u0107\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "1c92b8cc-eab8-42c2-8d4f-60708d188814",
+                "target_tags": "S\u0142uchaweczka\\O Tania\\O (\\O mi\\O si\u0119\\O uda\u0142o\\O zakupi\u0107\\O w\\O tesco\\O za\\O 22z\u0142\\O )\\O ,\\O przyzwoity\\O czas\\O pracy\\O ,\\O jako\u015b\u0107\\O d\u017awi\u0119ku\\O wystarczaj\u0105ca\\O ,\\O jednak\\O przy\\O g\u0142o\u015bniejszym\\O ustawieniu\\O s\u0142yszalny\\O pog\u0142os\\O (\\O echo\\O )\\O przez\\O rozm\u00f3wc\u0119\\O ,\\O pa\u0142\u0105k\\B na\\I ucho\\I nie\\O w\\O ka\u017cdym\\O uchu\\O le\u017cy\\O wygodnie\\O i\\O stabilnie\\O lubi\u0105c\\O si\u0119\\O wysuwa\u0107\\O .\\O",
+                "opinion_tags": "S\u0142uchaweczka\\O Tania\\O (\\O mi\\O si\u0119\\O uda\u0142o\\O zakupi\u0107\\O w\\O tesco\\O za\\O 22z\u0142\\O )\\O ,\\O przyzwoity\\O czas\\O pracy\\O ,\\O jako\u015b\u0107\\O d\u017awi\u0119ku\\O wystarczaj\u0105ca\\O ,\\O jednak\\O przy\\O g\u0142o\u015bniejszym\\O ustawieniu\\O s\u0142yszalny\\O pog\u0142os\\O (\\O echo\\O )\\O przez\\O rozm\u00f3wc\u0119\\O ,\\O pa\u0142\u0105k\\O na\\O ucho\\O nie\\B w\\I ka\u017cdym\\I uchu\\I le\u017cy\\I wygodnie\\I i\\I stabilnie\\I lubi\u0105c\\O si\u0119\\O wysuwa\u0107\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "57894725-89f8-4407-bdaf-02954057409a",
+                "target_tags": "S\u0142uchaweczka\\O Tania\\O (\\O mi\\O si\u0119\\O uda\u0142o\\O zakupi\u0107\\O w\\O tesco\\O za\\O 22z\u0142\\O )\\O ,\\O przyzwoity\\O czas\\O pracy\\O ,\\O jako\u015b\u0107\\O d\u017awi\u0119ku\\O wystarczaj\u0105ca\\O ,\\O jednak\\O przy\\O g\u0142o\u015bniejszym\\O ustawieniu\\O s\u0142yszalny\\O pog\u0142os\\O (\\O echo\\O )\\O przez\\O rozm\u00f3wc\u0119\\O ,\\O pa\u0142\u0105k\\B na\\I ucho\\I nie\\O w\\O ka\u017cdym\\O uchu\\O le\u017cy\\O wygodnie\\O i\\O stabilnie\\O lubi\u0105c\\O si\u0119\\O wysuwa\u0107\\O .\\O",
+                "opinion_tags": "S\u0142uchaweczka\\O Tania\\O (\\O mi\\O si\u0119\\O uda\u0142o\\O zakupi\u0107\\O w\\O tesco\\O za\\O 22z\u0142\\O )\\O ,\\O przyzwoity\\O czas\\O pracy\\O ,\\O jako\u015b\u0107\\O d\u017awi\u0119ku\\O wystarczaj\u0105ca\\O ,\\O jednak\\O przy\\O g\u0142o\u015bniejszym\\O ustawieniu\\O s\u0142yszalny\\O pog\u0142os\\O (\\O echo\\O )\\O przez\\O rozm\u00f3wc\u0119\\O ,\\O pa\u0142\u0105k\\O na\\O ucho\\O nie\\O w\\O ka\u017cdym\\O uchu\\O le\u017cy\\O wygodnie\\O i\\O stabilnie\\O lubi\u0105c\\B si\u0119\\I wysuwa\u0107\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "sentence": "Ma\u0142o tego pomimo zastosowania specjalnego zamocowania absorbuj\u0105cego wibracje dysk nadal tak ha\u0142asuje \u017ce zag\u0142usza wentylatory w obudowie .",
+        "triplets": [
+            {
+                "uuid": "e357255c-c714-433b-b4e8-75d980b70ade",
+                "target_tags": "Ma\u0142o\\O tego\\O pomimo\\O zastosowania\\O specjalnego\\O zamocowania\\O absorbuj\u0105cego\\O wibracje\\O dysk\\B nadal\\O tak\\O ha\u0142asuje\\O \u017ce\\O zag\u0142usza\\O wentylatory\\O w\\O obudowie\\O .\\O",
+                "opinion_tags": "Ma\u0142o\\O tego\\O pomimo\\O zastosowania\\O specjalnego\\O zamocowania\\O absorbuj\u0105cego\\O wibracje\\O dysk\\O nadal\\O tak\\O ha\u0142asuje\\B \u017ce\\O zag\u0142usza\\O wentylatory\\O w\\O obudowie\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 326,
+        "sentence": "Klawiatura \u015bwietna nie tylko dla graczy ale szczeg\u00f3lnie dla os\u00f3b pracuj\u0105cych na skomplikowanych programach , czy to graficznych do obr\u00f3bki wideo , czy te\u017c do projektowania .",
+        "triplets": [
+            {
+                "uuid": "52feb33a-78d4-49cf-a1d1-77ae5586ea9f",
+                "target_tags": "Klawiatura\\B \u015bwietna\\O nie\\O tylko\\O dla\\O graczy\\O ale\\O szczeg\u00f3lnie\\O dla\\O os\u00f3b\\O pracuj\u0105cych\\O na\\O skomplikowanych\\O programach\\O ,\\O czy\\O to\\O graficznych\\O do\\O obr\u00f3bki\\O wideo\\O ,\\O czy\\O te\u017c\\O do\\O projektowania\\O .\\O",
+                "opinion_tags": "Klawiatura\\O \u015bwietna\\B nie\\O tylko\\O dla\\O graczy\\O ale\\O szczeg\u00f3lnie\\O dla\\O os\u00f3b\\O pracuj\u0105cych\\O na\\O skomplikowanych\\O programach\\O ,\\O czy\\O to\\O graficznych\\O do\\O obr\u00f3bki\\O wideo\\O ,\\O czy\\O te\u017c\\O do\\O projektowania\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "sentence": "Produkt jest tak solidny - ze dalem prety od mojej starej suszarki ( 15 letniej ) niestety wszystkich nie mialem .",
+        "triplets": [
+            {
+                "uuid": "776a8200-f250-4c06-b043-b636545f98b6",
+                "target_tags": "Produkt\\B jest\\O tak\\O solidny\\O -\\O ze\\O dalem\\O prety\\O od\\O mojej\\O starej\\O suszarki\\O (\\O 15\\O letniej\\O )\\O niestety\\O wszystkich\\O nie\\O mialem\\O .\\O",
+                "opinion_tags": "Produkt\\O jest\\O tak\\O solidny\\B -\\O ze\\O dalem\\O prety\\O od\\O mojej\\O starej\\O suszarki\\O (\\O 15\\O letniej\\O )\\O niestety\\O wszystkich\\O nie\\O mialem\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "sentence": "Klawiatura jest OK .",
+        "triplets": [
+            {
+                "uuid": "33b6002c-96f1-43f8-bc7e-ff8a85602e50",
+                "target_tags": "Klawiatura\\B jest\\O OK\\O .\\O",
+                "opinion_tags": "Klawiatura\\O jest\\O OK\\B .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 482,
+        "sentence": "U\u017cytkuje ten telefon od kilku miesi\u0119cy i niestety musz\u0119 stwierdzi\u0107 , \u017ce nie spe\u0142nia moich oczekiwa\u0144 .",
+        "triplets": [
+            {
+                "uuid": "c3cded93-82b7-453e-be61-be43405690c2",
+                "target_tags": "U\u017cytkuje\\O ten\\O telefon\\B od\\O kilku\\O miesi\u0119cy\\O i\\O niestety\\O musz\u0119\\O stwierdzi\u0107\\O ,\\O \u017ce\\O nie\\O spe\u0142nia\\O moich\\O oczekiwa\u0144\\O .\\O",
+                "opinion_tags": "U\u017cytkuje\\O ten\\O telefon\\O od\\O kilku\\O miesi\u0119cy\\O i\\O niestety\\O musz\u0119\\O stwierdzi\u0107\\O ,\\O \u017ce\\O nie\\B spe\u0142nia\\I moich\\I oczekiwa\u0144\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 331,
+        "sentence": "Kupi\u0142 em ze wzgl\u0119du na d\u0142ugi czas pracy na baterii ( od stycznia mam ten sam zestaw i nie zanosi si\u0119 by mia\u0142y si\u0119 szybko roz\u0142adowa\u0107 ) i przyciski pod kciukiem ( mog\u0142y by dzia\u0142a\u0107 lepiej , ale c\u00f3\u017c ) - niestety ze wzgl\u0119du na problematyczno\u015b\u0107 oraz gorsz\u0105 jako\u015b\u0107 \u015bledzenia ruchu na improwizowanych powierzchniach , ni\u017c wszystkie moje poprzednie myszki ( te\u017c logitecha , tylko z ni\u017cszej p\u00f3\u0142ki ) , przy najbli\u017cszym zakupie zastanowi\u0119 si\u0119 dwa razy nim wybior\u0119 mysz tej marki .",
+        "triplets": [
+            {
+                "uuid": "493ffcc1-40a3-4aa4-9cc0-74a400c58eee",
+                "target_tags": "Kupi\u0142\\O em\\O ze\\O wzgl\u0119du\\O na\\O d\u0142ugi\\O czas\\O pracy\\O na\\O baterii\\O (\\O od\\O stycznia\\O mam\\O ten\\O sam\\O zestaw\\O i\\O nie\\O zanosi\\O si\u0119\\O by\\O mia\u0142y\\O si\u0119\\O szybko\\O roz\u0142adowa\u0107\\O )\\O i\\O przyciski\\B pod\\I kciukiem\\I (\\O mog\u0142y\\O by\\O dzia\u0142a\u0107\\O lepiej\\O ,\\O ale\\O c\u00f3\u017c\\O )\\O -\\O niestety\\O ze\\O wzgl\u0119du\\O na\\O problematyczno\u015b\u0107\\O oraz\\O gorsz\u0105\\O jako\u015b\u0107\\O \u015bledzenia\\O ruchu\\O na\\O improwizowanych\\O powierzchniach\\O ,\\O ni\u017c\\O wszystkie\\O moje\\O poprzednie\\O myszki\\O (\\O te\u017c\\O logitecha\\O ,\\O tylko\\O z\\O ni\u017cszej\\O p\u00f3\u0142ki\\O )\\O ,\\O przy\\O najbli\u017cszym\\O zakupie\\O zastanowi\u0119\\O si\u0119\\O dwa\\O razy\\O nim\\O wybior\u0119\\O mysz\\O tej\\O marki\\O .\\O",
+                "opinion_tags": "Kupi\u0142\\O em\\O ze\\O wzgl\u0119du\\O na\\O d\u0142ugi\\O czas\\O pracy\\O na\\O baterii\\O (\\O od\\O stycznia\\O mam\\O ten\\O sam\\O zestaw\\O i\\O nie\\O zanosi\\O si\u0119\\O by\\O mia\u0142y\\O si\u0119\\O szybko\\O roz\u0142adowa\u0107\\O )\\O i\\O przyciski\\O pod\\O kciukiem\\O (\\O mog\u0142y\\B by\\I dzia\u0142a\u0107\\I lepiej\\I ,\\O ale\\O c\u00f3\u017c\\O )\\O -\\O niestety\\O ze\\O wzgl\u0119du\\O na\\O problematyczno\u015b\u0107\\O oraz\\O gorsz\u0105\\O jako\u015b\u0107\\O \u015bledzenia\\O ruchu\\O na\\O improwizowanych\\O powierzchniach\\O ,\\O ni\u017c\\O wszystkie\\O moje\\O poprzednie\\O myszki\\O (\\O te\u017c\\O logitecha\\O ,\\O tylko\\O z\\O ni\u017cszej\\O p\u00f3\u0142ki\\O )\\O ,\\O przy\\O najbli\u017cszym\\O zakupie\\O zastanowi\u0119\\O si\u0119\\O dwa\\O razy\\O nim\\O wybior\u0119\\O mysz\\O tej\\O marki\\O .\\O",
+                "sentiment": "neutral"
+            },
+            {
+                "uuid": "7f135039-6b21-48b0-833f-940a3988973e",
+                "target_tags": "Kupi\u0142\\O em\\O ze\\O wzgl\u0119du\\O na\\O d\u0142ugi\\O czas\\B pracy\\I na\\I baterii\\I (\\O od\\O stycznia\\O mam\\O ten\\O sam\\O zestaw\\O i\\O nie\\O zanosi\\O si\u0119\\O by\\O mia\u0142y\\O si\u0119\\O szybko\\O roz\u0142adowa\u0107\\O )\\O i\\O przyciski\\O pod\\O kciukiem\\O (\\O mog\u0142y\\O by\\O dzia\u0142a\u0107\\O lepiej\\O ,\\O ale\\O c\u00f3\u017c\\O )\\O -\\O niestety\\O ze\\O wzgl\u0119du\\O na\\O problematyczno\u015b\u0107\\O oraz\\O gorsz\u0105\\O jako\u015b\u0107\\O \u015bledzenia\\O ruchu\\O na\\O improwizowanych\\O powierzchniach\\O ,\\O ni\u017c\\O wszystkie\\O moje\\O poprzednie\\O myszki\\O (\\O te\u017c\\O logitecha\\O ,\\O tylko\\O z\\O ni\u017cszej\\O p\u00f3\u0142ki\\O )\\O ,\\O przy\\O najbli\u017cszym\\O zakupie\\O zastanowi\u0119\\O si\u0119\\O dwa\\O razy\\O nim\\O wybior\u0119\\O mysz\\O tej\\O marki\\O .\\O",
+                "opinion_tags": "Kupi\u0142\\O em\\O ze\\O wzgl\u0119du\\O na\\O d\u0142ugi\\B czas\\O pracy\\O na\\O baterii\\O (\\O od\\O stycznia\\O mam\\O ten\\O sam\\O zestaw\\O i\\O nie\\O zanosi\\O si\u0119\\O by\\O mia\u0142y\\O si\u0119\\O szybko\\O roz\u0142adowa\u0107\\O )\\O i\\O przyciski\\O pod\\O kciukiem\\O (\\O mog\u0142y\\O by\\O dzia\u0142a\u0107\\O lepiej\\O ,\\O ale\\O c\u00f3\u017c\\O )\\O -\\O niestety\\O ze\\O wzgl\u0119du\\O na\\O problematyczno\u015b\u0107\\O oraz\\O gorsz\u0105\\O jako\u015b\u0107\\O \u015bledzenia\\O ruchu\\O na\\O improwizowanych\\O powierzchniach\\O ,\\O ni\u017c\\O wszystkie\\O moje\\O poprzednie\\O myszki\\O (\\O te\u017c\\O logitecha\\O ,\\O tylko\\O z\\O ni\u017cszej\\O p\u00f3\u0142ki\\O )\\O ,\\O przy\\O najbli\u017cszym\\O zakupie\\O zastanowi\u0119\\O si\u0119\\O dwa\\O razy\\O nim\\O wybior\u0119\\O mysz\\O tej\\O marki\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "48e3ba01-559c-4ff5-b9b8-d29d6e1b1e1e",
+                "target_tags": "Kupi\u0142\\O em\\O ze\\O wzgl\u0119du\\O na\\O d\u0142ugi\\O czas\\O pracy\\O na\\O baterii\\O (\\O od\\O stycznia\\O mam\\O ten\\O sam\\O zestaw\\O i\\O nie\\O zanosi\\O si\u0119\\O by\\O mia\u0142y\\O si\u0119\\O szybko\\O roz\u0142adowa\u0107\\O )\\O i\\O przyciski\\O pod\\O kciukiem\\O (\\O mog\u0142y\\O by\\O dzia\u0142a\u0107\\O lepiej\\O ,\\O ale\\O c\u00f3\u017c\\O )\\O -\\O niestety\\O ze\\O wzgl\u0119du\\O na\\O problematyczno\u015b\u0107\\O oraz\\O gorsz\u0105\\O jako\u015b\u0107\\B \u015bledzenia\\I ruchu\\I na\\I improwizowanych\\I powierzchniach\\I ,\\O ni\u017c\\O wszystkie\\O moje\\O poprzednie\\O myszki\\O (\\O te\u017c\\O logitecha\\O ,\\O tylko\\O z\\O ni\u017cszej\\O p\u00f3\u0142ki\\O )\\O ,\\O przy\\O najbli\u017cszym\\O zakupie\\O zastanowi\u0119\\O si\u0119\\O dwa\\O razy\\O nim\\O wybior\u0119\\O mysz\\O tej\\O marki\\O .\\O",
+                "opinion_tags": "Kupi\u0142\\O em\\O ze\\O wzgl\u0119du\\O na\\O d\u0142ugi\\O czas\\O pracy\\O na\\O baterii\\O (\\O od\\O stycznia\\O mam\\O ten\\O sam\\O zestaw\\O i\\O nie\\O zanosi\\O si\u0119\\O by\\O mia\u0142y\\O si\u0119\\O szybko\\O roz\u0142adowa\u0107\\O )\\O i\\O przyciski\\O pod\\O kciukiem\\O (\\O mog\u0142y\\O by\\O dzia\u0142a\u0107\\O lepiej\\O ,\\O ale\\O c\u00f3\u017c\\O )\\O -\\O niestety\\O ze\\O wzgl\u0119du\\O na\\O problematyczno\u015b\u0107\\O oraz\\O gorsz\u0105\\B jako\u015b\u0107\\O \u015bledzenia\\O ruchu\\O na\\O improwizowanych\\O powierzchniach\\O ,\\O ni\u017c\\O wszystkie\\O moje\\O poprzednie\\O myszki\\O (\\O te\u017c\\O logitecha\\O ,\\O tylko\\O z\\O ni\u017cszej\\O p\u00f3\u0142ki\\O )\\O ,\\O przy\\O najbli\u017cszym\\O zakupie\\O zastanowi\u0119\\O si\u0119\\O dwa\\O razy\\O nim\\O wybior\u0119\\O mysz\\O tej\\O marki\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "sentence": "Bateria godna potwora , bardzo du\u017ca .",
+        "triplets": [
+            {
+                "uuid": "2e0ecee0-a812-440a-a769-ce5d7748fc68",
+                "target_tags": "Bateria\\B godna\\O potwora\\O ,\\O bardzo\\O du\u017ca\\O .\\O",
+                "opinion_tags": "Bateria\\O godna\\O potwora\\O ,\\O bardzo\\B du\u017ca\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "sentence": "To opr\u00f3cz grafiki , muzyki , sterowno\u015bci jeden z tych aspekt\u00f3w , kt\u00f3re \u015bwiadcz\u0105 o tym , \u017ce gra jest dobra .",
+        "triplets": [
+            {
+                "uuid": "e8b54ccc-a284-4c76-b5e8-f0d666bf0ce9",
+                "target_tags": "To\\O opr\u00f3cz\\O grafiki\\O ,\\O muzyki\\O ,\\O sterowno\u015bci\\O jeden\\O z\\O tych\\O aspekt\u00f3w\\O ,\\O kt\u00f3re\\O \u015bwiadcz\u0105\\O o\\O tym\\O ,\\O \u017ce\\O gra\\B jest\\O dobra\\O .\\O",
+                "opinion_tags": "To\\O opr\u00f3cz\\O grafiki\\O ,\\O muzyki\\O ,\\O sterowno\u015bci\\O jeden\\O z\\O tych\\O aspekt\u00f3w\\O ,\\O kt\u00f3re\\O \u015bwiadcz\u0105\\O o\\O tym\\O ,\\O \u017ce\\O gra\\O jest\\O dobra\\B .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 332,
+        "sentence": "Jedzenia znajduje si\u0119 w \u015brednio wygodnej puszce .",
+        "triplets": [
+            {
+                "uuid": "4b113d0b-6460-47b3-99f8-4939f93ce684",
+                "target_tags": "Jedzenia\\O znajduje\\O si\u0119\\O w\\O \u015brednio\\O wygodnej\\O puszce\\B .\\O",
+                "opinion_tags": "Jedzenia\\O znajduje\\O si\u0119\\O w\\O \u015brednio\\B wygodnej\\I puszce\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "sentence": "Na plus s\u0105 dwie pary wej\u015b\u0107 RCA .",
+        "triplets": [
+            {
+                "uuid": "90430827-f35f-4672-87c8-df8ec73d0418",
+                "target_tags": "Na\\O plus\\O s\u0105\\O dwie\\B pary\\I wej\u015b\u0107\\I RCA\\I .\\O",
+                "opinion_tags": "Na\\B plus\\I s\u0105\\O dwie\\O pary\\O wej\u015b\u0107\\O RCA\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "sentence": "System w wiadrze nie wyciska wody .",
+        "triplets": [
+            {
+                "uuid": "5cf9aa18-778f-439d-91b9-c77b9916f743",
+                "target_tags": "System\\B w\\I wiadrze\\I nie\\O wyciska\\O wody\\O .\\O",
+                "opinion_tags": "System\\O w\\O wiadrze\\O nie\\B wyciska\\I wody\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "sentence": "Bardzo si\u0119 zawiod\u0142a m na tym produkcie .",
+        "triplets": [
+            {
+                "uuid": "26ad1c9c-ebf7-4f6d-b4f7-e794f47cc987",
+                "target_tags": "Bardzo\\O si\u0119\\O zawiod\u0142a\\O m\\O na\\O tym\\O produkcie\\B .\\O",
+                "opinion_tags": "Bardzo\\B si\u0119\\I zawiod\u0142a\\I m\\I na\\O tym\\O produkcie\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "sentence": "Jako\u015b\u0107 mikrofonu jest dobra , przynajmniej taki dostaje odzew od znajomych .",
+        "triplets": [
+            {
+                "uuid": "6be751b6-484c-464b-9181-71c1119b09a6",
+                "target_tags": "Jako\u015b\u0107\\B mikrofonu\\I jest\\O dobra\\O ,\\O przynajmniej\\O taki\\O dostaje\\O odzew\\O od\\O znajomych\\O .\\O",
+                "opinion_tags": "Jako\u015b\u0107\\O mikrofonu\\O jest\\O dobra\\B ,\\O przynajmniej\\O taki\\O dostaje\\O odzew\\O od\\O znajomych\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "sentence": "Ot\u00f3\u017c diody \u015bwiec\u0105 g\u0142\u00f3wnie po oczach , zamiast na klawisze .",
+        "triplets": [
+            {
+                "uuid": "1d77301f-b212-4bd8-a3d8-542ec6f8f998",
+                "target_tags": "Ot\u00f3\u017c\\O diody\\B \u015bwiec\u0105\\O g\u0142\u00f3wnie\\O po\\O oczach\\O ,\\O zamiast\\O na\\O klawisze\\O .\\O",
+                "opinion_tags": "Ot\u00f3\u017c\\O diody\\O \u015bwiec\u0105\\B g\u0142\u00f3wnie\\I po\\I oczach\\I ,\\O zamiast\\O na\\O klawisze\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 392,
+        "sentence": "Od lat u\u017cywam najr\u00f3\u017cniejszych marek i nie - marek ale tabletki Ludwika s\u0105 zdecydowanie najgorsze .",
+        "triplets": [
+            {
+                "uuid": "f3b22ab7-51b4-4609-89ed-b100b33d0683",
+                "target_tags": "Od\\O lat\\O u\u017cywam\\O najr\u00f3\u017cniejszych\\O marek\\O i\\O nie\\O -\\O marek\\O ale\\O tabletki\\B Ludwika\\O s\u0105\\O zdecydowanie\\O najgorsze\\O .\\O",
+                "opinion_tags": "Od\\O lat\\O u\u017cywam\\O najr\u00f3\u017cniejszych\\O marek\\O i\\O nie\\O -\\O marek\\O ale\\O tabletki\\O Ludwika\\O s\u0105\\O zdecydowanie\\B najgorsze\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "sentence": "Wi\u0119kszo\u015b\u0107 pomys\u0142\u00f3w udoskonalenia w tej grze jest oryginalna co bardzo umila rozgrywk\u0119 .",
+        "triplets": [
+            {
+                "uuid": "26b899ce-deb3-4ef1-a107-9dffa46c4c0d",
+                "target_tags": "Wi\u0119kszo\u015b\u0107\\O pomys\u0142\u00f3w\\B udoskonalenia\\I w\\O tej\\O grze\\O jest\\O oryginalna\\O co\\O bardzo\\O umila\\O rozgrywk\u0119\\O .\\O",
+                "opinion_tags": "Wi\u0119kszo\u015b\u0107\\O pomys\u0142\u00f3w\\O udoskonalenia\\O w\\O tej\\O grze\\O jest\\O oryginalna\\B co\\O bardzo\\O umila\\O rozgrywk\u0119\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 336,
+        "sentence": "nowa sokowir\u00f3wka zelmera nie dzia\u0142a .",
+        "triplets": [
+            {
+                "uuid": "b430e7cf-9ab8-4195-bdbb-9bc4d633336a",
+                "target_tags": "nowa\\O sokowir\u00f3wka\\B zelmera\\O nie\\O dzia\u0142a\\O .\\O",
+                "opinion_tags": "nowa\\O sokowir\u00f3wka\\O zelmera\\O nie\\B dzia\u0142a\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "sentence": "Mam t\u0119 myszk\u0119 od trzech miesi\u0119cy i jej \u017cywot dobiega ko\u0144ca pomimo \u017ce u\u017cywam nie wi\u0119cej ni\u017c 2 - 3 godziny dziennie .",
+        "triplets": [
+            {
+                "uuid": "7f566778-5257-4650-ade2-3c2f7203356f",
+                "target_tags": "Mam\\O t\u0119\\O myszk\u0119\\B od\\O trzech\\O miesi\u0119cy\\O i\\O jej\\O \u017cywot\\O dobiega\\O ko\u0144ca\\O pomimo\\O \u017ce\\O u\u017cywam\\O nie\\O wi\u0119cej\\O ni\u017c\\O 2\\O -\\O 3\\O godziny\\O dziennie\\O .\\O",
+                "opinion_tags": "Mam\\O t\u0119\\O myszk\u0119\\O od\\O trzech\\O miesi\u0119cy\\O i\\O jej\\B \u017cywot\\I dobiega\\I ko\u0144ca\\I pomimo\\O \u017ce\\O u\u017cywam\\O nie\\O wi\u0119cej\\O ni\u017c\\O 2\\O -\\O 3\\O godziny\\O dziennie\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "sentence": "Z kolei PHILIPS MCM3000 odstraszy\u0142 mnie cen\u0105 i jako\u015bci\u0105 wykonania ( plastik i wszystko lu\u017ane ) , cho\u0107 d\u017awi\u0119k mia\u0142 te\u017c bardzo ciekawy .",
+        "triplets": [
+            {
+                "uuid": "a9758ff9-eb54-44a3-b53a-e0bbce0f21a7",
+                "target_tags": "Z\\O kolei\\O PHILIPS\\O MCM3000\\O odstraszy\u0142\\O mnie\\O cen\u0105\\O i\\O jako\u015bci\u0105\\O wykonania\\O (\\O plastik\\O i\\O wszystko\\O lu\u017ane\\O )\\O ,\\O cho\u0107\\O d\u017awi\u0119k\\B mia\u0142\\O te\u017c\\O bardzo\\O ciekawy\\O .\\O",
+                "opinion_tags": "Z\\O kolei\\O PHILIPS\\O MCM3000\\O odstraszy\u0142\\O mnie\\O cen\u0105\\O i\\O jako\u015bci\u0105\\O wykonania\\O (\\O plastik\\O i\\O wszystko\\O lu\u017ane\\O )\\O ,\\O cho\u0107\\O d\u017awi\u0119k\\O mia\u0142\\O te\u017c\\O bardzo\\O ciekawy\\B .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "e2018c1c-58de-49bb-a9a7-e21bbabc4663",
+                "target_tags": "Z\\O kolei\\O PHILIPS\\O MCM3000\\O odstraszy\u0142\\O mnie\\O cen\u0105\\B i\\O jako\u015bci\u0105\\O wykonania\\O (\\O plastik\\O i\\O wszystko\\O lu\u017ane\\O )\\O ,\\O cho\u0107\\O d\u017awi\u0119k\\O mia\u0142\\O te\u017c\\O bardzo\\O ciekawy\\O .\\O",
+                "opinion_tags": "Z\\O kolei\\O PHILIPS\\O MCM3000\\O odstraszy\u0142\\B mnie\\I cen\u0105\\O i\\O jako\u015bci\u0105\\O wykonania\\O (\\O plastik\\O i\\O wszystko\\O lu\u017ane\\O )\\O ,\\O cho\u0107\\O d\u017awi\u0119k\\O mia\u0142\\O te\u017c\\O bardzo\\O ciekawy\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "5f11f041-d340-4f0b-9737-f17aeea302f4",
+                "target_tags": "Z\\O kolei\\O PHILIPS\\O MCM3000\\O odstraszy\u0142\\O mnie\\O cen\u0105\\O i\\O jako\u015bci\u0105\\B wykonania\\O (\\O plastik\\O i\\O wszystko\\O lu\u017ane\\O )\\O ,\\O cho\u0107\\O d\u017awi\u0119k\\O mia\u0142\\O te\u017c\\O bardzo\\O ciekawy\\O .\\O",
+                "opinion_tags": "Z\\O kolei\\O PHILIPS\\O MCM3000\\O odstraszy\u0142\\B mnie\\I cen\u0105\\O i\\O jako\u015bci\u0105\\O wykonania\\O (\\O plastik\\O i\\O wszystko\\O lu\u017ane\\O )\\O ,\\O cho\u0107\\O d\u017awi\u0119k\\O mia\u0142\\O te\u017c\\O bardzo\\O ciekawy\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 318,
+        "sentence": "Na okularach dekiel za du\u017cy , jakby nie z tego modelu , ( sprawdza\u0142 em wszystkie lornetki tej serii maj\u0105 ten sam dekiel ) .",
+        "triplets": [
+            {
+                "uuid": "0f3b7c1b-b455-47c8-a981-d329e8c10966",
+                "target_tags": "Na\\O okularach\\O dekiel\\B za\\O du\u017cy\\O ,\\O jakby\\O nie\\O z\\O tego\\O modelu\\O ,\\O (\\O sprawdza\u0142\\O em\\O wszystkie\\O lornetki\\O tej\\O serii\\O maj\u0105\\O ten\\O sam\\O dekiel\\O )\\O .\\O",
+                "opinion_tags": "Na\\O okularach\\O dekiel\\O za\\B du\u017cy\\I ,\\O jakby\\O nie\\O z\\O tego\\O modelu\\O ,\\O (\\O sprawdza\u0142\\O em\\O wszystkie\\O lornetki\\O tej\\O serii\\O maj\u0105\\O ten\\O sam\\O dekiel\\O )\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 270,
+        "sentence": "Bateria starcza na bardzo d\u0142ugo , spokojne ponad tydzie\u0144 przy intensywnym u\u017cytkowaniu .",
+        "triplets": [
+            {
+                "uuid": "c042772f-f2e8-491a-9d3f-9ec19ac9f1d8",
+                "target_tags": "Bateria\\B starcza\\O na\\O bardzo\\O d\u0142ugo\\O ,\\O spokojne\\O ponad\\O tydzie\u0144\\O przy\\O intensywnym\\O u\u017cytkowaniu\\O .\\O",
+                "opinion_tags": "Bateria\\O starcza\\B na\\I bardzo\\I d\u0142ugo\\I ,\\O spokojne\\O ponad\\O tydzie\u0144\\O przy\\O intensywnym\\O u\u017cytkowaniu\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 471,
+        "sentence": "Gra posiada pi\u0119kn\u0105 , w pe\u0142ni tr\u00f3jwymiarow\u0105 opraw\u0119 graficzn\u0105 , kt\u00f3r\u0105 mo\u017cemy zniszczy\u0107 na skutek walki , liczne przedmioty pozostawione na planszy mo\u017cemy wykorzysta\u0107 w walce zadaj\u0105c \u015bmiertelne ciosy .",
+        "triplets": [
+            {
+                "uuid": "3368aaf1-725d-4f73-832c-0e30059d5273",
+                "target_tags": "Gra\\O posiada\\O pi\u0119kn\u0105\\O ,\\O w\\O pe\u0142ni\\O tr\u00f3jwymiarow\u0105\\O opraw\u0119\\B graficzn\u0105\\I ,\\O kt\u00f3r\u0105\\O mo\u017cemy\\O zniszczy\u0107\\O na\\O skutek\\O walki\\O ,\\O liczne\\O przedmioty\\O pozostawione\\O na\\O planszy\\O mo\u017cemy\\O wykorzysta\u0107\\O w\\O walce\\O zadaj\u0105c\\O \u015bmiertelne\\O ciosy\\O .\\O",
+                "opinion_tags": "Gra\\O posiada\\O pi\u0119kn\u0105\\O ,\\O w\\B pe\u0142ni\\I tr\u00f3jwymiarow\u0105\\I opraw\u0119\\O graficzn\u0105\\O ,\\O kt\u00f3r\u0105\\O mo\u017cemy\\O zniszczy\u0107\\O na\\O skutek\\O walki\\O ,\\O liczne\\O przedmioty\\O pozostawione\\O na\\O planszy\\O mo\u017cemy\\O wykorzysta\u0107\\O w\\O walce\\O zadaj\u0105c\\O \u015bmiertelne\\O ciosy\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "088d9560-e384-4f8c-8286-948541d85fe1",
+                "target_tags": "Gra\\O posiada\\O pi\u0119kn\u0105\\O ,\\O w\\O pe\u0142ni\\O tr\u00f3jwymiarow\u0105\\O opraw\u0119\\B graficzn\u0105\\I ,\\O kt\u00f3r\u0105\\O mo\u017cemy\\O zniszczy\u0107\\O na\\O skutek\\O walki\\O ,\\O liczne\\O przedmioty\\O pozostawione\\O na\\O planszy\\O mo\u017cemy\\O wykorzysta\u0107\\O w\\O walce\\O zadaj\u0105c\\O \u015bmiertelne\\O ciosy\\O .\\O",
+                "opinion_tags": "Gra\\O posiada\\O pi\u0119kn\u0105\\B ,\\O w\\O pe\u0142ni\\O tr\u00f3jwymiarow\u0105\\O opraw\u0119\\O graficzn\u0105\\O ,\\O kt\u00f3r\u0105\\O mo\u017cemy\\O zniszczy\u0107\\O na\\O skutek\\O walki\\O ,\\O liczne\\O przedmioty\\O pozostawione\\O na\\O planszy\\O mo\u017cemy\\O wykorzysta\u0107\\O w\\O walce\\O zadaj\u0105c\\O \u015bmiertelne\\O ciosy\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 398,
+        "sentence": "Przekrzywiona konstrukcja gara\u017cu sprawia , \u017ce zacinaj\u0105 si\u0119 podnoszone wrota .",
+        "triplets": [
+            {
+                "uuid": "3bb6d295-fa7b-43f8-a7c5-94e9b460f85d",
+                "target_tags": "Przekrzywiona\\O konstrukcja\\O gara\u017cu\\O sprawia\\O ,\\O \u017ce\\O zacinaj\u0105\\O si\u0119\\O podnoszone\\B wrota\\I .\\O",
+                "opinion_tags": "Przekrzywiona\\O konstrukcja\\O gara\u017cu\\O sprawia\\O ,\\O \u017ce\\O zacinaj\u0105\\B si\u0119\\I podnoszone\\O wrota\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 400,
+        "sentence": "Telefon godny polecenia - mimo , \u017ce bud\u017cetowiec ekran naprawd\u0119 pozytywnie zaskakuje - jest jasny , o bardzo dobrym kontra\u015bcie i k\u0105tach widzenia - mimo rozdzielczo\u015bci 720 x 1280 przy 5 .",
+        "triplets": [
+            {
+                "uuid": "861ca297-422c-4db6-9f67-866e91622e22",
+                "target_tags": "Telefon\\B godny\\O polecenia\\O -\\O mimo\\O ,\\O \u017ce\\O bud\u017cetowiec\\O ekran\\O naprawd\u0119\\O pozytywnie\\O zaskakuje\\O -\\O jest\\O jasny\\O ,\\O o\\O bardzo\\O dobrym\\O kontra\u015bcie\\O i\\O k\u0105tach\\O widzenia\\O -\\O mimo\\O rozdzielczo\u015bci\\O 720\\O x\\O 1280\\O przy\\O 5\\O .\\O",
+                "opinion_tags": "Telefon\\O godny\\B polecenia\\I -\\O mimo\\O ,\\O \u017ce\\O bud\u017cetowiec\\O ekran\\O naprawd\u0119\\O pozytywnie\\O zaskakuje\\O -\\O jest\\O jasny\\O ,\\O o\\O bardzo\\O dobrym\\O kontra\u015bcie\\O i\\O k\u0105tach\\O widzenia\\O -\\O mimo\\O rozdzielczo\u015bci\\O 720\\O x\\O 1280\\O przy\\O 5\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "7af40a24-f05f-441c-aa81-105edef697a9",
+                "target_tags": "Telefon\\O godny\\O polecenia\\O -\\O mimo\\O ,\\O \u017ce\\O bud\u017cetowiec\\O ekran\\B naprawd\u0119\\O pozytywnie\\O zaskakuje\\O -\\O jest\\O jasny\\O ,\\O o\\O bardzo\\O dobrym\\O kontra\u015bcie\\O i\\O k\u0105tach\\O widzenia\\O -\\O mimo\\O rozdzielczo\u015bci\\O 720\\O x\\O 1280\\O przy\\O 5\\O .\\O",
+                "opinion_tags": "Telefon\\O godny\\O polecenia\\O -\\O mimo\\O ,\\O \u017ce\\O bud\u017cetowiec\\O ekran\\O naprawd\u0119\\O pozytywnie\\B zaskakuje\\I -\\O jest\\O jasny\\O ,\\O o\\O bardzo\\O dobrym\\O kontra\u015bcie\\O i\\O k\u0105tach\\O widzenia\\O -\\O mimo\\O rozdzielczo\u015bci\\O 720\\O x\\O 1280\\O przy\\O 5\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "468c47d1-dc3b-4f87-a00e-bfa464bcb72e",
+                "target_tags": "Telefon\\B godny\\O polecenia\\O -\\O mimo\\O ,\\O \u017ce\\O bud\u017cetowiec\\O ekran\\O naprawd\u0119\\O pozytywnie\\O zaskakuje\\O -\\O jest\\O jasny\\O ,\\O o\\O bardzo\\O dobrym\\O kontra\u015bcie\\O i\\O k\u0105tach\\O widzenia\\O -\\O mimo\\O rozdzielczo\u015bci\\O 720\\O x\\O 1280\\O przy\\O 5\\O .\\O",
+                "opinion_tags": "Telefon\\O godny\\O polecenia\\O -\\O mimo\\O ,\\O \u017ce\\O bud\u017cetowiec\\B ekran\\O naprawd\u0119\\O pozytywnie\\O zaskakuje\\O -\\O jest\\O jasny\\O ,\\O o\\O bardzo\\O dobrym\\O kontra\u015bcie\\O i\\O k\u0105tach\\O widzenia\\O -\\O mimo\\O rozdzielczo\u015bci\\O 720\\O x\\O 1280\\O przy\\O 5\\O .\\O",
+                "sentiment": "neutral"
+            },
+            {
+                "uuid": "7905390e-5fa3-46cb-bb6a-a3aa49b07761",
+                "target_tags": "Telefon\\O godny\\O polecenia\\O -\\O mimo\\O ,\\O \u017ce\\O bud\u017cetowiec\\O ekran\\B naprawd\u0119\\O pozytywnie\\O zaskakuje\\O -\\O jest\\O jasny\\O ,\\O o\\O bardzo\\O dobrym\\O kontra\u015bcie\\O i\\O k\u0105tach\\O widzenia\\O -\\O mimo\\O rozdzielczo\u015bci\\O 720\\O x\\O 1280\\O przy\\O 5\\O .\\O",
+                "opinion_tags": "Telefon\\O godny\\O polecenia\\O -\\O mimo\\O ,\\O \u017ce\\O bud\u017cetowiec\\O ekran\\O naprawd\u0119\\O pozytywnie\\O zaskakuje\\O -\\O jest\\O jasny\\O ,\\O o\\O bardzo\\B dobrym\\I kontra\u015bcie\\I i\\I k\u0105tach\\I widzenia\\I -\\O mimo\\O rozdzielczo\u015bci\\O 720\\O x\\O 1280\\O przy\\O 5\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "698680a5-1656-4478-88e1-42ed2998e33d",
+                "target_tags": "Telefon\\O godny\\O polecenia\\O -\\O mimo\\O ,\\O \u017ce\\O bud\u017cetowiec\\O ekran\\B naprawd\u0119\\O pozytywnie\\O zaskakuje\\O -\\O jest\\O jasny\\O ,\\O o\\O bardzo\\O dobrym\\O kontra\u015bcie\\O i\\O k\u0105tach\\O widzenia\\O -\\O mimo\\O rozdzielczo\u015bci\\O 720\\O x\\O 1280\\O przy\\O 5\\O .\\O",
+                "opinion_tags": "Telefon\\O godny\\O polecenia\\O -\\O mimo\\O ,\\O \u017ce\\O bud\u017cetowiec\\O ekran\\O naprawd\u0119\\O pozytywnie\\O zaskakuje\\O -\\O jest\\O jasny\\B ,\\O o\\O bardzo\\O dobrym\\O kontra\u015bcie\\O i\\O k\u0105tach\\O widzenia\\O -\\O mimo\\O rozdzielczo\u015bci\\O 720\\O x\\O 1280\\O przy\\O 5\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 487,
+        "sentence": "Mysz ta \u015bwietnie nadaje si\u0119 do codziennego u\u017cytku jak i do gier ( bardzo przydaje si\u0119 cieniutki i leciutki kabelek ) .",
+        "triplets": [
+            {
+                "uuid": "80b60d61-6e8d-4556-863c-89c23f441694",
+                "target_tags": "Mysz\\B ta\\O \u015bwietnie\\O nadaje\\O si\u0119\\O do\\O codziennego\\O u\u017cytku\\O jak\\O i\\O do\\O gier\\O (\\O bardzo\\O przydaje\\O si\u0119\\O cieniutki\\O i\\O leciutki\\O kabelek\\O )\\O .\\O",
+                "opinion_tags": "Mysz\\O ta\\O \u015bwietnie\\B nadaje\\I si\u0119\\I do\\I codziennego\\I u\u017cytku\\I jak\\I i\\I do\\I gier\\I (\\O bardzo\\O przydaje\\O si\u0119\\O cieniutki\\O i\\O leciutki\\O kabelek\\O )\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "32595f71-97f2-4179-a8bc-b293fe40987d",
+                "target_tags": "Mysz\\O ta\\O \u015bwietnie\\O nadaje\\O si\u0119\\O do\\O codziennego\\O u\u017cytku\\O jak\\O i\\O do\\O gier\\O (\\O bardzo\\O przydaje\\O si\u0119\\O cieniutki\\O i\\O leciutki\\O kabelek\\B )\\O .\\O",
+                "opinion_tags": "Mysz\\O ta\\O \u015bwietnie\\O nadaje\\O si\u0119\\O do\\O codziennego\\O u\u017cytku\\O jak\\O i\\O do\\O gier\\O (\\O bardzo\\O przydaje\\O si\u0119\\O cieniutki\\O i\\O leciutki\\B kabelek\\O )\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "ecbbe23f-c91e-4bcb-988d-ae83a8be31a5",
+                "target_tags": "Mysz\\O ta\\O \u015bwietnie\\O nadaje\\O si\u0119\\O do\\O codziennego\\O u\u017cytku\\O jak\\O i\\O do\\O gier\\O (\\O bardzo\\O przydaje\\O si\u0119\\O cieniutki\\O i\\O leciutki\\O kabelek\\B )\\O .\\O",
+                "opinion_tags": "Mysz\\O ta\\O \u015bwietnie\\O nadaje\\O si\u0119\\O do\\O codziennego\\O u\u017cytku\\O jak\\O i\\O do\\O gier\\O (\\O bardzo\\O przydaje\\O si\u0119\\O cieniutki\\B i\\O leciutki\\O kabelek\\O )\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 459,
+        "sentence": "Na szcz\u0119\u015bcie posiedzenie na najwy\u017cszym poziomie nie trwa d\u0142ugo , bo mechanizm podnosz\u0105cy przesta\u0142 trzyma\u0107 i krzes\u0142o samoistnie pod ci\u0119\u017carem siedz\u0105cego opuszcza si\u0119 !",
+        "triplets": [
+            {
+                "uuid": "a66932f9-862d-42ee-a997-188a74993111",
+                "target_tags": "Na\\O szcz\u0119\u015bcie\\O posiedzenie\\O na\\O najwy\u017cszym\\O poziomie\\O nie\\O trwa\\O d\u0142ugo\\O ,\\O bo\\O mechanizm\\B podnosz\u0105cy\\I przesta\u0142\\O trzyma\u0107\\O i\\O krzes\u0142o\\O samoistnie\\O pod\\O ci\u0119\u017carem\\O siedz\u0105cego\\O opuszcza\\O si\u0119\\O !\\O",
+                "opinion_tags": "Na\\O szcz\u0119\u015bcie\\O posiedzenie\\O na\\O najwy\u017cszym\\O poziomie\\O nie\\O trwa\\O d\u0142ugo\\O ,\\O bo\\O mechanizm\\O podnosz\u0105cy\\O przesta\u0142\\B trzyma\u0107\\I i\\O krzes\u0142o\\O samoistnie\\O pod\\O ci\u0119\u017carem\\O siedz\u0105cego\\O opuszcza\\O si\u0119\\O !\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "cd607832-a981-4241-b58a-602ac7b4a45f",
+                "target_tags": "Na\\O szcz\u0119\u015bcie\\O posiedzenie\\O na\\O najwy\u017cszym\\O poziomie\\O nie\\O trwa\\O d\u0142ugo\\O ,\\O bo\\O mechanizm\\B podnosz\u0105cy\\I przesta\u0142\\O trzyma\u0107\\O i\\O krzes\u0142o\\O samoistnie\\O pod\\O ci\u0119\u017carem\\O siedz\u0105cego\\O opuszcza\\O si\u0119\\O !\\O",
+                "opinion_tags": "Na\\O szcz\u0119\u015bcie\\O posiedzenie\\O na\\O najwy\u017cszym\\O poziomie\\O nie\\O trwa\\O d\u0142ugo\\O ,\\O bo\\O mechanizm\\O podnosz\u0105cy\\O przesta\u0142\\O trzyma\u0107\\O i\\O krzes\u0142o\\O samoistnie\\B pod\\I ci\u0119\u017carem\\I siedz\u0105cego\\I opuszcza\\I si\u0119\\I !\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 370,
+        "sentence": "z tv , samochodem czy cho\u0107by ze smartfonami trzeba spr\u00f3bowa\u0107 czego\u015b innego mimo \u017ce obecny telefon jest \u015bwietny .",
+        "triplets": [
+            {
+                "uuid": "7f29a44c-eaeb-47cd-9792-a44cb72c2202",
+                "target_tags": "z\\O tv\\O ,\\O samochodem\\O czy\\O cho\u0107by\\O ze\\O smartfonami\\O trzeba\\O spr\u00f3bowa\u0107\\O czego\u015b\\O innego\\O mimo\\O \u017ce\\O obecny\\O telefon\\B jest\\O \u015bwietny\\O .\\O",
+                "opinion_tags": "z\\O tv\\O ,\\O samochodem\\O czy\\O cho\u0107by\\O ze\\O smartfonami\\O trzeba\\O spr\u00f3bowa\u0107\\O czego\u015b\\O innego\\O mimo\\O \u017ce\\O obecny\\O telefon\\O jest\\O \u015bwietny\\B .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "sentence": "Skusi\u0142 em si\u0119 dobrymi parametrami podanymi przez producenta i relatywnie nisk\u0105 cen\u0105 jak na takie w\u0142a\u015bnie parametry .",
+        "triplets": [
+            {
+                "uuid": "604e491b-68d2-4e32-9be8-721e183b7950",
+                "target_tags": "Skusi\u0142\\O em\\O si\u0119\\O dobrymi\\O parametrami\\B podanymi\\O przez\\O producenta\\O i\\O relatywnie\\O nisk\u0105\\O cen\u0105\\O jak\\O na\\O takie\\O w\u0142a\u015bnie\\O parametry\\O .\\O",
+                "opinion_tags": "Skusi\u0142\\O em\\O si\u0119\\O dobrymi\\B parametrami\\O podanymi\\O przez\\O producenta\\O i\\O relatywnie\\O nisk\u0105\\O cen\u0105\\O jak\\O na\\O takie\\O w\u0142a\u015bnie\\O parametry\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "80d40e2f-3aa4-4cbe-ab85-30ac66958876",
+                "target_tags": "Skusi\u0142\\O em\\O si\u0119\\O dobrymi\\O parametrami\\O podanymi\\O przez\\O producenta\\O i\\O relatywnie\\O nisk\u0105\\O cen\u0105\\B jak\\O na\\O takie\\O w\u0142a\u015bnie\\O parametry\\O .\\O",
+                "opinion_tags": "Skusi\u0142\\O em\\O si\u0119\\O dobrymi\\O parametrami\\O podanymi\\O przez\\O producenta\\O i\\O relatywnie\\B nisk\u0105\\I cen\u0105\\O jak\\O na\\O takie\\O w\u0142a\u015bnie\\O parametry\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "sentence": ": na pocz\u0105tku nie wiedzia\u0142a m , \u017ce trzeba poczeka\u0107 podczas kr\u0119cenia na zako\u0144czenie sygna\u0142\u00f3w d\u017awi\u0119kowych i zbyt szybko wyjmowa\u0142a m w\u0142osy z lok\u00f3wki , co spowodowa\u0142o , \u017ce efekt kr\u0119cenia by\u0142 s\u0142aby i musia\u0142a m u\u017cywa\u0107 pianki .",
+        "triplets": [
+            {
+                "uuid": "4caee4b7-e49d-402f-9a38-85b4e4578297",
+                "target_tags": ":\\O na\\O pocz\u0105tku\\O nie\\O wiedzia\u0142a\\O m\\O ,\\O \u017ce\\O trzeba\\O poczeka\u0107\\O podczas\\O kr\u0119cenia\\O na\\O zako\u0144czenie\\O sygna\u0142\u00f3w\\O d\u017awi\u0119kowych\\O i\\O zbyt\\O szybko\\O wyjmowa\u0142a\\O m\\O w\u0142osy\\O z\\O lok\u00f3wki\\O ,\\O co\\O spowodowa\u0142o\\O ,\\O \u017ce\\O efekt\\B kr\u0119cenia\\I by\u0142\\O s\u0142aby\\O i\\O musia\u0142a\\O m\\O u\u017cywa\u0107\\O pianki\\O .\\O",
+                "opinion_tags": ":\\O na\\O pocz\u0105tku\\O nie\\O wiedzia\u0142a\\O m\\O ,\\O \u017ce\\O trzeba\\O poczeka\u0107\\O podczas\\O kr\u0119cenia\\O na\\O zako\u0144czenie\\O sygna\u0142\u00f3w\\O d\u017awi\u0119kowych\\O i\\O zbyt\\O szybko\\O wyjmowa\u0142a\\O m\\O w\u0142osy\\O z\\O lok\u00f3wki\\O ,\\O co\\O spowodowa\u0142o\\O ,\\O \u017ce\\O efekt\\O kr\u0119cenia\\O by\u0142\\O s\u0142aby\\B i\\O musia\u0142a\\O m\\O u\u017cywa\u0107\\O pianki\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "sentence": "Nie wiem jak wygl\u0105daj\u0105 pod tym wzgl\u0119dem ta\u0144sze wzmacniacze , jak by nie by\u0142o , moim zdaniem 400 z\u0142 za wzmocnienie sygna\u0142u i \u0142adny design jest wyg\u00f3rowan\u0105 cen\u0105 .",
+        "triplets": [
+            {
+                "uuid": "6b587c76-5e08-43e7-9644-b20ffd076bea",
+                "target_tags": "Nie\\O wiem\\O jak\\O wygl\u0105daj\u0105\\O pod\\O tym\\O wzgl\u0119dem\\O ta\u0144sze\\O wzmacniacze\\O ,\\O jak\\O by\\O nie\\O by\u0142o\\O ,\\O moim\\O zdaniem\\O 400\\O z\u0142\\O za\\O wzmocnienie\\O sygna\u0142u\\O i\\O \u0142adny\\O design\\B jest\\O wyg\u00f3rowan\u0105\\O cen\u0105\\O .\\O",
+                "opinion_tags": "Nie\\O wiem\\O jak\\O wygl\u0105daj\u0105\\O pod\\O tym\\O wzgl\u0119dem\\O ta\u0144sze\\O wzmacniacze\\O ,\\O jak\\O by\\O nie\\O by\u0142o\\O ,\\O moim\\O zdaniem\\O 400\\O z\u0142\\O za\\O wzmocnienie\\O sygna\u0142u\\O i\\O \u0142adny\\B design\\O jest\\O wyg\u00f3rowan\u0105\\O cen\u0105\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "1ff86348-24ba-4755-8e49-6e72c112f365",
+                "target_tags": "Nie\\O wiem\\O jak\\O wygl\u0105daj\u0105\\O pod\\O tym\\O wzgl\u0119dem\\O ta\u0144sze\\O wzmacniacze\\O ,\\O jak\\O by\\O nie\\O by\u0142o\\O ,\\O moim\\O zdaniem\\O 400\\O z\u0142\\O za\\O wzmocnienie\\O sygna\u0142u\\O i\\O \u0142adny\\O design\\O jest\\O wyg\u00f3rowan\u0105\\O cen\u0105\\B .\\O",
+                "opinion_tags": "Nie\\O wiem\\O jak\\O wygl\u0105daj\u0105\\O pod\\O tym\\O wzgl\u0119dem\\O ta\u0144sze\\O wzmacniacze\\O ,\\O jak\\O by\\O nie\\O by\u0142o\\O ,\\O moim\\O zdaniem\\O 400\\O z\u0142\\O za\\O wzmocnienie\\O sygna\u0142u\\O i\\O \u0142adny\\O design\\O jest\\O wyg\u00f3rowan\u0105\\B cen\u0105\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 396,
+        "sentence": "Zabawka jest atrakcyjna i sprawia dziecku du\u017co rado\u015bci .",
+        "triplets": [
+            {
+                "uuid": "7c87076d-2236-4920-b0c6-e81d0f08ce57",
+                "target_tags": "Zabawka\\B jest\\O atrakcyjna\\O i\\O sprawia\\O dziecku\\O du\u017co\\O rado\u015bci\\O .\\O",
+                "opinion_tags": "Zabawka\\O jest\\O atrakcyjna\\B i\\O sprawia\\O dziecku\\O du\u017co\\O rado\u015bci\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "cefefc29-e4c4-4930-ac09-7325cc828804",
+                "target_tags": "Zabawka\\B jest\\O atrakcyjna\\O i\\O sprawia\\O dziecku\\O du\u017co\\O rado\u015bci\\O .\\O",
+                "opinion_tags": "Zabawka\\O jest\\O atrakcyjna\\O i\\O sprawia\\B dziecku\\I du\u017co\\I rado\u015bci\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 500,
+        "sentence": "- wygl\u0105d jest OK , ale to kwestia gustu .",
+        "triplets": [
+            {
+                "uuid": "ec17bc95-a7a2-45fb-8266-ce1ad1ccb151",
+                "target_tags": "-\\O wygl\u0105d\\B jest\\O OK\\O ,\\O ale\\O to\\O kwestia\\O gustu\\O .\\O",
+                "opinion_tags": "-\\O wygl\u0105d\\O jest\\O OK\\B ,\\O ale\\O to\\O kwestia\\O gustu\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 264,
+        "sentence": "Najbardziej obawiam si\u0119 rusztu kt\u00f3ry jest do\u015b\u0107 filigranowy i podejrzewam \u017ce b\u0119dzie najs\u0142abszym elementem zestawu tak czy siak , maj\u0105c nawet szereg zastrze\u017ce\u0144 to relacja ceny do jako\u015bci wypada co najmniej dobrze",
+        "triplets": [
+            {
+                "uuid": "64818a9c-f911-4b79-8bad-058a53511571",
+                "target_tags": "Najbardziej\\O obawiam\\O si\u0119\\O rusztu\\B kt\u00f3ry\\O jest\\O do\u015b\u0107\\O filigranowy\\O i\\O podejrzewam\\O \u017ce\\O b\u0119dzie\\O najs\u0142abszym\\O elementem\\O zestawu\\O tak\\O czy\\O siak\\O ,\\O maj\u0105c\\O nawet\\O szereg\\O zastrze\u017ce\u0144\\O to\\O relacja\\O ceny\\O do\\O jako\u015bci\\O wypada\\O co\\O najmniej\\O dobrze\\O",
+                "opinion_tags": "Najbardziej\\O obawiam\\O si\u0119\\O rusztu\\O kt\u00f3ry\\O jest\\O do\u015b\u0107\\O filigranowy\\B i\\O podejrzewam\\O \u017ce\\O b\u0119dzie\\O najs\u0142abszym\\O elementem\\O zestawu\\O tak\\O czy\\O siak\\O ,\\O maj\u0105c\\O nawet\\O szereg\\O zastrze\u017ce\u0144\\O to\\O relacja\\O ceny\\O do\\O jako\u015bci\\O wypada\\O co\\O najmniej\\O dobrze\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "dde6e40a-3230-421c-9b04-7cc7b3ec0b44",
+                "target_tags": "Najbardziej\\O obawiam\\O si\u0119\\O rusztu\\O kt\u00f3ry\\O jest\\O do\u015b\u0107\\O filigranowy\\O i\\O podejrzewam\\O \u017ce\\O b\u0119dzie\\O najs\u0142abszym\\O elementem\\O zestawu\\O tak\\O czy\\O siak\\O ,\\O maj\u0105c\\O nawet\\O szereg\\O zastrze\u017ce\u0144\\O to\\O relacja\\B ceny\\I do\\I jako\u015bci\\I wypada\\O co\\O najmniej\\O dobrze\\O",
+                "opinion_tags": "Najbardziej\\O obawiam\\O si\u0119\\O rusztu\\O kt\u00f3ry\\O jest\\O do\u015b\u0107\\O filigranowy\\O i\\O podejrzewam\\O \u017ce\\O b\u0119dzie\\O najs\u0142abszym\\O elementem\\O zestawu\\O tak\\O czy\\O siak\\O ,\\O maj\u0105c\\O nawet\\O szereg\\O zastrze\u017ce\u0144\\O to\\O relacja\\O ceny\\O do\\O jako\u015bci\\O wypada\\O co\\B najmniej\\I dobrze\\I",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "sentence": "Po drugie , przy prasowaniu przew\u00f3d nagrzewa si\u0119 i dotykaj\u0105c go odczuwam dyskomfort , nie jest jednak tak gor\u0105cy aby si\u0119 nim poparzy\u0107 .",
+        "triplets": [
+            {
+                "uuid": "de55b284-87af-4d4b-938a-fcf9fd057816",
+                "target_tags": "Po\\O drugie\\O ,\\O przy\\O prasowaniu\\O przew\u00f3d\\B nagrzewa\\O si\u0119\\O i\\O dotykaj\u0105c\\O go\\O odczuwam\\O dyskomfort\\O ,\\O nie\\O jest\\O jednak\\O tak\\O gor\u0105cy\\O aby\\O si\u0119\\O nim\\O poparzy\u0107\\O .\\O",
+                "opinion_tags": "Po\\O drugie\\O ,\\O przy\\O prasowaniu\\O przew\u00f3d\\O nagrzewa\\B si\u0119\\I i\\O dotykaj\u0105c\\O go\\O odczuwam\\O dyskomfort\\O ,\\O nie\\O jest\\O jednak\\O tak\\O gor\u0105cy\\O aby\\O si\u0119\\O nim\\O poparzy\u0107\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "99913174-f9b3-4c7a-a15f-efadbbf3b1d2",
+                "target_tags": "Po\\O drugie\\O ,\\O przy\\O prasowaniu\\O przew\u00f3d\\B nagrzewa\\O si\u0119\\O i\\O dotykaj\u0105c\\O go\\O odczuwam\\O dyskomfort\\O ,\\O nie\\O jest\\O jednak\\O tak\\O gor\u0105cy\\O aby\\O si\u0119\\O nim\\O poparzy\u0107\\O .\\O",
+                "opinion_tags": "Po\\O drugie\\O ,\\O przy\\O prasowaniu\\O przew\u00f3d\\O nagrzewa\\O si\u0119\\O i\\O dotykaj\u0105c\\B go\\I odczuwam\\I dyskomfort\\I ,\\O nie\\O jest\\O jednak\\O tak\\O gor\u0105cy\\O aby\\O si\u0119\\O nim\\O poparzy\u0107\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "sentence": "S\u0142uchawki s\u0105 w mojej ocenie bardzo g\u0142o\u015bne .",
+        "triplets": [
+            {
+                "uuid": "40644aed-5f2b-418d-873b-fb789a636162",
+                "target_tags": "S\u0142uchawki\\B s\u0105\\O w\\O mojej\\O ocenie\\O bardzo\\O g\u0142o\u015bne\\O .\\O",
+                "opinion_tags": "S\u0142uchawki\\O s\u0105\\O w\\O mojej\\O ocenie\\O bardzo\\B g\u0142o\u015bne\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "sentence": "S\u0142uchawki maj\u0105 czysty d\u017awi\u0119k .",
+        "triplets": [
+            {
+                "uuid": "7d82f597-37e0-42d8-a442-9386e97c939e",
+                "target_tags": "S\u0142uchawki\\O maj\u0105\\O czysty\\O d\u017awi\u0119k\\B .\\O",
+                "opinion_tags": "S\u0142uchawki\\O maj\u0105\\O czysty\\B d\u017awi\u0119k\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "sentence": "Sygna\u0142 d\u017awi\u0119kowy jest g\u0142o\u015bny , ale w przypadku domku , s\u0142ycha\u0107 go z ka\u017cdego poziomu , a to plus .",
+        "triplets": [
+            {
+                "uuid": "7cd2b21d-d19f-4aef-a57c-71a515c86925",
+                "target_tags": "Sygna\u0142\\B d\u017awi\u0119kowy\\I jest\\O g\u0142o\u015bny\\O ,\\O ale\\O w\\O przypadku\\O domku\\O ,\\O s\u0142ycha\u0107\\O go\\O z\\O ka\u017cdego\\O poziomu\\O ,\\O a\\O to\\O plus\\O .\\O",
+                "opinion_tags": "Sygna\u0142\\O d\u017awi\u0119kowy\\O jest\\O g\u0142o\u015bny\\B ,\\O ale\\O w\\O przypadku\\O domku\\O ,\\O s\u0142ycha\u0107\\O go\\O z\\O ka\u017cdego\\O poziomu\\O ,\\O a\\O to\\O plus\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 438,
+        "sentence": "Nie polecam ich fanom hucznego i twardego bassu , dla reszty jest to jedyny dobry wyb\u00f3r .",
+        "triplets": [
+            {
+                "uuid": "684d7a67-2be8-4347-abc9-3ca91d2c920e",
+                "target_tags": "Nie\\O polecam\\O ich\\O fanom\\O hucznego\\O i\\O twardego\\O bassu\\B ,\\O dla\\O reszty\\O jest\\O to\\O jedyny\\O dobry\\O wyb\u00f3r\\O .\\O",
+                "opinion_tags": "Nie\\B polecam\\I ich\\I fanom\\I hucznego\\I i\\I twardego\\I bassu\\O ,\\O dla\\O reszty\\O jest\\O to\\O jedyny\\O dobry\\O wyb\u00f3r\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 312,
+        "sentence": "Obraz na plus , d\u017awi\u0119k nie wiem bo u\u017cywam zewn\u0119trznego nag\u0142o\u015bnienia .",
+        "triplets": [
+            {
+                "uuid": "f561f36c-0080-4bd2-85e4-431ed9a3f717",
+                "target_tags": "Obraz\\B na\\O plus\\O ,\\O d\u017awi\u0119k\\O nie\\O wiem\\O bo\\O u\u017cywam\\O zewn\u0119trznego\\O nag\u0142o\u015bnienia\\O .\\O",
+                "opinion_tags": "Obraz\\O na\\B plus\\I ,\\O d\u017awi\u0119k\\O nie\\O wiem\\O bo\\O u\u017cywam\\O zewn\u0119trznego\\O nag\u0142o\u015bnienia\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 509,
+        "sentence": "niestety zawiod\u0142 em si\u0119 tym odkurzaczem .",
+        "triplets": [
+            {
+                "uuid": "6d517b8c-6a42-4efc-a76a-92b96d7618fe",
+                "target_tags": "niestety\\O zawiod\u0142\\O em\\O si\u0119\\O tym\\O odkurzaczem\\B .\\O",
+                "opinion_tags": "niestety\\O zawiod\u0142\\B em\\I si\u0119\\I tym\\O odkurzaczem\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 246,
+        "sentence": "Butelka jest du\u017ca , bardzo wydajna .",
+        "triplets": [
+            {
+                "uuid": "c6a0f36b-9980-4307-a4ca-4dcab7745294",
+                "target_tags": "Butelka\\B jest\\O du\u017ca\\O ,\\O bardzo\\O wydajna\\O .\\O",
+                "opinion_tags": "Butelka\\O jest\\O du\u017ca\\O ,\\O bardzo\\B wydajna\\I .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "8256a2a6-cdc1-4622-a83a-082dc3b99de7",
+                "target_tags": "Butelka\\B jest\\O du\u017ca\\O ,\\O bardzo\\O wydajna\\O .\\O",
+                "opinion_tags": "Butelka\\O jest\\O du\u017ca\\B ,\\O bardzo\\O wydajna\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "sentence": "Efekt takiej konstrukcji - z\u0142amane wkr\u0119ty na przegubach , skrzypienie , trzeszczenie .",
+        "triplets": [
+            {
+                "uuid": "b22eef5e-f579-4470-879c-0e6a3bed4d92",
+                "target_tags": "Efekt\\O takiej\\O konstrukcji\\B -\\O z\u0142amane\\O wkr\u0119ty\\O na\\O przegubach\\O ,\\O skrzypienie\\O ,\\O trzeszczenie\\O .\\O",
+                "opinion_tags": "Efekt\\O takiej\\O konstrukcji\\O -\\O z\u0142amane\\B wkr\u0119ty\\I na\\O przegubach\\O ,\\O skrzypienie\\O ,\\O trzeszczenie\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "43bd9bdf-281d-4090-8270-ae38bff04f83",
+                "target_tags": "Efekt\\O takiej\\O konstrukcji\\B -\\O z\u0142amane\\O wkr\u0119ty\\O na\\O przegubach\\O ,\\O skrzypienie\\O ,\\O trzeszczenie\\O .\\O",
+                "opinion_tags": "Efekt\\O takiej\\O konstrukcji\\O -\\O z\u0142amane\\O wkr\u0119ty\\O na\\O przegubach\\O ,\\O skrzypienie\\B ,\\O trzeszczenie\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "898a524d-14de-41c4-8302-e3f9fb32ecd5",
+                "target_tags": "Efekt\\O takiej\\O konstrukcji\\B -\\O z\u0142amane\\O wkr\u0119ty\\O na\\O przegubach\\O ,\\O skrzypienie\\O ,\\O trzeszczenie\\O .\\O",
+                "opinion_tags": "Efekt\\O takiej\\O konstrukcji\\O -\\O z\u0142amane\\O wkr\u0119ty\\O na\\O przegubach\\O ,\\O skrzypienie\\O ,\\O trzeszczenie\\B .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "sentence": "Je\u017celi chodzi o jako\u015b\u0107 d\u017awieku mi zale\u017ca\u0142o na troch\u0119 mocniejszym basie i rzeczywi\u015bcie na pocz\u0105tku si\u0119 zawiod\u0142 em bo na ni\u017cszych cz\u0119stotliwo\u015bciach s\u0142uchawki charcza\u0142y niezno\u015bnie jednak po zmianie wk\u0142adek ju\u017c by\u0142o dobrze ( s\u0105 chyba 4 r\u00f3\u017cne rozmiary w pude\u0142ku ) .",
+        "triplets": [
+            {
+                "uuid": "ff351913-ced5-421b-bd76-1dc0c2545e66",
+                "target_tags": "Je\u017celi\\O chodzi\\O o\\O jako\u015b\u0107\\B d\u017awieku\\I mi\\O zale\u017ca\u0142o\\O na\\O troch\u0119\\O mocniejszym\\O basie\\O i\\O rzeczywi\u015bcie\\O na\\O pocz\u0105tku\\O si\u0119\\O zawiod\u0142\\O em\\O bo\\O na\\O ni\u017cszych\\O cz\u0119stotliwo\u015bciach\\O s\u0142uchawki\\O charcza\u0142y\\O niezno\u015bnie\\O jednak\\O po\\O zmianie\\O wk\u0142adek\\O ju\u017c\\O by\u0142o\\O dobrze\\O (\\O s\u0105\\O chyba\\O 4\\O r\u00f3\u017cne\\O rozmiary\\O w\\O pude\u0142ku\\O )\\O .\\O",
+                "opinion_tags": "Je\u017celi\\O chodzi\\O o\\O jako\u015b\u0107\\O d\u017awieku\\O mi\\O zale\u017ca\u0142o\\O na\\O troch\u0119\\O mocniejszym\\O basie\\O i\\O rzeczywi\u015bcie\\O na\\B pocz\u0105tku\\I si\u0119\\I zawiod\u0142\\I em\\I bo\\O na\\O ni\u017cszych\\O cz\u0119stotliwo\u015bciach\\O s\u0142uchawki\\O charcza\u0142y\\O niezno\u015bnie\\O jednak\\O po\\O zmianie\\O wk\u0142adek\\O ju\u017c\\O by\u0142o\\O dobrze\\O (\\O s\u0105\\O chyba\\O 4\\O r\u00f3\u017cne\\O rozmiary\\O w\\O pude\u0142ku\\O )\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "82a49e4d-a7ff-4e2b-8082-dd4783f1b5a6",
+                "target_tags": "Je\u017celi\\O chodzi\\O o\\O jako\u015b\u0107\\B d\u017awieku\\I mi\\O zale\u017ca\u0142o\\O na\\O troch\u0119\\O mocniejszym\\O basie\\O i\\O rzeczywi\u015bcie\\O na\\O pocz\u0105tku\\O si\u0119\\O zawiod\u0142\\O em\\O bo\\O na\\O ni\u017cszych\\O cz\u0119stotliwo\u015bciach\\O s\u0142uchawki\\O charcza\u0142y\\O niezno\u015bnie\\O jednak\\O po\\O zmianie\\O wk\u0142adek\\O ju\u017c\\O by\u0142o\\O dobrze\\O (\\O s\u0105\\O chyba\\O 4\\O r\u00f3\u017cne\\O rozmiary\\O w\\O pude\u0142ku\\O )\\O .\\O",
+                "opinion_tags": "Je\u017celi\\O chodzi\\O o\\O jako\u015b\u0107\\O d\u017awieku\\O mi\\O zale\u017ca\u0142o\\O na\\O troch\u0119\\O mocniejszym\\O basie\\O i\\O rzeczywi\u015bcie\\O na\\O pocz\u0105tku\\O si\u0119\\O zawiod\u0142\\O em\\O bo\\O na\\O ni\u017cszych\\O cz\u0119stotliwo\u015bciach\\O s\u0142uchawki\\O charcza\u0142y\\B niezno\u015bnie\\I jednak\\O po\\O zmianie\\O wk\u0142adek\\O ju\u017c\\O by\u0142o\\O dobrze\\O (\\O s\u0105\\O chyba\\O 4\\O r\u00f3\u017cne\\O rozmiary\\O w\\O pude\u0142ku\\O )\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 342,
+        "sentence": "Fotelik jeden z najdro\u017cszych i podobno najbezpieczniejszy a TRAGICZNY !",
+        "triplets": [
+            {
+                "uuid": "185af906-e2fd-4548-959b-46ad8d7fae2f",
+                "target_tags": "Fotelik\\B jeden\\O z\\O najdro\u017cszych\\O i\\O podobno\\O najbezpieczniejszy\\O a\\O TRAGICZNY\\O !\\O",
+                "opinion_tags": "Fotelik\\O jeden\\O z\\O najdro\u017cszych\\O i\\O podobno\\O najbezpieczniejszy\\O a\\O TRAGICZNY\\B !\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "24720353-456c-42ce-98a2-8ee583038d35",
+                "target_tags": "Fotelik\\B jeden\\O z\\O najdro\u017cszych\\O i\\O podobno\\O najbezpieczniejszy\\O a\\O TRAGICZNY\\O !\\O",
+                "opinion_tags": "Fotelik\\O jeden\\B z\\I najdro\u017cszych\\I i\\O podobno\\O najbezpieczniejszy\\O a\\O TRAGICZNY\\O !\\O",
+                "sentiment": "neutral"
+            },
+            {
+                "uuid": "289b5ae1-31e3-4428-a1f3-efbdce89bb9d",
+                "target_tags": "Fotelik\\B jeden\\O z\\O najdro\u017cszych\\O i\\O podobno\\O najbezpieczniejszy\\O a\\O TRAGICZNY\\O !\\O",
+                "opinion_tags": "Fotelik\\O jeden\\O z\\O najdro\u017cszych\\O i\\O podobno\\B najbezpieczniejszy\\I a\\O TRAGICZNY\\O !\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 445,
+        "sentence": "Ma\u0142o przekonywuj\u0105ca gra aktor\u00f3w , trudne sytuacje rodzinne i zawodowe .",
+        "triplets": [
+            {
+                "uuid": "4e7db3ed-8e6d-4f48-a378-c93d2e066fe2",
+                "target_tags": "Ma\u0142o\\O przekonywuj\u0105ca\\O gra\\B aktor\u00f3w\\I ,\\O trudne\\O sytuacje\\O rodzinne\\O i\\O zawodowe\\O .\\O",
+                "opinion_tags": "Ma\u0142o\\B przekonywuj\u0105ca\\I gra\\O aktor\u00f3w\\O ,\\O trudne\\O sytuacje\\O rodzinne\\O i\\O zawodowe\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 315,
+        "sentence": "Dobry obraz , pokr\u0119t\u0142a chodz\u0105 z odpowiednim oporem .",
+        "triplets": [
+            {
+                "uuid": "f5e6e97b-cb47-4f9d-8eee-50dd9a380db1",
+                "target_tags": "Dobry\\O obraz\\B ,\\O pokr\u0119t\u0142a\\O chodz\u0105\\O z\\O odpowiednim\\O oporem\\O .\\O",
+                "opinion_tags": "Dobry\\B obraz\\O ,\\O pokr\u0119t\u0142a\\O chodz\u0105\\O z\\O odpowiednim\\O oporem\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "20424ae3-27f8-4dfe-abd7-07c9132de7e1",
+                "target_tags": "Dobry\\O obraz\\O ,\\O pokr\u0119t\u0142a\\B chodz\u0105\\O z\\O odpowiednim\\O oporem\\O .\\O",
+                "opinion_tags": "Dobry\\O obraz\\O ,\\O pokr\u0119t\u0142a\\O chodz\u0105\\B z\\I odpowiednim\\I oporem\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "sentence": "Akumulator sprawowa\u0142 si\u0119 dobrze przez pierwsze p\u00f3\u0142 roku .",
+        "triplets": [
+            {
+                "uuid": "c1d0a585-5cef-4c8d-8c80-ffb87e4e0dcf",
+                "target_tags": "Akumulator\\B sprawowa\u0142\\O si\u0119\\O dobrze\\O przez\\O pierwsze\\O p\u00f3\u0142\\O roku\\O .\\O",
+                "opinion_tags": "Akumulator\\O sprawowa\u0142\\B si\u0119\\I dobrze\\I przez\\I pierwsze\\I p\u00f3\u0142\\I roku\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 427,
+        "sentence": "Co prawda nie podni\u00f3s\u0142 mi jako\u015b wyra\u017anie biustu , ale i tak uwa\u017cam , \u017ce jest to dobry kosmetyk .",
+        "triplets": [
+            {
+                "uuid": "7d384d5c-3101-4e9e-a7e6-b060bd9a1d92",
+                "target_tags": "Co\\O prawda\\O nie\\O podni\u00f3s\u0142\\O mi\\O jako\u015b\\O wyra\u017anie\\O biustu\\O ,\\O ale\\O i\\O tak\\O uwa\u017cam\\O ,\\O \u017ce\\O jest\\O to\\O dobry\\O kosmetyk\\B .\\O",
+                "opinion_tags": "Co\\O prawda\\O nie\\O podni\u00f3s\u0142\\O mi\\O jako\u015b\\O wyra\u017anie\\O biustu\\O ,\\O ale\\O i\\O tak\\O uwa\u017cam\\O ,\\O \u017ce\\O jest\\O to\\O dobry\\B kosmetyk\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 354,
+        "sentence": "skusi\u0142a m si\u0119 na niego w sklepie - jako nowo\u015b\u0107 , chcia\u0142a m wypr\u00f3bowa\u0107 , do tego pory u\u017cywa\u0142a m \u017celu Glamorous tej samej firmy i by\u0142 super , pi\u0119kny zapach i peeling przy okazji .",
+        "triplets": [
+            {
+                "uuid": "cdebc38f-558d-412b-a864-06301ea37c6e",
+                "target_tags": "skusi\u0142a\\O m\\O si\u0119\\O na\\O niego\\O w\\O sklepie\\O -\\O jako\\O nowo\u015b\u0107\\O ,\\O chcia\u0142a\\O m\\O wypr\u00f3bowa\u0107\\O ,\\O do\\O tego\\O pory\\O u\u017cywa\u0142a\\O m\\O \u017celu\\B Glamorous\\O tej\\O samej\\O firmy\\O i\\O by\u0142\\O super\\O ,\\O pi\u0119kny\\O zapach\\O i\\O peeling\\O przy\\O okazji\\O .\\O",
+                "opinion_tags": "skusi\u0142a\\O m\\O si\u0119\\O na\\O niego\\O w\\O sklepie\\O -\\O jako\\O nowo\u015b\u0107\\O ,\\O chcia\u0142a\\O m\\O wypr\u00f3bowa\u0107\\O ,\\O do\\O tego\\O pory\\O u\u017cywa\u0142a\\O m\\O \u017celu\\O Glamorous\\O tej\\O samej\\O firmy\\O i\\O by\u0142\\O super\\B ,\\O pi\u0119kny\\O zapach\\O i\\O peeling\\O przy\\O okazji\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "8d4f457a-8a4a-411c-9fb6-f67c883308cd",
+                "target_tags": "skusi\u0142a\\O m\\O si\u0119\\O na\\O niego\\O w\\O sklepie\\O -\\O jako\\O nowo\u015b\u0107\\O ,\\O chcia\u0142a\\O m\\O wypr\u00f3bowa\u0107\\O ,\\O do\\O tego\\O pory\\O u\u017cywa\u0142a\\O m\\O \u017celu\\O Glamorous\\O tej\\O samej\\O firmy\\O i\\O by\u0142\\O super\\O ,\\O pi\u0119kny\\O zapach\\B i\\O peeling\\O przy\\O okazji\\O .\\O",
+                "opinion_tags": "skusi\u0142a\\O m\\O si\u0119\\O na\\O niego\\O w\\O sklepie\\O -\\O jako\\O nowo\u015b\u0107\\O ,\\O chcia\u0142a\\O m\\O wypr\u00f3bowa\u0107\\O ,\\O do\\O tego\\O pory\\O u\u017cywa\u0142a\\O m\\O \u017celu\\O Glamorous\\O tej\\O samej\\O firmy\\O i\\O by\u0142\\O super\\O ,\\O pi\u0119kny\\B zapach\\O i\\O peeling\\O przy\\O okazji\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 407,
+        "sentence": "Poza trzeszcz\u0105cym plastikiem na obudowie i dosy\u0107 oporn\u0105 i trudn\u0105 regulacj\u0105 wysoko\u015bci ci\u0119cia nak\u0142adanego trymera , maszynka daje rade : ) Do utrzymania brody w dobrej kondycji - jak najbardziej .",
+        "triplets": [
+            {
+                "uuid": "13227ebf-eae0-4112-973b-b8fe52a4d01d",
+                "target_tags": "Poza\\O trzeszcz\u0105cym\\O plastikiem\\O na\\O obudowie\\O i\\O dosy\u0107\\O oporn\u0105\\O i\\O trudn\u0105\\O regulacj\u0105\\O wysoko\u015bci\\O ci\u0119cia\\O nak\u0142adanego\\O trymera\\O ,\\O maszynka\\B daje\\O rade\\O :\\O )\\O Do\\O utrzymania\\O brody\\O w\\O dobrej\\O kondycji\\O -\\O jak\\O najbardziej\\O .\\O",
+                "opinion_tags": "Poza\\O trzeszcz\u0105cym\\O plastikiem\\O na\\O obudowie\\O i\\O dosy\u0107\\O oporn\u0105\\O i\\O trudn\u0105\\O regulacj\u0105\\O wysoko\u015bci\\O ci\u0119cia\\O nak\u0142adanego\\O trymera\\O ,\\O maszynka\\O daje\\B rade\\I :\\O )\\O Do\\O utrzymania\\O brody\\O w\\O dobrej\\O kondycji\\O -\\O jak\\O najbardziej\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "c6b05eaf-8814-424c-929e-36d55c1cc780",
+                "target_tags": "Poza\\O trzeszcz\u0105cym\\O plastikiem\\B na\\I obudowie\\I i\\O dosy\u0107\\O oporn\u0105\\O i\\O trudn\u0105\\O regulacj\u0105\\O wysoko\u015bci\\O ci\u0119cia\\O nak\u0142adanego\\O trymera\\O ,\\O maszynka\\O daje\\O rade\\O :\\O )\\O Do\\O utrzymania\\O brody\\O w\\O dobrej\\O kondycji\\O -\\O jak\\O najbardziej\\O .\\O",
+                "opinion_tags": "Poza\\O trzeszcz\u0105cym\\B plastikiem\\O na\\O obudowie\\O i\\O dosy\u0107\\O oporn\u0105\\O i\\O trudn\u0105\\O regulacj\u0105\\O wysoko\u015bci\\O ci\u0119cia\\O nak\u0142adanego\\O trymera\\O ,\\O maszynka\\O daje\\O rade\\O :\\O )\\O Do\\O utrzymania\\O brody\\O w\\O dobrej\\O kondycji\\O -\\O jak\\O najbardziej\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "98a4b786-2f9c-48b9-ad73-f96bc8f6d742",
+                "target_tags": "Poza\\O trzeszcz\u0105cym\\O plastikiem\\O na\\O obudowie\\O i\\O dosy\u0107\\O oporn\u0105\\O i\\O trudn\u0105\\O regulacj\u0105\\B wysoko\u015bci\\I ci\u0119cia\\I nak\u0142adanego\\O trymera\\O ,\\O maszynka\\O daje\\O rade\\O :\\O )\\O Do\\O utrzymania\\O brody\\O w\\O dobrej\\O kondycji\\O -\\O jak\\O najbardziej\\O .\\O",
+                "opinion_tags": "Poza\\O trzeszcz\u0105cym\\O plastikiem\\O na\\O obudowie\\O i\\O dosy\u0107\\O oporn\u0105\\O i\\O trudn\u0105\\B regulacj\u0105\\O wysoko\u015bci\\O ci\u0119cia\\O nak\u0142adanego\\O trymera\\O ,\\O maszynka\\O daje\\O rade\\O :\\O )\\O Do\\O utrzymania\\O brody\\O w\\O dobrej\\O kondycji\\O -\\O jak\\O najbardziej\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "e95b9e24-0e8d-4783-99be-e0bf98769e42",
+                "target_tags": "Poza\\O trzeszcz\u0105cym\\O plastikiem\\O na\\O obudowie\\O i\\O dosy\u0107\\O oporn\u0105\\O i\\O trudn\u0105\\O regulacj\u0105\\B wysoko\u015bci\\I ci\u0119cia\\I nak\u0142adanego\\O trymera\\O ,\\O maszynka\\O daje\\O rade\\O :\\O )\\O Do\\O utrzymania\\O brody\\O w\\O dobrej\\O kondycji\\O -\\O jak\\O najbardziej\\O .\\O",
+                "opinion_tags": "Poza\\O trzeszcz\u0105cym\\O plastikiem\\O na\\O obudowie\\O i\\O dosy\u0107\\B oporn\u0105\\I i\\O trudn\u0105\\O regulacj\u0105\\O wysoko\u015bci\\O ci\u0119cia\\O nak\u0142adanego\\O trymera\\O ,\\O maszynka\\O daje\\O rade\\O :\\O )\\O Do\\O utrzymania\\O brody\\O w\\O dobrej\\O kondycji\\O -\\O jak\\O najbardziej\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "sentence": "Plusem mo\u017ce by\u0107 muzyka pauj\u0105ca do ca\u0142o\u015bci i oddany momentami klimat zamkni\u0119tych imprez wy\u015bcigowych .",
+        "triplets": [
+            {
+                "uuid": "b2020742-4dd7-4da4-b1b7-93edfc61aa60",
+                "target_tags": "Plusem\\O mo\u017ce\\O by\u0107\\O muzyka\\B pauj\u0105ca\\O do\\O ca\u0142o\u015bci\\O i\\O oddany\\O momentami\\O klimat\\O zamkni\u0119tych\\O imprez\\O wy\u015bcigowych\\O .\\O",
+                "opinion_tags": "Plusem\\O mo\u017ce\\O by\u0107\\O muzyka\\O pauj\u0105ca\\B do\\I ca\u0142o\u015bci\\I i\\O oddany\\O momentami\\O klimat\\O zamkni\u0119tych\\O imprez\\O wy\u015bcigowych\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "sentence": "Bardzo zawiod\u0142o mnie tworzywo , z kt\u00f3rego s\u0105 wykonane , wygl\u0105da jak to z tanich chi\u0144skich zabawek .",
+        "triplets": [
+            {
+                "uuid": "250f95d9-a40f-4dbc-9362-cbbf4fd09597",
+                "target_tags": "Bardzo\\O zawiod\u0142o\\O mnie\\O tworzywo\\B ,\\O z\\O kt\u00f3rego\\O s\u0105\\O wykonane\\O ,\\O wygl\u0105da\\O jak\\O to\\O z\\O tanich\\O chi\u0144skich\\O zabawek\\O .\\O",
+                "opinion_tags": "Bardzo\\B zawiod\u0142o\\I mnie\\O tworzywo\\O ,\\O z\\O kt\u00f3rego\\O s\u0105\\O wykonane\\O ,\\O wygl\u0105da\\O jak\\O to\\O z\\O tanich\\O chi\u0144skich\\O zabawek\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 423,
+        "sentence": "Gabaryty kasety i waga umiarkowane , cena korzystna , jedyny typ , jaki znalaz\u0142 em w tej klasie o szarej ( a nie bia\u0142ej - mniej wida\u0107 kurz i pasuje do szarej \u015bciany ) barwie kasety .",
+        "triplets": [
+            {
+                "uuid": "30780ceb-c2c0-4a2e-9fc1-cc0c06086092",
+                "target_tags": "Gabaryty\\O kasety\\O i\\O waga\\O umiarkowane\\O ,\\O cena\\B korzystna\\O ,\\O jedyny\\O typ\\O ,\\O jaki\\O znalaz\u0142\\O em\\O w\\O tej\\O klasie\\O o\\O szarej\\O (\\O a\\O nie\\O bia\u0142ej\\O -\\O mniej\\O wida\u0107\\O kurz\\O i\\O pasuje\\O do\\O szarej\\O \u015bciany\\O )\\O barwie\\O kasety\\O .\\O",
+                "opinion_tags": "Gabaryty\\O kasety\\O i\\O waga\\O umiarkowane\\O ,\\O cena\\O korzystna\\B ,\\O jedyny\\O typ\\O ,\\O jaki\\O znalaz\u0142\\O em\\O w\\O tej\\O klasie\\O o\\O szarej\\O (\\O a\\O nie\\O bia\u0142ej\\O -\\O mniej\\O wida\u0107\\O kurz\\O i\\O pasuje\\O do\\O szarej\\O \u015bciany\\O )\\O barwie\\O kasety\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "0d650204-5ce0-460c-b24b-4161443051e0",
+                "target_tags": "Gabaryty\\O kasety\\O i\\O waga\\B umiarkowane\\O ,\\O cena\\O korzystna\\O ,\\O jedyny\\O typ\\O ,\\O jaki\\O znalaz\u0142\\O em\\O w\\O tej\\O klasie\\O o\\O szarej\\O (\\O a\\O nie\\O bia\u0142ej\\O -\\O mniej\\O wida\u0107\\O kurz\\O i\\O pasuje\\O do\\O szarej\\O \u015bciany\\O )\\O barwie\\O kasety\\O .\\O",
+                "opinion_tags": "Gabaryty\\O kasety\\O i\\O waga\\O umiarkowane\\B ,\\O cena\\O korzystna\\O ,\\O jedyny\\O typ\\O ,\\O jaki\\O znalaz\u0142\\O em\\O w\\O tej\\O klasie\\O o\\O szarej\\O (\\O a\\O nie\\O bia\u0142ej\\O -\\O mniej\\O wida\u0107\\O kurz\\O i\\O pasuje\\O do\\O szarej\\O \u015bciany\\O )\\O barwie\\O kasety\\O .\\O",
+                "sentiment": "neutral"
+            },
+            {
+                "uuid": "b0050301-d52c-4fbf-aa12-6554f7e18654",
+                "target_tags": "Gabaryty\\B kasety\\O i\\O waga\\O umiarkowane\\O ,\\O cena\\O korzystna\\O ,\\O jedyny\\O typ\\O ,\\O jaki\\O znalaz\u0142\\O em\\O w\\O tej\\O klasie\\O o\\O szarej\\O (\\O a\\O nie\\O bia\u0142ej\\O -\\O mniej\\O wida\u0107\\O kurz\\O i\\O pasuje\\O do\\O szarej\\O \u015bciany\\O )\\O barwie\\O kasety\\O .\\O",
+                "opinion_tags": "Gabaryty\\O kasety\\O i\\O waga\\O umiarkowane\\B ,\\O cena\\O korzystna\\O ,\\O jedyny\\O typ\\O ,\\O jaki\\O znalaz\u0142\\O em\\O w\\O tej\\O klasie\\O o\\O szarej\\O (\\O a\\O nie\\O bia\u0142ej\\O -\\O mniej\\O wida\u0107\\O kurz\\O i\\O pasuje\\O do\\O szarej\\O \u015bciany\\O )\\O barwie\\O kasety\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 265,
+        "sentence": "Rozwi\u0105zanie 11kg daje szanse \u017ce do sko\u0144czenia roku b\u0119dziemy korzysta\u0107 : ) materia\u0142 , wykonanie i jako\u015b\u0107 produktu bardzo fajna .",
+        "triplets": [
+            {
+                "uuid": "ba0525fb-d42d-4b21-8c50-fc3d28ea701f",
+                "target_tags": "Rozwi\u0105zanie\\O 11kg\\O daje\\O szanse\\O \u017ce\\O do\\O sko\u0144czenia\\O roku\\O b\u0119dziemy\\O korzysta\u0107\\O :\\O )\\O materia\u0142\\O ,\\O wykonanie\\O i\\O jako\u015b\u0107\\B produktu\\I bardzo\\O fajna\\O .\\O",
+                "opinion_tags": "Rozwi\u0105zanie\\O 11kg\\O daje\\O szanse\\O \u017ce\\O do\\O sko\u0144czenia\\O roku\\O b\u0119dziemy\\O korzysta\u0107\\O :\\O )\\O materia\u0142\\O ,\\O wykonanie\\O i\\O jako\u015b\u0107\\O produktu\\O bardzo\\B fajna\\I .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "a7b04e74-1471-49ff-923d-189f431e8d75",
+                "target_tags": "Rozwi\u0105zanie\\O 11kg\\O daje\\O szanse\\O \u017ce\\O do\\O sko\u0144czenia\\O roku\\O b\u0119dziemy\\O korzysta\u0107\\O :\\O )\\O materia\u0142\\B ,\\O wykonanie\\O i\\O jako\u015b\u0107\\O produktu\\O bardzo\\O fajna\\O .\\O",
+                "opinion_tags": "Rozwi\u0105zanie\\O 11kg\\O daje\\O szanse\\O \u017ce\\O do\\O sko\u0144czenia\\O roku\\O b\u0119dziemy\\O korzysta\u0107\\O :\\O )\\O materia\u0142\\O ,\\O wykonanie\\O i\\O jako\u015b\u0107\\O produktu\\O bardzo\\B fajna\\I .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "642f0ccc-046e-4106-a251-da45d2786723",
+                "target_tags": "Rozwi\u0105zanie\\O 11kg\\O daje\\O szanse\\O \u017ce\\O do\\O sko\u0144czenia\\O roku\\O b\u0119dziemy\\O korzysta\u0107\\O :\\O )\\O materia\u0142\\O ,\\O wykonanie\\B i\\O jako\u015b\u0107\\O produktu\\O bardzo\\O fajna\\O .\\O",
+                "opinion_tags": "Rozwi\u0105zanie\\O 11kg\\O daje\\O szanse\\O \u017ce\\O do\\O sko\u0144czenia\\O roku\\O b\u0119dziemy\\O korzysta\u0107\\O :\\O )\\O materia\u0142\\O ,\\O wykonanie\\O i\\O jako\u015b\u0107\\O produktu\\O bardzo\\B fajna\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 485,
+        "sentence": "Nie wspominam ju\u017c o przegl\u0105darce , kt\u00f3ra totalnie nie jest przystosowana do wykorzystania na urz\u0105dzeniu mobilnym .",
+        "triplets": [
+            {
+                "uuid": "18bad76a-3f75-43bc-bf58-9a0f4eca2ea8",
+                "target_tags": "Nie\\O wspominam\\O ju\u017c\\O o\\O przegl\u0105darce\\B ,\\O kt\u00f3ra\\O totalnie\\O nie\\O jest\\O przystosowana\\O do\\O wykorzystania\\O na\\O urz\u0105dzeniu\\O mobilnym\\O .\\O",
+                "opinion_tags": "Nie\\O wspominam\\O ju\u017c\\O o\\O przegl\u0105darce\\O ,\\O kt\u00f3ra\\O totalnie\\O nie\\B jest\\I przystosowana\\I do\\I wykorzystania\\I na\\I urz\u0105dzeniu\\I mobilnym\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "sentence": "Bardzo dobry szampon ale tylko dla malutkich dzieci , kt\u00f3rym i tak g\u0142\u00f3wk\u0119 myje si\u0119 co dzie\u0144 , a kt\u00f3rych w\u0142osy nie s\u0105 zbyt nara\u017cone na dotkliwe zanieczyszczenia .",
+        "triplets": [
+            {
+                "uuid": "63a4fc0b-921b-4cce-9f13-9709bd08013e",
+                "target_tags": "Bardzo\\O dobry\\O szampon\\B ale\\O tylko\\O dla\\O malutkich\\O dzieci\\O ,\\O kt\u00f3rym\\O i\\O tak\\O g\u0142\u00f3wk\u0119\\O myje\\O si\u0119\\O co\\O dzie\u0144\\O ,\\O a\\O kt\u00f3rych\\O w\u0142osy\\O nie\\O s\u0105\\O zbyt\\O nara\u017cone\\O na\\O dotkliwe\\O zanieczyszczenia\\O .\\O",
+                "opinion_tags": "Bardzo\\B dobry\\I szampon\\O ale\\O tylko\\O dla\\O malutkich\\O dzieci\\O ,\\O kt\u00f3rym\\O i\\O tak\\O g\u0142\u00f3wk\u0119\\O myje\\O si\u0119\\O co\\O dzie\u0144\\O ,\\O a\\O kt\u00f3rych\\O w\u0142osy\\O nie\\O s\u0105\\O zbyt\\O nara\u017cone\\O na\\O dotkliwe\\O zanieczyszczenia\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 452,
+        "sentence": "Tym niemniej s\u0105 to generalnie dyski awaryjne .",
+        "triplets": [
+            {
+                "uuid": "ebaa7ba2-5cc7-48eb-b69a-c061fe450e94",
+                "target_tags": "Tym\\O niemniej\\O s\u0105\\O to\\O generalnie\\O dyski\\B awaryjne\\O .\\O",
+                "opinion_tags": "Tym\\O niemniej\\O s\u0105\\O to\\O generalnie\\O dyski\\O awaryjne\\B .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "sentence": "Wszystkie d\u017awignie nadaj\u0105 si\u0119 tylko i wy\u0142\u0105cznie do zdemontowania , gdy\u017c przeszkadzaj\u0105 i nie spe\u0142niaj\u0105 swoich funkcji .",
+        "triplets": [
+            {
+                "uuid": "3d55f4bc-1020-4c02-95f8-568b49f166b8",
+                "target_tags": "Wszystkie\\O d\u017awignie\\B nadaj\u0105\\O si\u0119\\O tylko\\O i\\O wy\u0142\u0105cznie\\O do\\O zdemontowania\\O ,\\O gdy\u017c\\O przeszkadzaj\u0105\\O i\\O nie\\O spe\u0142niaj\u0105\\O swoich\\O funkcji\\O .\\O",
+                "opinion_tags": "Wszystkie\\O d\u017awignie\\O nadaj\u0105\\O si\u0119\\O tylko\\O i\\O wy\u0142\u0105cznie\\O do\\O zdemontowania\\O ,\\O gdy\u017c\\O przeszkadzaj\u0105\\O i\\O nie\\B spe\u0142niaj\u0105\\I swoich\\I funkcji\\I .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "17ff07ac-b4a8-4935-a611-4ae34a287e8c",
+                "target_tags": "Wszystkie\\O d\u017awignie\\B nadaj\u0105\\O si\u0119\\O tylko\\O i\\O wy\u0142\u0105cznie\\O do\\O zdemontowania\\O ,\\O gdy\u017c\\O przeszkadzaj\u0105\\O i\\O nie\\O spe\u0142niaj\u0105\\O swoich\\O funkcji\\O .\\O",
+                "opinion_tags": "Wszystkie\\O d\u017awignie\\O nadaj\u0105\\O si\u0119\\O tylko\\O i\\O wy\u0142\u0105cznie\\O do\\O zdemontowania\\O ,\\O gdy\u017c\\O przeszkadzaj\u0105\\B i\\O nie\\O spe\u0142niaj\u0105\\O swoich\\O funkcji\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "sentence": "\u0179le zaprojektowana g\u0142owica tn\u0105ca ( delikatne plastikowe elementy wewn\u0105trz ) , mimo ka\u017cdorazowego czyszczenia bardzo szybko si\u0119 zapycha , w\u0142os wchodzi we wszystkie mo\u017cliwe szczeliny i ci\u0119\u017cko go usun\u0105\u0107 .",
+        "triplets": [
+            {
+                "uuid": "c9c99d8b-5c9f-49df-a143-39f28f87d407",
+                "target_tags": "\u0179le\\O zaprojektowana\\O g\u0142owica\\B tn\u0105ca\\I (\\O delikatne\\O plastikowe\\O elementy\\O wewn\u0105trz\\O )\\O ,\\O mimo\\O ka\u017cdorazowego\\O czyszczenia\\O bardzo\\O szybko\\O si\u0119\\O zapycha\\O ,\\O w\u0142os\\O wchodzi\\O we\\O wszystkie\\O mo\u017cliwe\\O szczeliny\\O i\\O ci\u0119\u017cko\\O go\\O usun\u0105\u0107\\O .\\O",
+                "opinion_tags": "\u0179le\\B zaprojektowana\\I g\u0142owica\\O tn\u0105ca\\O (\\O delikatne\\O plastikowe\\O elementy\\O wewn\u0105trz\\O )\\O ,\\O mimo\\O ka\u017cdorazowego\\O czyszczenia\\O bardzo\\O szybko\\O si\u0119\\O zapycha\\O ,\\O w\u0142os\\O wchodzi\\O we\\O wszystkie\\O mo\u017cliwe\\O szczeliny\\O i\\O ci\u0119\u017cko\\O go\\O usun\u0105\u0107\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "dab97099-2b08-435c-9480-236230011001",
+                "target_tags": "\u0179le\\O zaprojektowana\\O g\u0142owica\\B tn\u0105ca\\I (\\O delikatne\\O plastikowe\\O elementy\\O wewn\u0105trz\\O )\\O ,\\O mimo\\O ka\u017cdorazowego\\O czyszczenia\\O bardzo\\O szybko\\O si\u0119\\O zapycha\\O ,\\O w\u0142os\\O wchodzi\\O we\\O wszystkie\\O mo\u017cliwe\\O szczeliny\\O i\\O ci\u0119\u017cko\\O go\\O usun\u0105\u0107\\O .\\O",
+                "opinion_tags": "\u0179le\\O zaprojektowana\\O g\u0142owica\\O tn\u0105ca\\O (\\O delikatne\\O plastikowe\\O elementy\\O wewn\u0105trz\\O )\\O ,\\O mimo\\O ka\u017cdorazowego\\O czyszczenia\\O bardzo\\B szybko\\I si\u0119\\I zapycha\\I ,\\O w\u0142os\\O wchodzi\\O we\\O wszystkie\\O mo\u017cliwe\\O szczeliny\\O i\\O ci\u0119\u017cko\\O go\\O usun\u0105\u0107\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 301,
+        "sentence": "Wykonanie metal i bardzo dobrej jako\u015bci tworzywi .",
+        "triplets": [
+            {
+                "uuid": "580eaf15-56c1-4fd3-ac8b-3e0254b27adc",
+                "target_tags": "Wykonanie\\O metal\\O i\\O bardzo\\O dobrej\\O jako\u015bci\\O tworzywi\\B .\\O",
+                "opinion_tags": "Wykonanie\\O metal\\O i\\O bardzo\\B dobrej\\I jako\u015bci\\I tworzywi\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "a47e5da5-3922-4a93-a7db-9c4727a5e97a",
+                "target_tags": "Wykonanie\\B metal\\O i\\O bardzo\\O dobrej\\O jako\u015bci\\O tworzywi\\O .\\O",
+                "opinion_tags": "Wykonanie\\O metal\\B i\\O bardzo\\O dobrej\\O jako\u015bci\\O tworzywi\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 475,
+        "sentence": "Buteleczka i s\u0142onik pi\u0119kny ; )",
+        "triplets": [
+            {
+                "uuid": "d37ea333-eb7e-4f40-8e92-3c73b101ef0c",
+                "target_tags": "Buteleczka\\B i\\O s\u0142onik\\O pi\u0119kny\\O ;\\O )\\O",
+                "opinion_tags": "Buteleczka\\O i\\O s\u0142onik\\O pi\u0119kny\\B ;\\O )\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "ed8bf491-89f6-4324-ba71-17225e4dcaad",
+                "target_tags": "Buteleczka\\O i\\O s\u0142onik\\B pi\u0119kny\\O ;\\O )\\O",
+                "opinion_tags": "Buteleczka\\O i\\O s\u0142onik\\O pi\u0119kny\\B ;\\O )\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "sentence": "Te p\u0142ytki to straszny badziew .",
+        "triplets": [
+            {
+                "uuid": "c21d438f-9e22-45fa-840d-f00a2b534d2f",
+                "target_tags": "Te\\O p\u0142ytki\\B to\\O straszny\\O badziew\\O .\\O",
+                "opinion_tags": "Te\\O p\u0142ytki\\O to\\O straszny\\B badziew\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 374,
+        "sentence": "PLUSY : wodoodporno\u015b\u0107 , solidne wykonanie , stacja czyszcz\u0105ca , trymer , szczoteczka , szybkie l\u0105dowanie baterii , \u0142adny nowoczesny wygl\u0105d .",
+        "triplets": [
+            {
+                "uuid": "0e69edbf-f8ab-4b7b-bb06-1bd9303fe293",
+                "target_tags": "PLUSY\\O :\\O wodoodporno\u015b\u0107\\O ,\\O solidne\\O wykonanie\\O ,\\O stacja\\O czyszcz\u0105ca\\O ,\\O trymer\\O ,\\O szczoteczka\\O ,\\O szybkie\\O l\u0105dowanie\\B baterii\\I ,\\O \u0142adny\\O nowoczesny\\O wygl\u0105d\\O .\\O",
+                "opinion_tags": "PLUSY\\O :\\O wodoodporno\u015b\u0107\\O ,\\O solidne\\O wykonanie\\O ,\\O stacja\\O czyszcz\u0105ca\\O ,\\O trymer\\O ,\\O szczoteczka\\O ,\\O szybkie\\B l\u0105dowanie\\O baterii\\O ,\\O \u0142adny\\O nowoczesny\\O wygl\u0105d\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "fa9d42b9-8531-4e60-8c43-a088c13c8693",
+                "target_tags": "PLUSY\\O :\\O wodoodporno\u015b\u0107\\O ,\\O solidne\\O wykonanie\\O ,\\O stacja\\O czyszcz\u0105ca\\O ,\\O trymer\\O ,\\O szczoteczka\\O ,\\O szybkie\\O l\u0105dowanie\\O baterii\\O ,\\O \u0142adny\\O nowoczesny\\O wygl\u0105d\\B .\\O",
+                "opinion_tags": "PLUSY\\O :\\O wodoodporno\u015b\u0107\\O ,\\O solidne\\O wykonanie\\O ,\\O stacja\\O czyszcz\u0105ca\\O ,\\O trymer\\O ,\\O szczoteczka\\O ,\\O szybkie\\O l\u0105dowanie\\O baterii\\O ,\\O \u0142adny\\O nowoczesny\\B wygl\u0105d\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "2a9087a3-8a83-464a-8db7-17824187ca05",
+                "target_tags": "PLUSY\\O :\\O wodoodporno\u015b\u0107\\O ,\\O solidne\\O wykonanie\\B ,\\O stacja\\O czyszcz\u0105ca\\O ,\\O trymer\\O ,\\O szczoteczka\\O ,\\O szybkie\\O l\u0105dowanie\\O baterii\\O ,\\O \u0142adny\\O nowoczesny\\O wygl\u0105d\\O .\\O",
+                "opinion_tags": "PLUSY\\O :\\O wodoodporno\u015b\u0107\\O ,\\O solidne\\B wykonanie\\O ,\\O stacja\\O czyszcz\u0105ca\\O ,\\O trymer\\O ,\\O szczoteczka\\O ,\\O szybkie\\O l\u0105dowanie\\O baterii\\O ,\\O \u0142adny\\O nowoczesny\\O wygl\u0105d\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "2320e330-6218-4073-bb4b-6fa4fa6dd63e",
+                "target_tags": "PLUSY\\O :\\O wodoodporno\u015b\u0107\\B ,\\O solidne\\O wykonanie\\O ,\\O stacja\\O czyszcz\u0105ca\\O ,\\O trymer\\O ,\\O szczoteczka\\O ,\\O szybkie\\O l\u0105dowanie\\O baterii\\O ,\\O \u0142adny\\O nowoczesny\\O wygl\u0105d\\O .\\O",
+                "opinion_tags": "PLUSY\\B :\\O wodoodporno\u015b\u0107\\O ,\\O solidne\\O wykonanie\\O ,\\O stacja\\O czyszcz\u0105ca\\O ,\\O trymer\\O ,\\O szczoteczka\\O ,\\O szybkie\\O l\u0105dowanie\\O baterii\\O ,\\O \u0142adny\\O nowoczesny\\O wygl\u0105d\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "e1cd2453-a869-4cb2-9843-e878ab668cad",
+                "target_tags": "PLUSY\\O :\\O wodoodporno\u015b\u0107\\O ,\\O solidne\\O wykonanie\\O ,\\O stacja\\O czyszcz\u0105ca\\O ,\\O trymer\\O ,\\O szczoteczka\\O ,\\O szybkie\\O l\u0105dowanie\\O baterii\\O ,\\O \u0142adny\\O nowoczesny\\O wygl\u0105d\\B .\\O",
+                "opinion_tags": "PLUSY\\O :\\O wodoodporno\u015b\u0107\\O ,\\O solidne\\O wykonanie\\O ,\\O stacja\\O czyszcz\u0105ca\\O ,\\O trymer\\O ,\\O szczoteczka\\O ,\\O szybkie\\O l\u0105dowanie\\O baterii\\O ,\\O \u0142adny\\B nowoczesny\\O wygl\u0105d\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "sentence": "Dobrze dopracowany zosta\u0142 tak\u017ce model zniszcze\u0144 .",
+        "triplets": [
+            {
+                "uuid": "187bf1eb-d832-4cc6-81d2-ff5d578509c3",
+                "target_tags": "Dobrze\\O dopracowany\\O zosta\u0142\\O tak\u017ce\\O model\\B zniszcze\u0144\\I .\\O",
+                "opinion_tags": "Dobrze\\B dopracowany\\I zosta\u0142\\O tak\u017ce\\O model\\O zniszcze\u0144\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "sentence": "Posta\u0107 \u015bwinki fajna - realistyczna i g\u0142\u00f3wnie ten element przekonuje mnie do tego zestawu .",
+        "triplets": [
+            {
+                "uuid": "eca70c3f-8cdf-4762-89e6-2f44549570a0",
+                "target_tags": "Posta\u0107\\B \u015bwinki\\I fajna\\O -\\O realistyczna\\O i\\O g\u0142\u00f3wnie\\O ten\\O element\\O przekonuje\\O mnie\\O do\\O tego\\O zestawu\\O .\\O",
+                "opinion_tags": "Posta\u0107\\O \u015bwinki\\O fajna\\O -\\O realistyczna\\B i\\O g\u0142\u00f3wnie\\O ten\\O element\\O przekonuje\\O mnie\\O do\\O tego\\O zestawu\\O .\\O",
+                "sentiment": "neutral"
+            },
+            {
+                "uuid": "829afd7a-2218-4931-8f35-47326232e0da",
+                "target_tags": "Posta\u0107\\B \u015bwinki\\I fajna\\O -\\O realistyczna\\O i\\O g\u0142\u00f3wnie\\O ten\\O element\\O przekonuje\\O mnie\\O do\\O tego\\O zestawu\\O .\\O",
+                "opinion_tags": "Posta\u0107\\O \u015bwinki\\O fajna\\B -\\O realistyczna\\O i\\O g\u0142\u00f3wnie\\O ten\\O element\\O przekonuje\\O mnie\\O do\\O tego\\O zestawu\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 277,
+        "sentence": "W zwi\u0105zku z powy\u017cszym nie polecam tej sokowir\u00f3wki dla os\u00f3b kt\u00f3re , chc\u0105 sobie zrobi\u0107 wi\u0119cej soku chyba , \u017ce szklank\u0119 dziennie .",
+        "triplets": [
+            {
+                "uuid": "8a76b2d4-d611-4ac9-99d0-53170187911b",
+                "target_tags": "W\\O zwi\u0105zku\\O z\\O powy\u017cszym\\O nie\\O polecam\\O tej\\O sokowir\u00f3wki\\B dla\\O os\u00f3b\\O kt\u00f3re\\O ,\\O chc\u0105\\O sobie\\O zrobi\u0107\\O wi\u0119cej\\O soku\\O chyba\\O ,\\O \u017ce\\O szklank\u0119\\O dziennie\\O .\\O",
+                "opinion_tags": "W\\O zwi\u0105zku\\O z\\O powy\u017cszym\\O nie\\B polecam\\I tej\\O sokowir\u00f3wki\\O dla\\O os\u00f3b\\O kt\u00f3re\\O ,\\O chc\u0105\\O sobie\\O zrobi\u0107\\O wi\u0119cej\\O soku\\O chyba\\O ,\\O \u017ce\\O szklank\u0119\\O dziennie\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 470,
+        "sentence": "Co ciekawe w przypadku bijatyki , jest fakt , i\u017c gra posiada w\u0142asn\u0105 fabu\u0142\u0119 - w naszych r\u0119kach spoczywaj\u0105 losy Jin Kazamy oraz jego przeciwnika - ojca .",
+        "triplets": [
+            {
+                "uuid": "94584ee1-cf75-4146-a7bd-04186bfd0f9d",
+                "target_tags": "Co\\O ciekawe\\O w\\O przypadku\\O bijatyki\\O ,\\O jest\\O fakt\\O ,\\O i\u017c\\O gra\\B posiada\\O w\u0142asn\u0105\\O fabu\u0142\u0119\\O -\\O w\\O naszych\\O r\u0119kach\\O spoczywaj\u0105\\O losy\\O Jin\\O Kazamy\\O oraz\\O jego\\O przeciwnika\\O -\\O ojca\\O .\\O",
+                "opinion_tags": "Co\\O ciekawe\\O w\\O przypadku\\O bijatyki\\O ,\\O jest\\O fakt\\O ,\\O i\u017c\\O gra\\O posiada\\B w\u0142asn\u0105\\I fabu\u0142\u0119\\I -\\O w\\O naszych\\O r\u0119kach\\O spoczywaj\u0105\\O losy\\O Jin\\O Kazamy\\O oraz\\O jego\\O przeciwnika\\O -\\O ojca\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 375,
+        "sentence": "MINUS : wysoka cena za kt\u00f3ra oczekiwa\u0142 em szybkiego dok\u0142adnego i delikatnego golenia , niestety maszynka to typowy przeci\u0119tniak za g\u00f3ra 250zl",
+        "triplets": [
+            {
+                "uuid": "2dcbd208-930f-45b7-b4a3-249d01a4eafa",
+                "target_tags": "MINUS\\O :\\O wysoka\\O cena\\B za\\O kt\u00f3ra\\O oczekiwa\u0142\\O em\\O szybkiego\\O dok\u0142adnego\\O i\\O delikatnego\\O golenia\\O ,\\O niestety\\O maszynka\\O to\\O typowy\\O przeci\u0119tniak\\O za\\O g\u00f3ra\\O 250zl\\O",
+                "opinion_tags": "MINUS\\O :\\O wysoka\\B cena\\O za\\O kt\u00f3ra\\O oczekiwa\u0142\\O em\\O szybkiego\\O dok\u0142adnego\\O i\\O delikatnego\\O golenia\\O ,\\O niestety\\O maszynka\\O to\\O typowy\\O przeci\u0119tniak\\O za\\O g\u00f3ra\\O 250zl\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "3e4b1668-e760-4008-b245-3b9ac7644cb2",
+                "target_tags": "MINUS\\O :\\O wysoka\\O cena\\O za\\O kt\u00f3ra\\O oczekiwa\u0142\\O em\\O szybkiego\\O dok\u0142adnego\\O i\\O delikatnego\\O golenia\\O ,\\O niestety\\O maszynka\\B to\\O typowy\\O przeci\u0119tniak\\O za\\O g\u00f3ra\\O 250zl\\O",
+                "opinion_tags": "MINUS\\O :\\O wysoka\\O cena\\O za\\O kt\u00f3ra\\O oczekiwa\u0142\\O em\\O szybkiego\\O dok\u0142adnego\\O i\\O delikatnego\\O golenia\\O ,\\O niestety\\O maszynka\\O to\\O typowy\\B przeci\u0119tniak\\I za\\O g\u00f3ra\\O 250zl\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 505,
+        "sentence": "Zwa\u017cywszy , \u017ce zasi\u0119g jest w og\u00f3le s\u0142aby , chc\u0105c si\u0119 upewni\u0107 , \u017ce faktycznie otwieram bramk\u0119 odruchowo przytrzymuj\u0119 guzik zbyt d\u0142ugo i wy\u0142\u0105czam urz\u0105dzenie .",
+        "triplets": [
+            {
+                "uuid": "fa7371c7-69e6-499e-8905-ee1c5aa81096",
+                "target_tags": "Zwa\u017cywszy\\O ,\\O \u017ce\\O zasi\u0119g\\B jest\\O w\\O og\u00f3le\\O s\u0142aby\\O ,\\O chc\u0105c\\O si\u0119\\O upewni\u0107\\O ,\\O \u017ce\\O faktycznie\\O otwieram\\O bramk\u0119\\O odruchowo\\O przytrzymuj\u0119\\O guzik\\O zbyt\\O d\u0142ugo\\O i\\O wy\u0142\u0105czam\\O urz\u0105dzenie\\O .\\O",
+                "opinion_tags": "Zwa\u017cywszy\\O ,\\O \u017ce\\O zasi\u0119g\\O jest\\O w\\O og\u00f3le\\O s\u0142aby\\B ,\\O chc\u0105c\\O si\u0119\\O upewni\u0107\\O ,\\O \u017ce\\O faktycznie\\O otwieram\\O bramk\u0119\\O odruchowo\\O przytrzymuj\u0119\\O guzik\\O zbyt\\O d\u0142ugo\\O i\\O wy\u0142\u0105czam\\O urz\u0105dzenie\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 343,
+        "sentence": "P\u0142yta \u0142adna - dop\u00f3ki nie zacznie si\u0119 jej u\u017cywa\u0107 .",
+        "triplets": [
+            {
+                "uuid": "71adc740-1327-412c-838d-5838e5d30d44",
+                "target_tags": "P\u0142yta\\B \u0142adna\\O -\\O dop\u00f3ki\\O nie\\O zacznie\\O si\u0119\\O jej\\O u\u017cywa\u0107\\O .\\O",
+                "opinion_tags": "P\u0142yta\\O \u0142adna\\B -\\O dop\u00f3ki\\O nie\\O zacznie\\O si\u0119\\O jej\\O u\u017cywa\u0107\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 382,
+        "sentence": "Kupi\u0142a m t\u0105 niszczark\u0119 dlatego , \u017ce by\u0142a najta\u0144sza ze znalezionych przeze mnie .",
+        "triplets": [
+            {
+                "uuid": "05a31aa9-1b78-4ace-8846-90e3823d5a46",
+                "target_tags": "Kupi\u0142a\\O m\\O t\u0105\\O niszczark\u0119\\B dlatego\\O ,\\O \u017ce\\O by\u0142a\\O najta\u0144sza\\O ze\\O znalezionych\\O przeze\\O mnie\\O .\\O",
+                "opinion_tags": "Kupi\u0142a\\O m\\O t\u0105\\O niszczark\u0119\\O dlatego\\O ,\\O \u017ce\\O by\u0142a\\O najta\u0144sza\\B ze\\O znalezionych\\O przeze\\O mnie\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "sentence": "Trafi\u0142 em na tego Pioneera i od razu spodoba\u0142 mi si\u0119 selektywny dynamiczny sound , kt\u00f3ry dociera\u0142 do moich uszu przy niewielkiej g\u0142o\u015bno\u015bci .",
+        "triplets": [
+            {
+                "uuid": "6e912cb8-40ae-4181-82ae-1a320fea9cb8",
+                "target_tags": "Trafi\u0142\\O em\\O na\\O tego\\O Pioneera\\O i\\O od\\O razu\\O spodoba\u0142\\O mi\\O si\u0119\\O selektywny\\O dynamiczny\\O sound\\B ,\\O kt\u00f3ry\\O dociera\u0142\\O do\\O moich\\O uszu\\O przy\\O niewielkiej\\O g\u0142o\u015bno\u015bci\\O .\\O",
+                "opinion_tags": "Trafi\u0142\\O em\\O na\\O tego\\O Pioneera\\O i\\O od\\O razu\\O spodoba\u0142\\O mi\\O si\u0119\\O selektywny\\O dynamiczny\\B sound\\O ,\\O kt\u00f3ry\\O dociera\u0142\\O do\\O moich\\O uszu\\O przy\\O niewielkiej\\O g\u0142o\u015bno\u015bci\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 447,
+        "sentence": "Odkurzacz cichy tylko na najni\u017cszych obrotach , bardzo du\u017co ha\u0142asu robi\u0105 wszystkie szczotki niestety .",
+        "triplets": [
+            {
+                "uuid": "8f5f0fb7-5125-4a24-be77-8c043dbd41e9",
+                "target_tags": "Odkurzacz\\B cichy\\O tylko\\O na\\O najni\u017cszych\\O obrotach\\O ,\\O bardzo\\O du\u017co\\O ha\u0142asu\\O robi\u0105\\O wszystkie\\O szczotki\\O niestety\\O .\\O",
+                "opinion_tags": "Odkurzacz\\O cichy\\B tylko\\I na\\I najni\u017cszych\\I obrotach\\I ,\\O bardzo\\O du\u017co\\O ha\u0142asu\\O robi\u0105\\O wszystkie\\O szczotki\\O niestety\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "783deb45-452d-4209-9ac0-c51cbb7d135f",
+                "target_tags": "Odkurzacz\\O cichy\\O tylko\\O na\\O najni\u017cszych\\O obrotach\\O ,\\O bardzo\\O du\u017co\\O ha\u0142asu\\O robi\u0105\\O wszystkie\\O szczotki\\B niestety\\O .\\O",
+                "opinion_tags": "Odkurzacz\\O cichy\\O tylko\\O na\\O najni\u017cszych\\O obrotach\\O ,\\O bardzo\\B du\u017co\\I ha\u0142asu\\I robi\u0105\\I wszystkie\\O szczotki\\O niestety\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 337,
+        "sentence": "Chocia\u017cby bardzo \u0142adna i klimatyczna grafika czy wed\u0142ug mnie jedna z najwi\u0119kszych zalet tej gry czyli ROBIENIE W\u0141ASNYCH POSTACI , kt\u00f3rymi mo\u017cna gra\u0107 .",
+        "triplets": [
+            {
+                "uuid": "03741373-5fd6-467c-8a97-2f7101ee48ca",
+                "target_tags": "Chocia\u017cby\\O bardzo\\O \u0142adna\\O i\\O klimatyczna\\O grafika\\B czy\\O wed\u0142ug\\O mnie\\O jedna\\O z\\O najwi\u0119kszych\\O zalet\\O tej\\O gry\\O czyli\\O ROBIENIE\\O W\u0141ASNYCH\\O POSTACI\\O ,\\O kt\u00f3rymi\\O mo\u017cna\\O gra\u0107\\O .\\O",
+                "opinion_tags": "Chocia\u017cby\\O bardzo\\O \u0142adna\\O i\\O klimatyczna\\B grafika\\O czy\\O wed\u0142ug\\O mnie\\O jedna\\O z\\O najwi\u0119kszych\\O zalet\\O tej\\O gry\\O czyli\\O ROBIENIE\\O W\u0141ASNYCH\\O POSTACI\\O ,\\O kt\u00f3rymi\\O mo\u017cna\\O gra\u0107\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "7ceb51f9-be5b-4843-b2dd-86d317f8c3bc",
+                "target_tags": "Chocia\u017cby\\O bardzo\\O \u0142adna\\O i\\O klimatyczna\\O grafika\\B czy\\O wed\u0142ug\\O mnie\\O jedna\\O z\\O najwi\u0119kszych\\O zalet\\O tej\\O gry\\O czyli\\O ROBIENIE\\O W\u0141ASNYCH\\O POSTACI\\O ,\\O kt\u00f3rymi\\O mo\u017cna\\O gra\u0107\\O .\\O",
+                "opinion_tags": "Chocia\u017cby\\O bardzo\\B \u0142adna\\I i\\O klimatyczna\\O grafika\\O czy\\O wed\u0142ug\\O mnie\\O jedna\\O z\\O najwi\u0119kszych\\O zalet\\O tej\\O gry\\O czyli\\O ROBIENIE\\O W\u0141ASNYCH\\O POSTACI\\O ,\\O kt\u00f3rymi\\O mo\u017cna\\O gra\u0107\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "sentence": "Wadliwa kanapa zosta\u0142a nam dostarczona i tego samego dnia dostawca sklepowy zabra\u0142 j\u0105 do wymiany .",
+        "triplets": [
+            {
+                "uuid": "24836da7-1802-483d-881a-05d3e6731104",
+                "target_tags": "Wadliwa\\O kanapa\\B zosta\u0142a\\O nam\\O dostarczona\\O i\\O tego\\O samego\\O dnia\\O dostawca\\O sklepowy\\O zabra\u0142\\O j\u0105\\O do\\O wymiany\\O .\\O",
+                "opinion_tags": "Wadliwa\\B kanapa\\O zosta\u0142a\\O nam\\O dostarczona\\O i\\O tego\\O samego\\O dnia\\O dostawca\\O sklepowy\\O zabra\u0142\\O j\u0105\\O do\\O wymiany\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "sentence": "O p\u00f3\u017aniejszej \u0142atwej obr\u00f3bce mo\u017cna zapomnie\u0107 .",
+        "triplets": [
+            {
+                "uuid": "a69f718d-8415-4c56-863e-a2dec2cc0ce4",
+                "target_tags": "O\\O p\u00f3\u017aniejszej\\O \u0142atwej\\B obr\u00f3bce\\I mo\u017cna\\O zapomnie\u0107\\O .\\O",
+                "opinion_tags": "O\\O p\u00f3\u017aniejszej\\O \u0142atwej\\O obr\u00f3bce\\O mo\u017cna\\B zapomnie\u0107\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    }
+]
