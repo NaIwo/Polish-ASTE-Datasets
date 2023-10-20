@@ -1,0 +1,2066 @@
+[
+    {
+        "id": 474,
+        "sentence": "W cen\u0119 pokoju by\u0142y wliczone \u015bniadania .",
+        "triplets": [
+            {
+                "uuid": "73a2e95c-b6c9-450e-b8e8-1eeee8edda71",
+                "target_tags": "W\\O cen\u0119\\B pokoju\\I by\u0142y\\O wliczone\\O \u015bniadania\\O .\\O",
+                "opinion_tags": "W\\O cen\u0119\\O pokoju\\O by\u0142y\\O wliczone\\B \u015bniadania\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "sentence": "Pok\u00f3j by\u0142 przesi\u0105kni\u0119ty dynem papierosowym , chocia\u017c nie jeste\u015bmy palaczami .",
+        "triplets": [
+            {
+                "uuid": "b3b5c1f3-f15b-407d-9acf-a79f6caa8a7e",
+                "target_tags": "Pok\u00f3j\\B by\u0142\\O przesi\u0105kni\u0119ty\\O dynem\\O papierosowym\\O ,\\O chocia\u017c\\O nie\\O jeste\u015bmy\\O palaczami\\O .\\O",
+                "opinion_tags": "Pok\u00f3j\\O by\u0142\\O przesi\u0105kni\u0119ty\\B dynem\\I papierosowym\\I ,\\O chocia\u017c\\O nie\\O jeste\u015bmy\\O palaczami\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "sentence": "Wieczorne animacje przy 1 barze z mega kolejk\u0105 po 1 nap\u00f3j na bardzo s\u0142abym poziomie .",
+        "triplets": [
+            {
+                "uuid": "1b874671-7541-4dde-b644-bb6fbdb668ff",
+                "target_tags": "Wieczorne\\O animacje\\B przy\\O 1\\O barze\\O z\\O mega\\O kolejk\u0105\\O po\\O 1\\O nap\u00f3j\\O na\\O bardzo\\O s\u0142abym\\O poziomie\\O .\\O",
+                "opinion_tags": "Wieczorne\\O animacje\\O przy\\O 1\\O barze\\O z\\O mega\\O kolejk\u0105\\O po\\O 1\\O nap\u00f3j\\O na\\B bardzo\\I s\u0142abym\\I poziomie\\I .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "08723cbf-29ae-41ac-8604-ab480c5cc3a6",
+                "target_tags": "Wieczorne\\O animacje\\O przy\\O 1\\O barze\\B z\\O mega\\O kolejk\u0105\\O po\\O 1\\O nap\u00f3j\\O na\\O bardzo\\O s\u0142abym\\O poziomie\\O .\\O",
+                "opinion_tags": "Wieczorne\\O animacje\\O przy\\O 1\\O barze\\O z\\B mega\\I kolejk\u0105\\I po\\O 1\\O nap\u00f3j\\O na\\O bardzo\\O s\u0142abym\\O poziomie\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 434,
+        "sentence": "Natomiast pora\u017ck\u0105 by\u0142a barmanka kt\u00f3ra nak\u0142ada\u0142a l\u00f3d do szklanek r\u0119koma . . . i nie widzia\u0142a w tym nic z\u0142ego .",
+        "triplets": [
+            {
+                "uuid": "23636d58-16f3-4ede-9c24-2c4ec8f296c1",
+                "target_tags": "Natomiast\\O pora\u017ck\u0105\\O by\u0142a\\O barmanka\\B kt\u00f3ra\\O nak\u0142ada\u0142a\\O l\u00f3d\\O do\\O szklanek\\O r\u0119koma\\O .\\O .\\O .\\O i\\O nie\\O widzia\u0142a\\O w\\O tym\\O nic\\O z\u0142ego\\O .\\O",
+                "opinion_tags": "Natomiast\\O pora\u017ck\u0105\\O by\u0142a\\O barmanka\\O kt\u00f3ra\\O nak\u0142ada\u0142a\\B l\u00f3d\\I do\\I szklanek\\I r\u0119koma\\I .\\O .\\O .\\O i\\O nie\\O widzia\u0142a\\O w\\O tym\\O nic\\O z\u0142ego\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "3d583632-f705-455d-8422-8c3a200b43e5",
+                "target_tags": "Natomiast\\O pora\u017ck\u0105\\O by\u0142a\\O barmanka\\B kt\u00f3ra\\O nak\u0142ada\u0142a\\O l\u00f3d\\O do\\O szklanek\\O r\u0119koma\\O .\\O .\\O .\\O i\\O nie\\O widzia\u0142a\\O w\\O tym\\O nic\\O z\u0142ego\\O .\\O",
+                "opinion_tags": "Natomiast\\O pora\u017ck\u0105\\B by\u0142a\\O barmanka\\O kt\u00f3ra\\O nak\u0142ada\u0142a\\O l\u00f3d\\O do\\O szklanek\\O r\u0119koma\\O .\\O .\\O .\\O i\\O nie\\O widzia\u0142a\\O w\\O tym\\O nic\\O z\u0142ego\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "sentence": "Posi\u0142ki ( \u015bniadanie i obiadokolacja ) podawane s\u0105 w formie bufetu szwedzkiego wi\u0119c na pewno ka\u017cdy znajdzie co\u015b dla siebie .",
+        "triplets": [
+            {
+                "uuid": "e1f033c5-b210-4275-99ac-544de55eb770",
+                "target_tags": "Posi\u0142ki\\B (\\O \u015bniadanie\\O i\\O obiadokolacja\\O )\\O podawane\\O s\u0105\\O w\\O formie\\O bufetu\\O szwedzkiego\\O wi\u0119c\\O na\\O pewno\\O ka\u017cdy\\O znajdzie\\O co\u015b\\O dla\\O siebie\\O .\\O",
+                "opinion_tags": "Posi\u0142ki\\O (\\O \u015bniadanie\\O i\\O obiadokolacja\\O )\\O podawane\\O s\u0105\\O w\\B formie\\I bufetu\\I szwedzkiego\\I wi\u0119c\\O na\\O pewno\\O ka\u017cdy\\O znajdzie\\O co\u015b\\O dla\\O siebie\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "d33e3437-e054-4826-b045-139812d5eced",
+                "target_tags": "Posi\u0142ki\\B (\\O \u015bniadanie\\O i\\O obiadokolacja\\O )\\O podawane\\O s\u0105\\O w\\O formie\\O bufetu\\O szwedzkiego\\O wi\u0119c\\O na\\O pewno\\O ka\u017cdy\\O znajdzie\\O co\u015b\\O dla\\O siebie\\O .\\O",
+                "opinion_tags": "Posi\u0142ki\\O (\\O \u015bniadanie\\O i\\O obiadokolacja\\O )\\O podawane\\O s\u0105\\O w\\O formie\\O bufetu\\O szwedzkiego\\O wi\u0119c\\O na\\O pewno\\O ka\u017cdy\\B znajdzie\\I co\u015b\\I dla\\I siebie\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 417,
+        "sentence": "Przyjemne centrum SPA .",
+        "triplets": [
+            {
+                "uuid": "85031961-1f67-4f93-944f-f2a5f316d6c1",
+                "target_tags": "Przyjemne\\O centrum\\B SPA\\I .\\O",
+                "opinion_tags": "Przyjemne\\B centrum\\O SPA\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 318,
+        "sentence": "Woda jest tam ciep\u0142a , ale \u017ceby do niej dotrze\u0107 trzeba przebrn\u0105\u0107 przez zimny taras . . .",
+        "triplets": [
+            {
+                "uuid": "9ce94154-39fa-4713-b383-86073c017ed0",
+                "target_tags": "Woda\\B jest\\O tam\\O ciep\u0142a\\O ,\\O ale\\O \u017ceby\\O do\\O niej\\O dotrze\u0107\\O trzeba\\O przebrn\u0105\u0107\\O przez\\O zimny\\O taras\\O .\\O .\\O .\\O",
+                "opinion_tags": "Woda\\O jest\\O tam\\O ciep\u0142a\\B ,\\O ale\\O \u017ceby\\O do\\O niej\\O dotrze\u0107\\O trzeba\\O przebrn\u0105\u0107\\O przez\\O zimny\\O taras\\O .\\O .\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "0b3ac8cc-3412-42df-a8af-32cfe59f41d5",
+                "target_tags": "Woda\\B jest\\O tam\\O ciep\u0142a\\O ,\\O ale\\O \u017ceby\\O do\\O niej\\O dotrze\u0107\\O trzeba\\O przebrn\u0105\u0107\\O przez\\O zimny\\O taras\\O .\\O .\\O .\\O",
+                "opinion_tags": "Woda\\O jest\\O tam\\O ciep\u0142a\\O ,\\O ale\\O \u017ceby\\B do\\I niej\\I dotrze\u0107\\I trzeba\\I przebrn\u0105\u0107\\I przez\\I zimny\\I taras\\I .\\O .\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 405,
+        "sentence": "Pla\u017ca du\u017ca , ale le\u017caki i parasole p\u0142atne ok . 30 BGN za komplet .",
+        "triplets": [
+            {
+                "uuid": "8eb025b4-08e2-4d2f-afaa-185754f441ac",
+                "target_tags": "Pla\u017ca\\B du\u017ca\\O ,\\O ale\\O le\u017caki\\O i\\O parasole\\O p\u0142atne\\O ok\\O .\\O 30\\O BGN\\O za\\O komplet\\O .\\O",
+                "opinion_tags": "Pla\u017ca\\O du\u017ca\\B ,\\O ale\\O le\u017caki\\O i\\O parasole\\O p\u0142atne\\O ok\\O .\\O 30\\O BGN\\O za\\O komplet\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "b8fc2f0e-08eb-421e-8994-51167b40902c",
+                "target_tags": "Pla\u017ca\\O du\u017ca\\O ,\\O ale\\O le\u017caki\\B i\\I parasole\\I p\u0142atne\\O ok\\O .\\O 30\\O BGN\\O za\\O komplet\\O .\\O",
+                "opinion_tags": "Pla\u017ca\\O du\u017ca\\O ,\\O ale\\O le\u017caki\\O i\\O parasole\\O p\u0142atne\\B ok\\I .\\I 30\\I BGN\\I za\\I komplet\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "sentence": "Jest to nasz \u00f3smy wyjazd do Chorwacji za ka\u017cdym razem w innym miejscu , ale ten najbardziej udany .",
+        "triplets": [
+            {
+                "uuid": "4469fa90-b4c8-4f68-87e9-2616e92797d0",
+                "target_tags": "Jest\\O to\\O nasz\\O \u00f3smy\\O wyjazd\\B do\\O Chorwacji\\O za\\O ka\u017cdym\\O razem\\O w\\O innym\\O miejscu\\O ,\\O ale\\O ten\\O najbardziej\\O udany\\O .\\O",
+                "opinion_tags": "Jest\\O to\\O nasz\\O \u00f3smy\\O wyjazd\\O do\\O Chorwacji\\O za\\O ka\u017cdym\\O razem\\O w\\O innym\\O miejscu\\O ,\\O ale\\O ten\\O najbardziej\\B udany\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 292,
+        "sentence": "Og\u00f3lnie by\u0142o w porz\u0105dku ; ) pokoje dobrze wyposa\u017cone : lod\u00f3wka , kuchenka , mikrofal\u00f3wka , sokowir\u00f3wka , opiekacz , \u017celazko , suszarka , telewizor , pe\u0142en sprz\u0119t kuchenny .",
+        "triplets": [
+            {
+                "uuid": "0170b817-7546-4a65-a937-ccf58cf0e781",
+                "target_tags": "Og\u00f3lnie\\O by\u0142o\\O w\\O porz\u0105dku\\O ;\\O )\\O pokoje\\B dobrze\\O wyposa\u017cone\\O :\\O lod\u00f3wka\\O ,\\O kuchenka\\O ,\\O mikrofal\u00f3wka\\O ,\\O sokowir\u00f3wka\\O ,\\O opiekacz\\O ,\\O \u017celazko\\O ,\\O suszarka\\O ,\\O telewizor\\O ,\\O pe\u0142en\\O sprz\u0119t\\O kuchenny\\O .\\O",
+                "opinion_tags": "Og\u00f3lnie\\O by\u0142o\\O w\\O porz\u0105dku\\O ;\\O )\\O pokoje\\O dobrze\\B wyposa\u017cone\\I :\\O lod\u00f3wka\\O ,\\O kuchenka\\O ,\\O mikrofal\u00f3wka\\O ,\\O sokowir\u00f3wka\\O ,\\O opiekacz\\O ,\\O \u017celazko\\O ,\\O suszarka\\O ,\\O telewizor\\O ,\\O pe\u0142en\\O sprz\u0119t\\O kuchenny\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "38d3a1ca-4147-4bbe-ab0b-9871814427bd",
+                "target_tags": "Og\u00f3lnie\\O by\u0142o\\O w\\O porz\u0105dku\\O ;\\O )\\O pokoje\\B dobrze\\O wyposa\u017cone\\O :\\O lod\u00f3wka\\O ,\\O kuchenka\\O ,\\O mikrofal\u00f3wka\\O ,\\O sokowir\u00f3wka\\O ,\\O opiekacz\\O ,\\O \u017celazko\\O ,\\O suszarka\\O ,\\O telewizor\\O ,\\O pe\u0142en\\O sprz\u0119t\\O kuchenny\\O .\\O",
+                "opinion_tags": "Og\u00f3lnie\\O by\u0142o\\O w\\O porz\u0105dku\\O ;\\O )\\O pokoje\\O dobrze\\O wyposa\u017cone\\O :\\O lod\u00f3wka\\O ,\\O kuchenka\\O ,\\O mikrofal\u00f3wka\\O ,\\O sokowir\u00f3wka\\O ,\\O opiekacz\\O ,\\O \u017celazko\\O ,\\O suszarka\\O ,\\O telewizor\\O ,\\O pe\u0142en\\B sprz\u0119t\\I kuchenny\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 307,
+        "sentence": "Teren hotelu zadbany , du\u017co zieleni i czysto .",
+        "triplets": [
+            {
+                "uuid": "9cafb2a7-833c-4555-b9f4-f7bc65577c8a",
+                "target_tags": "Teren\\B hotelu\\I zadbany\\O ,\\O du\u017co\\O zieleni\\O i\\O czysto\\O .\\O",
+                "opinion_tags": "Teren\\O hotelu\\O zadbany\\B ,\\O du\u017co\\O zieleni\\O i\\O czysto\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "2b4fea62-265b-47ed-90c6-41163fb0e06a",
+                "target_tags": "Teren\\B hotelu\\I zadbany\\O ,\\O du\u017co\\O zieleni\\O i\\O czysto\\O .\\O",
+                "opinion_tags": "Teren\\O hotelu\\O zadbany\\O ,\\O du\u017co\\B zieleni\\I i\\O czysto\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "941bbcc0-1c00-4437-a8cf-800986060be4",
+                "target_tags": "Teren\\B hotelu\\I zadbany\\O ,\\O du\u017co\\O zieleni\\O i\\O czysto\\O .\\O",
+                "opinion_tags": "Teren\\O hotelu\\O zadbany\\O ,\\O du\u017co\\O zieleni\\O i\\O czysto\\B .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 299,
+        "sentence": "Obs\u0142uga hotelu uczynna , mo\u017cna zrobi\u0107 pranie na miejscu , swobodnie dogadasz si\u0119 po angielsku .",
+        "triplets": [
+            {
+                "uuid": "dd656b1f-0b4e-4003-86eb-0a0164eb87b4",
+                "target_tags": "Obs\u0142uga\\B hotelu\\O uczynna\\O ,\\O mo\u017cna\\O zrobi\u0107\\O pranie\\O na\\O miejscu\\O ,\\O swobodnie\\O dogadasz\\O si\u0119\\O po\\O angielsku\\O .\\O",
+                "opinion_tags": "Obs\u0142uga\\O hotelu\\O uczynna\\B ,\\O mo\u017cna\\O zrobi\u0107\\O pranie\\O na\\O miejscu\\O ,\\O swobodnie\\O dogadasz\\O si\u0119\\O po\\O angielsku\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "1732398d-29ac-41cb-938b-4a41d6be7edb",
+                "target_tags": "Obs\u0142uga\\B hotelu\\O uczynna\\O ,\\O mo\u017cna\\O zrobi\u0107\\O pranie\\O na\\O miejscu\\O ,\\O swobodnie\\O dogadasz\\O si\u0119\\O po\\O angielsku\\O .\\O",
+                "opinion_tags": "Obs\u0142uga\\O hotelu\\O uczynna\\O ,\\O mo\u017cna\\O zrobi\u0107\\O pranie\\O na\\O miejscu\\O ,\\O swobodnie\\B dogadasz\\I si\u0119\\I po\\I angielsku\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "sentence": "Sala jadalna wyposa\u017cona jest w krzese\u0142ka do karmienia i specjalne ' podk\u0142adki ' dla starszych dzieci , jest r\u00f3wnie\u017c ma\u0142a sala zabaw .",
+        "triplets": [
+            {
+                "uuid": "027664b0-c36f-48ea-af02-caf3b410866b",
+                "target_tags": "Sala\\B jadalna\\I wyposa\u017cona\\O jest\\O w\\O krzese\u0142ka\\O do\\O karmienia\\O i\\O specjalne\\O '\\O podk\u0142adki\\O '\\O dla\\O starszych\\O dzieci\\O ,\\O jest\\O r\u00f3wnie\u017c\\O ma\u0142a\\O sala\\O zabaw\\O .\\O",
+                "opinion_tags": "Sala\\O jadalna\\O wyposa\u017cona\\B jest\\I w\\I krzese\u0142ka\\I do\\I karmienia\\I i\\I specjalne\\I '\\I podk\u0142adki\\I '\\I dla\\I starszych\\I dzieci\\I ,\\O jest\\O r\u00f3wnie\u017c\\O ma\u0142a\\O sala\\O zabaw\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "sentence": "Hotel oddalony od centrum co mia\u0142o sw\u00f3j urok .",
+        "triplets": [
+            {
+                "uuid": "6697993a-9a23-4e08-8dd3-b0e920782f9e",
+                "target_tags": "Hotel\\B oddalony\\O od\\O centrum\\O co\\O mia\u0142o\\O sw\u00f3j\\O urok\\O .\\O",
+                "opinion_tags": "Hotel\\O oddalony\\B od\\I centrum\\I co\\I mia\u0142o\\I sw\u00f3j\\I urok\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "sentence": "Bardzo s\u0142aba strefa relaksu .",
+        "triplets": [
+            {
+                "uuid": "0c8cea39-af0e-44b0-ac9c-eb9053225e07",
+                "target_tags": "Bardzo\\O s\u0142aba\\O strefa\\B relaksu\\I .\\O",
+                "opinion_tags": "Bardzo\\B s\u0142aba\\I strefa\\O relaksu\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 480,
+        "sentence": "Du\u017cym atutem dobra lokalizacja .",
+        "triplets": [
+            {
+                "uuid": "b02cc8f2-8802-4423-b095-4c8ad1e62281",
+                "target_tags": "Du\u017cym\\O atutem\\O dobra\\O lokalizacja\\B .\\O",
+                "opinion_tags": "Du\u017cym\\O atutem\\O dobra\\B lokalizacja\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "228f50e8-ec3f-418d-8021-81b9218034af",
+                "target_tags": "Du\u017cym\\O atutem\\O dobra\\O lokalizacja\\B .\\O",
+                "opinion_tags": "Du\u017cym\\B atutem\\I dobra\\O lokalizacja\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "sentence": "Zalet\u0105 i w sumie to na co zawsze zwracam uwag\u0119 to \u0142\u00f3zko - bardzo wygodnie i pozwalaj\u0105ce na wypoczynek .",
+        "triplets": [
+            {
+                "uuid": "e71991ef-bef1-4121-bb78-42bb63864bb1",
+                "target_tags": "Zalet\u0105\\O i\\O w\\O sumie\\O to\\O na\\O co\\O zawsze\\O zwracam\\O uwag\u0119\\O to\\O \u0142\u00f3zko\\B -\\O bardzo\\O wygodnie\\O i\\O pozwalaj\u0105ce\\O na\\O wypoczynek\\O .\\O",
+                "opinion_tags": "Zalet\u0105\\O i\\O w\\O sumie\\O to\\O na\\O co\\O zawsze\\O zwracam\\O uwag\u0119\\O to\\O \u0142\u00f3zko\\O -\\O bardzo\\B wygodnie\\I i\\O pozwalaj\u0105ce\\O na\\O wypoczynek\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "bba1c78c-ca8f-4165-a16b-951d2ecd3f6d",
+                "target_tags": "Zalet\u0105\\O i\\O w\\O sumie\\O to\\O na\\O co\\O zawsze\\O zwracam\\O uwag\u0119\\O to\\O \u0142\u00f3zko\\B -\\O bardzo\\O wygodnie\\O i\\O pozwalaj\u0105ce\\O na\\O wypoczynek\\O .\\O",
+                "opinion_tags": "Zalet\u0105\\O i\\O w\\O sumie\\O to\\O na\\O co\\O zawsze\\O zwracam\\O uwag\u0119\\O to\\O \u0142\u00f3zko\\O -\\O bardzo\\O wygodnie\\O i\\O pozwalaj\u0105ce\\B na\\I wypoczynek\\I .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "aebd6012-5f48-47c5-be33-1c97939d8f2b",
+                "target_tags": "Zalet\u0105\\O i\\O w\\O sumie\\O to\\O na\\O co\\O zawsze\\O zwracam\\O uwag\u0119\\O to\\O \u0142\u00f3zko\\B -\\O bardzo\\O wygodnie\\O i\\O pozwalaj\u0105ce\\O na\\O wypoczynek\\O .\\O",
+                "opinion_tags": "Zalet\u0105\\B i\\O w\\O sumie\\O to\\O na\\O co\\O zawsze\\O zwracam\\O uwag\u0119\\O to\\O \u0142\u00f3zko\\O -\\O bardzo\\O wygodnie\\O i\\O pozwalaj\u0105ce\\O na\\O wypoczynek\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 319,
+        "sentence": "Przede wszystkim bardzo czysty i zadbany , Pyszne i bogate \u015bniadania .",
+        "triplets": [
+            {
+                "uuid": "b40aa66c-12c4-40f3-93fd-df7be3736c42",
+                "target_tags": "Przede\\O wszystkim\\O bardzo\\O czysty\\O i\\O zadbany\\O ,\\O Pyszne\\O i\\O bogate\\O \u015bniadania\\B .\\O",
+                "opinion_tags": "Przede\\O wszystkim\\O bardzo\\O czysty\\O i\\O zadbany\\O ,\\O Pyszne\\O i\\O bogate\\B \u015bniadania\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "3c188c27-1b58-4e64-8c56-d0716decc19c",
+                "target_tags": "Przede\\O wszystkim\\O bardzo\\O czysty\\O i\\O zadbany\\O ,\\O Pyszne\\O i\\O bogate\\O \u015bniadania\\B .\\O",
+                "opinion_tags": "Przede\\O wszystkim\\O bardzo\\O czysty\\O i\\O zadbany\\O ,\\O Pyszne\\B i\\O bogate\\O \u015bniadania\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "sentence": "\u015aniadania przy dop\u0142acie 20 z\u0142 zadowalaj\u0105ce i smaczne , zr\u00f3\u017cnicowany wyb\u00f3r .",
+        "triplets": [
+            {
+                "uuid": "0eb341ea-7a2c-4111-b3ad-373c78ef548d",
+                "target_tags": "\u015aniadania\\B przy\\O dop\u0142acie\\O 20\\O z\u0142\\O zadowalaj\u0105ce\\O i\\O smaczne\\O ,\\O zr\u00f3\u017cnicowany\\O wyb\u00f3r\\O .\\O",
+                "opinion_tags": "\u015aniadania\\O przy\\O dop\u0142acie\\O 20\\O z\u0142\\O zadowalaj\u0105ce\\B i\\O smaczne\\O ,\\O zr\u00f3\u017cnicowany\\O wyb\u00f3r\\O .\\O",
+                "sentiment": "neutral"
+            },
+            {
+                "uuid": "1e917b84-0f8b-457a-82c7-416d6c830e9b",
+                "target_tags": "\u015aniadania\\B przy\\O dop\u0142acie\\O 20\\O z\u0142\\O zadowalaj\u0105ce\\O i\\O smaczne\\O ,\\O zr\u00f3\u017cnicowany\\O wyb\u00f3r\\O .\\O",
+                "opinion_tags": "\u015aniadania\\O przy\\O dop\u0142acie\\O 20\\O z\u0142\\O zadowalaj\u0105ce\\O i\\O smaczne\\B ,\\O zr\u00f3\u017cnicowany\\O wyb\u00f3r\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "365fa2f8-0428-4434-801e-a05f6cf78472",
+                "target_tags": "\u015aniadania\\B przy\\O dop\u0142acie\\O 20\\O z\u0142\\O zadowalaj\u0105ce\\O i\\O smaczne\\O ,\\O zr\u00f3\u017cnicowany\\O wyb\u00f3r\\O .\\O",
+                "opinion_tags": "\u015aniadania\\O przy\\O dop\u0142acie\\O 20\\O z\u0142\\O zadowalaj\u0105ce\\O i\\O smaczne\\O ,\\O zr\u00f3\u017cnicowany\\B wyb\u00f3r\\I .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "62c7d278-5890-404f-9d5f-01efd0c1e2c1",
+                "target_tags": "\u015aniadania\\B przy\\O dop\u0142acie\\O 20\\O z\u0142\\O zadowalaj\u0105ce\\O i\\O smaczne\\O ,\\O zr\u00f3\u017cnicowany\\O wyb\u00f3r\\O .\\O",
+                "opinion_tags": "\u015aniadania\\O przy\\B dop\u0142acie\\I 20\\I z\u0142\\I zadowalaj\u0105ce\\O i\\O smaczne\\O ,\\O zr\u00f3\u017cnicowany\\O wyb\u00f3r\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 426,
+        "sentence": "Naprawd\u0119 fajny i nastrojowy , pok\u00f3j czarny bardzo nam pasowa\u0142 bo by\u0142 po prostu przykuwaj\u0105cy uwag\u0119 .",
+        "triplets": [
+            {
+                "uuid": "732ece6e-2d27-4ca9-9edd-77ad12e050c7",
+                "target_tags": "Naprawd\u0119\\O fajny\\O i\\O nastrojowy\\O ,\\O pok\u00f3j\\B czarny\\O bardzo\\O nam\\O pasowa\u0142\\O bo\\O by\u0142\\O po\\O prostu\\O przykuwaj\u0105cy\\O uwag\u0119\\O .\\O",
+                "opinion_tags": "Naprawd\u0119\\O fajny\\O i\\O nastrojowy\\O ,\\O pok\u00f3j\\O czarny\\B bardzo\\O nam\\O pasowa\u0142\\O bo\\O by\u0142\\O po\\O prostu\\O przykuwaj\u0105cy\\O uwag\u0119\\O .\\O",
+                "sentiment": "neutral"
+            },
+            {
+                "uuid": "63d56ac4-51dd-4221-b3f2-ff56b00caff7",
+                "target_tags": "Naprawd\u0119\\O fajny\\O i\\O nastrojowy\\O ,\\O pok\u00f3j\\B czarny\\O bardzo\\O nam\\O pasowa\u0142\\O bo\\O by\u0142\\O po\\O prostu\\O przykuwaj\u0105cy\\O uwag\u0119\\O .\\O",
+                "opinion_tags": "Naprawd\u0119\\O fajny\\O i\\O nastrojowy\\O ,\\O pok\u00f3j\\O czarny\\O bardzo\\B nam\\I pasowa\u0142\\I bo\\O by\u0142\\O po\\O prostu\\O przykuwaj\u0105cy\\O uwag\u0119\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "d40d7862-3e01-49fa-b144-aea7877fac06",
+                "target_tags": "Naprawd\u0119\\O fajny\\O i\\O nastrojowy\\O ,\\O pok\u00f3j\\B czarny\\O bardzo\\O nam\\O pasowa\u0142\\O bo\\O by\u0142\\O po\\O prostu\\O przykuwaj\u0105cy\\O uwag\u0119\\O .\\O",
+                "opinion_tags": "Naprawd\u0119\\O fajny\\O i\\O nastrojowy\\O ,\\O pok\u00f3j\\O czarny\\O bardzo\\O nam\\O pasowa\u0142\\O bo\\O by\u0142\\O po\\O prostu\\O przykuwaj\u0105cy\\B uwag\u0119\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "sentence": "Obs\u0142uga na dobrym poziomie .",
+        "triplets": [
+            {
+                "uuid": "396adc92-4072-4553-95c0-a034d3bec958",
+                "target_tags": "Obs\u0142uga\\B na\\O dobrym\\O poziomie\\O .\\O",
+                "opinion_tags": "Obs\u0142uga\\O na\\B dobrym\\I poziomie\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 337,
+        "sentence": "Du\u017cy plus za korek w wannie : ) Mia\u0142a m hb , posi\u0142ki by\u0142y smaczne .",
+        "triplets": [
+            {
+                "uuid": "796e8c61-a647-47eb-948b-18a3767563e3",
+                "target_tags": "Du\u017cy\\O plus\\O za\\O korek\\O w\\O wannie\\O :\\O )\\O Mia\u0142a\\O m\\O hb\\O ,\\O posi\u0142ki\\B by\u0142y\\O smaczne\\O .\\O",
+                "opinion_tags": "Du\u017cy\\O plus\\O za\\O korek\\O w\\O wannie\\O :\\O )\\O Mia\u0142a\\O m\\O hb\\O ,\\O posi\u0142ki\\O by\u0142y\\O smaczne\\B .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "a2e3b6cb-870a-44e5-bfec-bd35e749aae9",
+                "target_tags": "Du\u017cy\\O plus\\O za\\O korek\\B w\\I wannie\\I :\\O )\\O Mia\u0142a\\O m\\O hb\\O ,\\O posi\u0142ki\\O by\u0142y\\O smaczne\\O .\\O",
+                "opinion_tags": "Du\u017cy\\B plus\\I za\\O korek\\O w\\O wannie\\O :\\O )\\O Mia\u0142a\\O m\\O hb\\O ,\\O posi\u0142ki\\O by\u0142y\\O smaczne\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "sentence": "To nie restauracja tylko sto\u0142\u00f3wka z w\u00f3zkami na talerze .",
+        "triplets": [
+            {
+                "uuid": "25cdb877-5e37-46a9-a7b2-04357590311c",
+                "target_tags": "To\\O nie\\O restauracja\\B tylko\\O sto\u0142\u00f3wka\\O z\\O w\u00f3zkami\\O na\\O talerze\\O .\\O",
+                "opinion_tags": "To\\O nie\\O restauracja\\O tylko\\O sto\u0142\u00f3wka\\B z\\I w\u00f3zkami\\I na\\I talerze\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 504,
+        "sentence": "Jego najwi\u0119ksz\u0105 zalet\u0105 jest Aquapark z rozbudowan\u0105 stref\u0105 saun we wszystkich mo\u017cliwych wariantach , grot\u0105 soln\u0105 i ze s\u0142oneczn\u0105 \u0142\u0105k\u0105 , gdzie rzekomo mo\u017cna z\u0142apa\u0107 nieco opalenizny le\u017c\u0105c pod lampami UV .",
+        "triplets": [
+            {
+                "uuid": "0319338a-a7d1-4ca3-9daa-3902be291888",
+                "target_tags": "Jego\\O najwi\u0119ksz\u0105\\O zalet\u0105\\O jest\\O Aquapark\\B z\\O rozbudowan\u0105\\O stref\u0105\\O saun\\O we\\O wszystkich\\O mo\u017cliwych\\O wariantach\\O ,\\O grot\u0105\\O soln\u0105\\O i\\O ze\\O s\u0142oneczn\u0105\\O \u0142\u0105k\u0105\\O ,\\O gdzie\\O rzekomo\\O mo\u017cna\\O z\u0142apa\u0107\\O nieco\\O opalenizny\\O le\u017c\u0105c\\O pod\\O lampami\\O UV\\O .\\O",
+                "opinion_tags": "Jego\\O najwi\u0119ksz\u0105\\B zalet\u0105\\I jest\\O Aquapark\\O z\\O rozbudowan\u0105\\O stref\u0105\\O saun\\O we\\O wszystkich\\O mo\u017cliwych\\O wariantach\\O ,\\O grot\u0105\\O soln\u0105\\O i\\O ze\\O s\u0142oneczn\u0105\\O \u0142\u0105k\u0105\\O ,\\O gdzie\\O rzekomo\\O mo\u017cna\\O z\u0142apa\u0107\\O nieco\\O opalenizny\\O le\u017c\u0105c\\O pod\\O lampami\\O UV\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "5434fefd-b43e-4530-a779-617da7b01d7f",
+                "target_tags": "Jego\\O najwi\u0119ksz\u0105\\O zalet\u0105\\O jest\\O Aquapark\\B z\\O rozbudowan\u0105\\O stref\u0105\\O saun\\O we\\O wszystkich\\O mo\u017cliwych\\O wariantach\\O ,\\O grot\u0105\\O soln\u0105\\O i\\O ze\\O s\u0142oneczn\u0105\\O \u0142\u0105k\u0105\\O ,\\O gdzie\\O rzekomo\\O mo\u017cna\\O z\u0142apa\u0107\\O nieco\\O opalenizny\\O le\u017c\u0105c\\O pod\\O lampami\\O UV\\O .\\O",
+                "opinion_tags": "Jego\\O najwi\u0119ksz\u0105\\O zalet\u0105\\O jest\\O Aquapark\\O z\\O rozbudowan\u0105\\B stref\u0105\\I saun\\I we\\O wszystkich\\O mo\u017cliwych\\O wariantach\\O ,\\O grot\u0105\\O soln\u0105\\O i\\O ze\\O s\u0142oneczn\u0105\\O \u0142\u0105k\u0105\\O ,\\O gdzie\\O rzekomo\\O mo\u017cna\\O z\u0142apa\u0107\\O nieco\\O opalenizny\\O le\u017c\u0105c\\O pod\\O lampami\\O UV\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "044e34ec-7685-49d4-ac00-22d3d9b94fb4",
+                "target_tags": "Jego\\O najwi\u0119ksz\u0105\\O zalet\u0105\\O jest\\O Aquapark\\B z\\O rozbudowan\u0105\\O stref\u0105\\O saun\\O we\\O wszystkich\\O mo\u017cliwych\\O wariantach\\O ,\\O grot\u0105\\O soln\u0105\\O i\\O ze\\O s\u0142oneczn\u0105\\O \u0142\u0105k\u0105\\O ,\\O gdzie\\O rzekomo\\O mo\u017cna\\O z\u0142apa\u0107\\O nieco\\O opalenizny\\O le\u017c\u0105c\\O pod\\O lampami\\O UV\\O .\\O",
+                "opinion_tags": "Jego\\O najwi\u0119ksz\u0105\\O zalet\u0105\\O jest\\O Aquapark\\O z\\O rozbudowan\u0105\\O stref\u0105\\O saun\\O we\\O wszystkich\\O mo\u017cliwych\\O wariantach\\O ,\\O grot\u0105\\O soln\u0105\\O i\\O ze\\O s\u0142oneczn\u0105\\O \u0142\u0105k\u0105\\O ,\\O gdzie\\O rzekomo\\O mo\u017cna\\B z\u0142apa\u0107\\I nieco\\I opalenizny\\I le\u017c\u0105c\\I pod\\I lampami\\I UV\\I .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "9841c0a9-e227-4c5a-b95f-ed6ab6c1a396",
+                "target_tags": "Jego\\O najwi\u0119ksz\u0105\\O zalet\u0105\\O jest\\O Aquapark\\B z\\O rozbudowan\u0105\\O stref\u0105\\O saun\\O we\\O wszystkich\\O mo\u017cliwych\\O wariantach\\O ,\\O grot\u0105\\O soln\u0105\\O i\\O ze\\O s\u0142oneczn\u0105\\O \u0142\u0105k\u0105\\O ,\\O gdzie\\O rzekomo\\O mo\u017cna\\O z\u0142apa\u0107\\O nieco\\O opalenizny\\O le\u017c\u0105c\\O pod\\O lampami\\O UV\\O .\\O",
+                "opinion_tags": "Jego\\O najwi\u0119ksz\u0105\\O zalet\u0105\\O jest\\O Aquapark\\O z\\O rozbudowan\u0105\\O stref\u0105\\O saun\\O we\\O wszystkich\\O mo\u017cliwych\\O wariantach\\O ,\\O grot\u0105\\B soln\u0105\\I i\\O ze\\O s\u0142oneczn\u0105\\O \u0142\u0105k\u0105\\O ,\\O gdzie\\O rzekomo\\O mo\u017cna\\O z\u0142apa\u0107\\O nieco\\O opalenizny\\O le\u017c\u0105c\\O pod\\O lampami\\O UV\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "aeb55f50-ff7c-421f-be27-23ac78916a3d",
+                "target_tags": "Jego\\O najwi\u0119ksz\u0105\\O zalet\u0105\\O jest\\O Aquapark\\B z\\O rozbudowan\u0105\\O stref\u0105\\O saun\\O we\\O wszystkich\\O mo\u017cliwych\\O wariantach\\O ,\\O grot\u0105\\O soln\u0105\\O i\\O ze\\O s\u0142oneczn\u0105\\O \u0142\u0105k\u0105\\O ,\\O gdzie\\O rzekomo\\O mo\u017cna\\O z\u0142apa\u0107\\O nieco\\O opalenizny\\O le\u017c\u0105c\\O pod\\O lampami\\O UV\\O .\\O",
+                "opinion_tags": "Jego\\O najwi\u0119ksz\u0105\\O zalet\u0105\\O jest\\O Aquapark\\O z\\O rozbudowan\u0105\\O stref\u0105\\O saun\\O we\\O wszystkich\\O mo\u017cliwych\\O wariantach\\O ,\\O grot\u0105\\O soln\u0105\\O i\\O ze\\O s\u0142oneczn\u0105\\B \u0142\u0105k\u0105\\I ,\\O gdzie\\O rzekomo\\O mo\u017cna\\O z\u0142apa\u0107\\O nieco\\O opalenizny\\O le\u017c\u0105c\\O pod\\O lampami\\O UV\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 272,
+        "sentence": "Zdecydowanie jeden z najlepszych hoteli rodzinnych w Polsce .",
+        "triplets": [
+            {
+                "uuid": "75435d01-cb5b-4207-b7b2-01d0cf72d135",
+                "target_tags": "Zdecydowanie\\O jeden\\O z\\O najlepszych\\O hoteli\\B rodzinnych\\O w\\O Polsce\\O .\\O",
+                "opinion_tags": "Zdecydowanie\\O jeden\\B z\\I najlepszych\\I hoteli\\O rodzinnych\\O w\\O Polsce\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 538,
+        "sentence": "W naszym pokoju brakowa\u0142o \u0142\u00f3\u017cka dla dziecka , obs\u0142uga za\u0142atwi\u0142a to b\u0142yskawicznie .",
+        "triplets": [
+            {
+                "uuid": "7327790c-727e-497a-bbdd-9c0b9df23743",
+                "target_tags": "W\\O naszym\\O pokoju\\O brakowa\u0142o\\O \u0142\u00f3\u017cka\\O dla\\O dziecka\\O ,\\O obs\u0142uga\\B za\u0142atwi\u0142a\\O to\\O b\u0142yskawicznie\\O .\\O",
+                "opinion_tags": "W\\O naszym\\O pokoju\\O brakowa\u0142o\\O \u0142\u00f3\u017cka\\O dla\\O dziecka\\O ,\\O obs\u0142uga\\O za\u0142atwi\u0142a\\B to\\I b\u0142yskawicznie\\I .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "f855a3a5-c1e4-43bd-81e0-41cfe4b31731",
+                "target_tags": "W\\O naszym\\O pokoju\\B brakowa\u0142o\\O \u0142\u00f3\u017cka\\O dla\\O dziecka\\O ,\\O obs\u0142uga\\O za\u0142atwi\u0142a\\O to\\O b\u0142yskawicznie\\O .\\O",
+                "opinion_tags": "W\\O naszym\\O pokoju\\O brakowa\u0142o\\B \u0142\u00f3\u017cka\\I dla\\I dziecka\\I ,\\O obs\u0142uga\\O za\u0142atwi\u0142a\\O to\\O b\u0142yskawicznie\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "sentence": "Obiekt mie\u015bci si\u0119 na 4 pi\u0119trze kamienicy w centrum Warszawy .",
+        "triplets": [
+            {
+                "uuid": "70fd9b7d-6193-4c27-aa91-b872cacdf03c",
+                "target_tags": "Obiekt\\B mie\u015bci\\O si\u0119\\O na\\O 4\\O pi\u0119trze\\O kamienicy\\O w\\O centrum\\O Warszawy\\O .\\O",
+                "opinion_tags": "Obiekt\\O mie\u015bci\\B si\u0119\\I na\\I 4\\I pi\u0119trze\\I kamienicy\\I w\\I centrum\\I Warszawy\\I .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 277,
+        "sentence": "Pod prysznicem brak s\u0142uchawek i woda na przycisk , kt\u00f3ra lecia\u0142a oko\u0142o 20 sekund .",
+        "triplets": [
+            {
+                "uuid": "28e1a304-eeb7-468a-b84d-3d744aa5fa5b",
+                "target_tags": "Pod\\O prysznicem\\O brak\\O s\u0142uchawek\\O i\\O woda\\B na\\O przycisk\\O ,\\O kt\u00f3ra\\O lecia\u0142a\\O oko\u0142o\\O 20\\O sekund\\O .\\O",
+                "opinion_tags": "Pod\\O prysznicem\\O brak\\O s\u0142uchawek\\O i\\O woda\\O na\\B przycisk\\I ,\\O kt\u00f3ra\\O lecia\u0142a\\O oko\u0142o\\O 20\\O sekund\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "57dbf205-f3a2-432d-afa6-3ae35d7e6826",
+                "target_tags": "Pod\\O prysznicem\\O brak\\O s\u0142uchawek\\O i\\O woda\\B na\\O przycisk\\O ,\\O kt\u00f3ra\\O lecia\u0142a\\O oko\u0142o\\O 20\\O sekund\\O .\\O",
+                "opinion_tags": "Pod\\O prysznicem\\O brak\\O s\u0142uchawek\\O i\\O woda\\O na\\O przycisk\\O ,\\O kt\u00f3ra\\O lecia\u0142a\\B oko\u0142o\\I 20\\I sekund\\I .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "0989ab53-5e60-4035-af5a-62bad5886299",
+                "target_tags": "Pod\\O prysznicem\\B brak\\O s\u0142uchawek\\O i\\O woda\\O na\\O przycisk\\O ,\\O kt\u00f3ra\\O lecia\u0142a\\O oko\u0142o\\O 20\\O sekund\\O .\\O",
+                "opinion_tags": "Pod\\O prysznicem\\O brak\\B s\u0142uchawek\\I i\\O woda\\O na\\O przycisk\\O ,\\O kt\u00f3ra\\O lecia\u0142a\\O oko\u0142o\\O 20\\O sekund\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 485,
+        "sentence": "Gniazdka przy szafkach nocnych w ostatnich dniach pobytu nie dzialaly a po podlaczeniu zelazka do innego gniazdka wysadzalo korki w pokoju . . . .",
+        "triplets": [
+            {
+                "uuid": "62f6f618-7c9f-434f-ad33-d551490b5640",
+                "target_tags": "Gniazdka\\O przy\\O szafkach\\O nocnych\\O w\\O ostatnich\\O dniach\\O pobytu\\O nie\\O dzialaly\\O a\\O po\\O podlaczeniu\\O zelazka\\O do\\O innego\\O gniazdka\\O wysadzalo\\O korki\\O w\\O pokoju\\B .\\O .\\O .\\O .\\O",
+                "opinion_tags": "Gniazdka\\O przy\\O szafkach\\O nocnych\\O w\\O ostatnich\\O dniach\\O pobytu\\O nie\\O dzialaly\\O a\\O po\\O podlaczeniu\\O zelazka\\O do\\O innego\\O gniazdka\\O wysadzalo\\B korki\\I w\\O pokoju\\O .\\O .\\O .\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "7488beaf-1362-42d5-9fea-c392ad8c95b4",
+                "target_tags": "Gniazdka\\O przy\\O szafkach\\O nocnych\\O w\\O ostatnich\\O dniach\\O pobytu\\O nie\\O dzialaly\\O a\\O po\\O podlaczeniu\\O zelazka\\O do\\O innego\\O gniazdka\\O wysadzalo\\O korki\\O w\\O pokoju\\B .\\O .\\O .\\O .\\O",
+                "opinion_tags": "Gniazdka\\B przy\\I szafkach\\I nocnych\\I w\\I ostatnich\\I dniach\\I pobytu\\I nie\\I dzialaly\\I a\\O po\\O podlaczeniu\\O zelazka\\O do\\O innego\\O gniazdka\\O wysadzalo\\O korki\\O w\\O pokoju\\O .\\O .\\O .\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "sentence": "Animacje \u017ca\u0142osne , r\u00f3wnie\u017c skierowane do Brytyjczyk\u00f3w .",
+        "triplets": [
+            {
+                "uuid": "a6081c7e-6ee2-48c4-9455-afb82b3df4b2",
+                "target_tags": "Animacje\\B \u017ca\u0142osne\\O ,\\O r\u00f3wnie\u017c\\O skierowane\\O do\\O Brytyjczyk\u00f3w\\O .\\O",
+                "opinion_tags": "Animacje\\O \u017ca\u0142osne\\B ,\\O r\u00f3wnie\u017c\\O skierowane\\O do\\O Brytyjczyk\u00f3w\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "df0d70d9-8d26-4895-bd7e-a4f9ad330dd8",
+                "target_tags": "Animacje\\B \u017ca\u0142osne\\O ,\\O r\u00f3wnie\u017c\\O skierowane\\O do\\O Brytyjczyk\u00f3w\\O .\\O",
+                "opinion_tags": "Animacje\\O \u017ca\u0142osne\\O ,\\O r\u00f3wnie\u017c\\O skierowane\\B do\\I Brytyjczyk\u00f3w\\I .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 350,
+        "sentence": "Miejsce blisko centrum jak i morza lecz nie ma tu zgie\u0142ku jaki panuje w \u015bcis\u0142ym centrum .",
+        "triplets": [
+            {
+                "uuid": "1f9f1e39-58cc-4081-9063-edb99c766d13",
+                "target_tags": "Miejsce\\B blisko\\O centrum\\O jak\\O i\\O morza\\O lecz\\O nie\\O ma\\O tu\\O zgie\u0142ku\\O jaki\\O panuje\\O w\\O \u015bcis\u0142ym\\O centrum\\O .\\O",
+                "opinion_tags": "Miejsce\\O blisko\\B centrum\\I jak\\I i\\I morza\\I lecz\\O nie\\O ma\\O tu\\O zgie\u0142ku\\O jaki\\O panuje\\O w\\O \u015bcis\u0142ym\\O centrum\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "aed36991-b180-4b16-961a-91eafa781f2f",
+                "target_tags": "Miejsce\\B blisko\\O centrum\\O jak\\O i\\O morza\\O lecz\\O nie\\O ma\\O tu\\O zgie\u0142ku\\O jaki\\O panuje\\O w\\O \u015bcis\u0142ym\\O centrum\\O .\\O",
+                "opinion_tags": "Miejsce\\O blisko\\O centrum\\O jak\\O i\\O morza\\O lecz\\O nie\\B ma\\I tu\\I zgie\u0142ku\\I jaki\\O panuje\\O w\\O \u015bcis\u0142ym\\O centrum\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "sentence": "Typowy pensjonat , ktory ladnie wyglada tylko w opisie .",
+        "triplets": [
+            {
+                "uuid": "bf076610-f362-4d70-85db-ab1a56c5fe32",
+                "target_tags": "Typowy\\O pensjonat\\B ,\\O ktory\\O ladnie\\O wyglada\\O tylko\\O w\\O opisie\\O .\\O",
+                "opinion_tags": "Typowy\\O pensjonat\\O ,\\O ktory\\O ladnie\\B wyglada\\I tylko\\I w\\I opisie\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 384,
+        "sentence": "Le\u017cak\u00f3w troch\u0119 ma\u0142o i od rana zaj\u0119te .",
+        "triplets": [
+            {
+                "uuid": "0efca5a7-2d59-42bb-9b91-be19cb49f4ce",
+                "target_tags": "Le\u017cak\u00f3w\\B troch\u0119\\O ma\u0142o\\O i\\O od\\O rana\\O zaj\u0119te\\O .\\O",
+                "opinion_tags": "Le\u017cak\u00f3w\\O troch\u0119\\B ma\u0142o\\I i\\O od\\O rana\\O zaj\u0119te\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "ebb06ba3-0e95-425f-99fc-229ccf70baa2",
+                "target_tags": "Le\u017cak\u00f3w\\B troch\u0119\\O ma\u0142o\\O i\\O od\\O rana\\O zaj\u0119te\\O .\\O",
+                "opinion_tags": "Le\u017cak\u00f3w\\O troch\u0119\\O ma\u0142o\\O i\\O od\\B rana\\I zaj\u0119te\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "sentence": "Nie spodziewa\u0142a m si\u0119 luksus\u00f3w , jednak to by\u0142 nocleg w warunkach gorszych ni\u017c w najgorszym hostelu .",
+        "triplets": [
+            {
+                "uuid": "28026a63-c215-410e-845d-a242c230011b",
+                "target_tags": "Nie\\O spodziewa\u0142a\\O m\\O si\u0119\\O luksus\u00f3w\\O ,\\O jednak\\O to\\O by\u0142\\O nocleg\\B w\\O warunkach\\O gorszych\\O ni\u017c\\O w\\O najgorszym\\O hostelu\\O .\\O",
+                "opinion_tags": "Nie\\O spodziewa\u0142a\\O m\\O si\u0119\\O luksus\u00f3w\\O ,\\O jednak\\O to\\O by\u0142\\O nocleg\\O w\\B warunkach\\I gorszych\\I ni\u017c\\I w\\I najgorszym\\I hostelu\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 561,
+        "sentence": "Super wieczorne teatrzyki dla dzieci .",
+        "triplets": [
+            {
+                "uuid": "a2dfdd64-3a04-4b60-b8cf-4c00f01538f9",
+                "target_tags": "Super\\O wieczorne\\O teatrzyki\\B dla\\I dzieci\\I .\\O",
+                "opinion_tags": "Super\\B wieczorne\\O teatrzyki\\O dla\\O dzieci\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "sentence": "Otrzymali \u015bmy chyba najgorszy pok\u00f3j na ko\u0144cu korytarza z widokiem na parking .",
+        "triplets": [
+            {
+                "uuid": "d17b9909-e0a9-4724-a527-bbfac884c8f7",
+                "target_tags": "Otrzymali\\O \u015bmy\\O chyba\\O najgorszy\\O pok\u00f3j\\B na\\O ko\u0144cu\\O korytarza\\O z\\O widokiem\\O na\\O parking\\O .\\O",
+                "opinion_tags": "Otrzymali\\O \u015bmy\\O chyba\\O najgorszy\\B pok\u00f3j\\O na\\O ko\u0144cu\\O korytarza\\O z\\O widokiem\\O na\\O parking\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "aa78d5f7-5b94-4769-95e4-ab0e59ee7205",
+                "target_tags": "Otrzymali\\O \u015bmy\\O chyba\\O najgorszy\\O pok\u00f3j\\B na\\O ko\u0144cu\\O korytarza\\O z\\O widokiem\\O na\\O parking\\O .\\O",
+                "opinion_tags": "Otrzymali\\O \u015bmy\\O chyba\\O najgorszy\\O pok\u00f3j\\O na\\O ko\u0144cu\\O korytarza\\O z\\B widokiem\\I na\\I parking\\I .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "360a111f-12d7-4a50-b929-f733412973d3",
+                "target_tags": "Otrzymali\\O \u015bmy\\O chyba\\O najgorszy\\O pok\u00f3j\\B na\\O ko\u0144cu\\O korytarza\\O z\\O widokiem\\O na\\O parking\\O .\\O",
+                "opinion_tags": "Otrzymali\\O \u015bmy\\O chyba\\O najgorszy\\O pok\u00f3j\\O na\\B ko\u0144cu\\I korytarza\\I z\\O widokiem\\O na\\O parking\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 332,
+        "sentence": "W tej cenie lub z 20 z\u0142 wi\u0119cej na pewno b\u0119dzie lepszy obiekt .",
+        "triplets": [
+            {
+                "uuid": "f56ec93b-171f-4639-a6ae-fb8793ab55aa",
+                "target_tags": "W\\O tej\\O cenie\\O lub\\O z\\O 20\\O z\u0142\\O wi\u0119cej\\O na\\O pewno\\O b\u0119dzie\\O lepszy\\O obiekt\\B .\\O",
+                "opinion_tags": "W\\B tej\\I cenie\\I lub\\I z\\I 20\\I z\u0142\\I wi\u0119cej\\I na\\I pewno\\I b\u0119dzie\\I lepszy\\I obiekt\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "sentence": "Blisko drogi ekspresowej co pozwala szybko do niego dojecha\u0107 .",
+        "triplets": [
+            {
+                "uuid": "e0914134-9932-4bad-a09f-a1d7dedce7cb",
+                "target_tags": "Blisko\\O drogi\\B ekspresowej\\I co\\O pozwala\\O szybko\\O do\\O niego\\O dojecha\u0107\\O .\\O",
+                "opinion_tags": "Blisko\\B drogi\\O ekspresowej\\O co\\O pozwala\\O szybko\\O do\\O niego\\O dojecha\u0107\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "sentence": "Mam tak\u017ce kilka zastrze\u017ce\u0144 , kt\u00f3re mo\u017ce nie s\u0105 powa\u017cnymi wadami , ale z pewno\u015bci\u0105 nie mog\u0105 si\u0119 zdarzy\u0107 w hotelu , kt\u00f3ry oferuje standard pi\u0119ciogwiazdkowy : - brak czajnika i fili\u017canek w pokoju ( domy\u015blam si\u0119 , \u017ce otrzyma\u0142a by m taki zestaw w recepcji , ale to nie o to chodzi w takich hotelach ) , - nie zaoferowano nam pomocy przy wnoszeniu baga\u017cu , - ma\u0142y pok\u00f3j , 2 pojedyncze \u0142\u00f3\u017cka z ultra - mi\u0119kkimi materacami z\u0142\u0105czonymi w 1 pseudo\u0142o\u017ce ( zaznaczali \u015bmy , \u017ce oczekujemy \u0142o\u017ca ma\u0142\u017ce\u0144skiego ) .",
+        "triplets": [
+            {
+                "uuid": "f7e40ef9-8c2c-40f3-ba87-78504053640d",
+                "target_tags": "Mam\\O tak\u017ce\\O kilka\\O zastrze\u017ce\u0144\\O ,\\O kt\u00f3re\\O mo\u017ce\\O nie\\O s\u0105\\O powa\u017cnymi\\O wadami\\O ,\\O ale\\O z\\O pewno\u015bci\u0105\\O nie\\O mog\u0105\\O si\u0119\\O zdarzy\u0107\\O w\\O hotelu\\O ,\\O kt\u00f3ry\\O oferuje\\O standard\\O pi\u0119ciogwiazdkowy\\O :\\O -\\O brak\\O czajnika\\O i\\O fili\u017canek\\O w\\O pokoju\\O (\\O domy\u015blam\\O si\u0119\\O ,\\O \u017ce\\O otrzyma\u0142a\\O by\\O m\\O taki\\O zestaw\\O w\\O recepcji\\O ,\\O ale\\O to\\O nie\\O o\\O to\\O chodzi\\O w\\O takich\\O hotelach\\O )\\O ,\\O -\\O nie\\O zaoferowano\\O nam\\O pomocy\\O przy\\O wnoszeniu\\O baga\u017cu\\O ,\\O -\\O ma\u0142y\\O pok\u00f3j\\B ,\\O 2\\O pojedyncze\\O \u0142\u00f3\u017cka\\O z\\O ultra\\O -\\O mi\u0119kkimi\\O materacami\\O z\u0142\u0105czonymi\\O w\\O 1\\O pseudo\u0142o\u017ce\\O (\\O zaznaczali\\O \u015bmy\\O ,\\O \u017ce\\O oczekujemy\\O \u0142o\u017ca\\O ma\u0142\u017ce\u0144skiego\\O )\\O .\\O",
+                "opinion_tags": "Mam\\O tak\u017ce\\O kilka\\O zastrze\u017ce\u0144\\O ,\\O kt\u00f3re\\O mo\u017ce\\O nie\\O s\u0105\\O powa\u017cnymi\\O wadami\\O ,\\O ale\\O z\\O pewno\u015bci\u0105\\O nie\\O mog\u0105\\O si\u0119\\O zdarzy\u0107\\O w\\O hotelu\\O ,\\O kt\u00f3ry\\O oferuje\\O standard\\O pi\u0119ciogwiazdkowy\\O :\\O -\\O brak\\O czajnika\\O i\\O fili\u017canek\\O w\\O pokoju\\O (\\O domy\u015blam\\O si\u0119\\O ,\\O \u017ce\\O otrzyma\u0142a\\O by\\O m\\O taki\\O zestaw\\O w\\O recepcji\\O ,\\O ale\\O to\\O nie\\O o\\O to\\O chodzi\\O w\\O takich\\O hotelach\\O )\\O ,\\O -\\O nie\\O zaoferowano\\O nam\\O pomocy\\O przy\\O wnoszeniu\\O baga\u017cu\\O ,\\O -\\O ma\u0142y\\B pok\u00f3j\\O ,\\O 2\\O pojedyncze\\O \u0142\u00f3\u017cka\\O z\\O ultra\\O -\\O mi\u0119kkimi\\O materacami\\O z\u0142\u0105czonymi\\O w\\O 1\\O pseudo\u0142o\u017ce\\O (\\O zaznaczali\\O \u015bmy\\O ,\\O \u017ce\\O oczekujemy\\O \u0142o\u017ca\\O ma\u0142\u017ce\u0144skiego\\O )\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "51378b4f-3dc3-4a34-9f15-6a6a6e4b95ba",
+                "target_tags": "Mam\\O tak\u017ce\\O kilka\\O zastrze\u017ce\u0144\\O ,\\O kt\u00f3re\\O mo\u017ce\\O nie\\O s\u0105\\O powa\u017cnymi\\O wadami\\O ,\\O ale\\O z\\O pewno\u015bci\u0105\\O nie\\O mog\u0105\\O si\u0119\\O zdarzy\u0107\\O w\\O hotelu\\O ,\\O kt\u00f3ry\\O oferuje\\O standard\\O pi\u0119ciogwiazdkowy\\O :\\O -\\O brak\\O czajnika\\O i\\O fili\u017canek\\O w\\O pokoju\\O (\\O domy\u015blam\\O si\u0119\\O ,\\O \u017ce\\O otrzyma\u0142a\\O by\\O m\\O taki\\O zestaw\\O w\\O recepcji\\O ,\\O ale\\O to\\O nie\\O o\\O to\\O chodzi\\O w\\O takich\\O hotelach\\O )\\O ,\\O -\\O nie\\O zaoferowano\\O nam\\O pomocy\\O przy\\O wnoszeniu\\O baga\u017cu\\O ,\\O -\\O ma\u0142y\\O pok\u00f3j\\O ,\\O 2\\O pojedyncze\\O \u0142\u00f3\u017cka\\B z\\O ultra\\O -\\O mi\u0119kkimi\\O materacami\\O z\u0142\u0105czonymi\\O w\\O 1\\O pseudo\u0142o\u017ce\\O (\\O zaznaczali\\O \u015bmy\\O ,\\O \u017ce\\O oczekujemy\\O \u0142o\u017ca\\O ma\u0142\u017ce\u0144skiego\\O )\\O .\\O",
+                "opinion_tags": "Mam\\O tak\u017ce\\O kilka\\O zastrze\u017ce\u0144\\O ,\\O kt\u00f3re\\O mo\u017ce\\O nie\\O s\u0105\\O powa\u017cnymi\\O wadami\\O ,\\O ale\\O z\\O pewno\u015bci\u0105\\O nie\\O mog\u0105\\O si\u0119\\O zdarzy\u0107\\O w\\O hotelu\\O ,\\O kt\u00f3ry\\O oferuje\\O standard\\O pi\u0119ciogwiazdkowy\\O :\\O -\\O brak\\O czajnika\\O i\\O fili\u017canek\\O w\\O pokoju\\O (\\O domy\u015blam\\O si\u0119\\O ,\\O \u017ce\\O otrzyma\u0142a\\O by\\O m\\O taki\\O zestaw\\O w\\O recepcji\\O ,\\O ale\\O to\\O nie\\O o\\O to\\O chodzi\\O w\\O takich\\O hotelach\\O )\\O ,\\O -\\O nie\\O zaoferowano\\O nam\\O pomocy\\O przy\\O wnoszeniu\\O baga\u017cu\\O ,\\O -\\O ma\u0142y\\O pok\u00f3j\\O ,\\O 2\\O pojedyncze\\O \u0142\u00f3\u017cka\\O z\\B ultra\\I -\\I mi\u0119kkimi\\I materacami\\I z\u0142\u0105czonymi\\O w\\O 1\\O pseudo\u0142o\u017ce\\O (\\O zaznaczali\\O \u015bmy\\O ,\\O \u017ce\\O oczekujemy\\O \u0142o\u017ca\\O ma\u0142\u017ce\u0144skiego\\O )\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "722a05c2-3b83-4a74-9264-c6fa78707f29",
+                "target_tags": "Mam\\O tak\u017ce\\O kilka\\O zastrze\u017ce\u0144\\O ,\\O kt\u00f3re\\O mo\u017ce\\O nie\\O s\u0105\\O powa\u017cnymi\\O wadami\\O ,\\O ale\\O z\\O pewno\u015bci\u0105\\O nie\\O mog\u0105\\O si\u0119\\O zdarzy\u0107\\O w\\O hotelu\\O ,\\O kt\u00f3ry\\O oferuje\\O standard\\O pi\u0119ciogwiazdkowy\\O :\\O -\\O brak\\O czajnika\\O i\\O fili\u017canek\\O w\\O pokoju\\B (\\O domy\u015blam\\O si\u0119\\O ,\\O \u017ce\\O otrzyma\u0142a\\O by\\O m\\O taki\\O zestaw\\O w\\O recepcji\\O ,\\O ale\\O to\\O nie\\O o\\O to\\O chodzi\\O w\\O takich\\O hotelach\\O )\\O ,\\O -\\O nie\\O zaoferowano\\O nam\\O pomocy\\O przy\\O wnoszeniu\\O baga\u017cu\\O ,\\O -\\O ma\u0142y\\O pok\u00f3j\\O ,\\O 2\\O pojedyncze\\O \u0142\u00f3\u017cka\\O z\\O ultra\\O -\\O mi\u0119kkimi\\O materacami\\O z\u0142\u0105czonymi\\O w\\O 1\\O pseudo\u0142o\u017ce\\O (\\O zaznaczali\\O \u015bmy\\O ,\\O \u017ce\\O oczekujemy\\O \u0142o\u017ca\\O ma\u0142\u017ce\u0144skiego\\O )\\O .\\O",
+                "opinion_tags": "Mam\\O tak\u017ce\\O kilka\\O zastrze\u017ce\u0144\\O ,\\O kt\u00f3re\\O mo\u017ce\\O nie\\O s\u0105\\O powa\u017cnymi\\O wadami\\O ,\\O ale\\O z\\O pewno\u015bci\u0105\\O nie\\O mog\u0105\\O si\u0119\\O zdarzy\u0107\\O w\\O hotelu\\O ,\\O kt\u00f3ry\\O oferuje\\O standard\\O pi\u0119ciogwiazdkowy\\O :\\O -\\O brak\\B czajnika\\I i\\I fili\u017canek\\I w\\O pokoju\\O (\\O domy\u015blam\\O si\u0119\\O ,\\O \u017ce\\O otrzyma\u0142a\\O by\\O m\\O taki\\O zestaw\\O w\\O recepcji\\O ,\\O ale\\O to\\O nie\\O o\\O to\\O chodzi\\O w\\O takich\\O hotelach\\O )\\O ,\\O -\\O nie\\O zaoferowano\\O nam\\O pomocy\\O przy\\O wnoszeniu\\O baga\u017cu\\O ,\\O -\\O ma\u0142y\\O pok\u00f3j\\O ,\\O 2\\O pojedyncze\\O \u0142\u00f3\u017cka\\O z\\O ultra\\O -\\O mi\u0119kkimi\\O materacami\\O z\u0142\u0105czonymi\\O w\\O 1\\O pseudo\u0142o\u017ce\\O (\\O zaznaczali\\O \u015bmy\\O ,\\O \u017ce\\O oczekujemy\\O \u0142o\u017ca\\O ma\u0142\u017ce\u0144skiego\\O )\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "975d0e51-f6c1-4462-88d6-8063fd49484e",
+                "target_tags": "Mam\\O tak\u017ce\\O kilka\\O zastrze\u017ce\u0144\\O ,\\O kt\u00f3re\\O mo\u017ce\\O nie\\O s\u0105\\O powa\u017cnymi\\O wadami\\O ,\\O ale\\O z\\O pewno\u015bci\u0105\\O nie\\O mog\u0105\\O si\u0119\\O zdarzy\u0107\\O w\\O hotelu\\O ,\\O kt\u00f3ry\\O oferuje\\O standard\\O pi\u0119ciogwiazdkowy\\O :\\O -\\O brak\\O czajnika\\O i\\O fili\u017canek\\O w\\O pokoju\\O (\\O domy\u015blam\\O si\u0119\\O ,\\O \u017ce\\O otrzyma\u0142a\\O by\\O m\\O taki\\O zestaw\\O w\\O recepcji\\O ,\\O ale\\O to\\O nie\\O o\\O to\\O chodzi\\O w\\O takich\\O hotelach\\O )\\O ,\\O -\\O nie\\O zaoferowano\\O nam\\O pomocy\\O przy\\O wnoszeniu\\O baga\u017cu\\O ,\\O -\\O ma\u0142y\\O pok\u00f3j\\O ,\\O 2\\O pojedyncze\\O \u0142\u00f3\u017cka\\B z\\O ultra\\O -\\O mi\u0119kkimi\\O materacami\\O z\u0142\u0105czonymi\\O w\\O 1\\O pseudo\u0142o\u017ce\\O (\\O zaznaczali\\O \u015bmy\\O ,\\O \u017ce\\O oczekujemy\\O \u0142o\u017ca\\O ma\u0142\u017ce\u0144skiego\\O )\\O .\\O",
+                "opinion_tags": "Mam\\O tak\u017ce\\O kilka\\O zastrze\u017ce\u0144\\O ,\\O kt\u00f3re\\O mo\u017ce\\O nie\\O s\u0105\\O powa\u017cnymi\\O wadami\\O ,\\O ale\\O z\\O pewno\u015bci\u0105\\O nie\\O mog\u0105\\O si\u0119\\O zdarzy\u0107\\O w\\O hotelu\\O ,\\O kt\u00f3ry\\O oferuje\\O standard\\O pi\u0119ciogwiazdkowy\\O :\\O -\\O brak\\O czajnika\\O i\\O fili\u017canek\\O w\\O pokoju\\O (\\O domy\u015blam\\O si\u0119\\O ,\\O \u017ce\\O otrzyma\u0142a\\O by\\O m\\O taki\\O zestaw\\O w\\O recepcji\\O ,\\O ale\\O to\\O nie\\O o\\O to\\O chodzi\\O w\\O takich\\O hotelach\\O )\\O ,\\O -\\O nie\\O zaoferowano\\O nam\\O pomocy\\O przy\\O wnoszeniu\\O baga\u017cu\\O ,\\O -\\O ma\u0142y\\O pok\u00f3j\\O ,\\O 2\\B pojedyncze\\I \u0142\u00f3\u017cka\\O z\\O ultra\\O -\\O mi\u0119kkimi\\O materacami\\O z\u0142\u0105czonymi\\O w\\O 1\\O pseudo\u0142o\u017ce\\O (\\O zaznaczali\\O \u015bmy\\O ,\\O \u017ce\\O oczekujemy\\O \u0142o\u017ca\\O ma\u0142\u017ce\u0144skiego\\O )\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "2e7736d3-8c4f-4668-9f94-80703e6da4f7",
+                "target_tags": "Mam\\O tak\u017ce\\O kilka\\O zastrze\u017ce\u0144\\O ,\\O kt\u00f3re\\O mo\u017ce\\O nie\\O s\u0105\\O powa\u017cnymi\\O wadami\\O ,\\O ale\\O z\\O pewno\u015bci\u0105\\O nie\\O mog\u0105\\O si\u0119\\O zdarzy\u0107\\O w\\O hotelu\\B ,\\O kt\u00f3ry\\O oferuje\\O standard\\O pi\u0119ciogwiazdkowy\\O :\\O -\\O brak\\O czajnika\\O i\\O fili\u017canek\\O w\\O pokoju\\O (\\O domy\u015blam\\O si\u0119\\O ,\\O \u017ce\\O otrzyma\u0142a\\O by\\O m\\O taki\\O zestaw\\O w\\O recepcji\\O ,\\O ale\\O to\\O nie\\O o\\O to\\O chodzi\\O w\\O takich\\O hotelach\\O )\\O ,\\O -\\O nie\\O zaoferowano\\O nam\\O pomocy\\O przy\\O wnoszeniu\\O baga\u017cu\\O ,\\O -\\O ma\u0142y\\O pok\u00f3j\\O ,\\O 2\\O pojedyncze\\O \u0142\u00f3\u017cka\\O z\\O ultra\\O -\\O mi\u0119kkimi\\O materacami\\O z\u0142\u0105czonymi\\O w\\O 1\\O pseudo\u0142o\u017ce\\O (\\O zaznaczali\\O \u015bmy\\O ,\\O \u017ce\\O oczekujemy\\O \u0142o\u017ca\\O ma\u0142\u017ce\u0144skiego\\O )\\O .\\O",
+                "opinion_tags": "Mam\\O tak\u017ce\\O kilka\\O zastrze\u017ce\u0144\\O ,\\O kt\u00f3re\\O mo\u017ce\\O nie\\O s\u0105\\O powa\u017cnymi\\O wadami\\O ,\\O ale\\O z\\O pewno\u015bci\u0105\\O nie\\O mog\u0105\\O si\u0119\\O zdarzy\u0107\\O w\\O hotelu\\O ,\\O kt\u00f3ry\\O oferuje\\O standard\\B pi\u0119ciogwiazdkowy\\I :\\O -\\O brak\\O czajnika\\O i\\O fili\u017canek\\O w\\O pokoju\\O (\\O domy\u015blam\\O si\u0119\\O ,\\O \u017ce\\O otrzyma\u0142a\\O by\\O m\\O taki\\O zestaw\\O w\\O recepcji\\O ,\\O ale\\O to\\O nie\\O o\\O to\\O chodzi\\O w\\O takich\\O hotelach\\O )\\O ,\\O -\\O nie\\O zaoferowano\\O nam\\O pomocy\\O przy\\O wnoszeniu\\O baga\u017cu\\O ,\\O -\\O ma\u0142y\\O pok\u00f3j\\O ,\\O 2\\O pojedyncze\\O \u0142\u00f3\u017cka\\O z\\O ultra\\O -\\O mi\u0119kkimi\\O materacami\\O z\u0142\u0105czonymi\\O w\\O 1\\O pseudo\u0142o\u017ce\\O (\\O zaznaczali\\O \u015bmy\\O ,\\O \u017ce\\O oczekujemy\\O \u0142o\u017ca\\O ma\u0142\u017ce\u0144skiego\\O )\\O .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "sentence": "Perfekcyjna lokalizacja najwi\u0119ksz\u0105 zalet\u0105 hotelu .",
+        "triplets": [
+            {
+                "uuid": "7766846c-0481-4b63-a864-a81cda76e9b0",
+                "target_tags": "Perfekcyjna\\O lokalizacja\\B najwi\u0119ksz\u0105\\O zalet\u0105\\O hotelu\\O .\\O",
+                "opinion_tags": "Perfekcyjna\\B lokalizacja\\O najwi\u0119ksz\u0105\\O zalet\u0105\\O hotelu\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "8fc1126a-55be-4910-82c4-5df196e711c8",
+                "target_tags": "Perfekcyjna\\O lokalizacja\\B najwi\u0119ksz\u0105\\O zalet\u0105\\O hotelu\\O .\\O",
+                "opinion_tags": "Perfekcyjna\\O lokalizacja\\O najwi\u0119ksz\u0105\\B zalet\u0105\\I hotelu\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "sentence": "Najwi\u0119kszy problem w hotelu to obs\u0142uga bufetu - posi\u0142ek wieczorny od 17 do 19 , wszystko podane i go\u015bcie si\u0119 cz\u0119stuj\u0105 .",
+        "triplets": [
+            {
+                "uuid": "951d049b-b0f5-4b3d-989f-1674b21b4e77",
+                "target_tags": "Najwi\u0119kszy\\O problem\\O w\\O hotelu\\O to\\O obs\u0142uga\\B bufetu\\I -\\O posi\u0142ek\\O wieczorny\\O od\\O 17\\O do\\O 19\\O ,\\O wszystko\\O podane\\O i\\O go\u015bcie\\O si\u0119\\O cz\u0119stuj\u0105\\O .\\O",
+                "opinion_tags": "Najwi\u0119kszy\\B problem\\I w\\O hotelu\\O to\\O obs\u0142uga\\O bufetu\\O -\\O posi\u0142ek\\O wieczorny\\O od\\O 17\\O do\\O 19\\O ,\\O wszystko\\O podane\\O i\\O go\u015bcie\\O si\u0119\\O cz\u0119stuj\u0105\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 560,
+        "sentence": "Pokoje malutkie bez wentylacji w gor\u0105ce dni mo\u017cna sie udusi\u0107 .",
+        "triplets": [
+            {
+                "uuid": "c5d3f37e-6827-4245-9f2b-af88e1f2dde3",
+                "target_tags": "Pokoje\\B malutkie\\O bez\\O wentylacji\\O w\\O gor\u0105ce\\O dni\\O mo\u017cna\\O sie\\O udusi\u0107\\O .\\O",
+                "opinion_tags": "Pokoje\\O malutkie\\B bez\\O wentylacji\\O w\\O gor\u0105ce\\O dni\\O mo\u017cna\\O sie\\O udusi\u0107\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "dd59dbfa-1736-4190-9f91-8ea96cce68b8",
+                "target_tags": "Pokoje\\B malutkie\\O bez\\O wentylacji\\O w\\O gor\u0105ce\\O dni\\O mo\u017cna\\O sie\\O udusi\u0107\\O .\\O",
+                "opinion_tags": "Pokoje\\O malutkie\\O bez\\B wentylacji\\I w\\O gor\u0105ce\\O dni\\O mo\u017cna\\O sie\\O udusi\u0107\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "ca869d24-9b9a-44d0-8b1d-4a44b3e85842",
+                "target_tags": "Pokoje\\B malutkie\\O bez\\O wentylacji\\O w\\O gor\u0105ce\\O dni\\O mo\u017cna\\O sie\\O udusi\u0107\\O .\\O",
+                "opinion_tags": "Pokoje\\O malutkie\\O bez\\O wentylacji\\O w\\B gor\u0105ce\\I dni\\I mo\u017cna\\I sie\\I udusi\u0107\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "sentence": "W nastepnym pokoju pilot nie dzialal , brodzik byl zapchany , smrod z kanalizy , brudne sciany jak i zaslony .",
+        "triplets": [
+            {
+                "uuid": "44456294-c449-4bf2-90b2-d04ca3faa047",
+                "target_tags": "W\\O nastepnym\\O pokoju\\B pilot\\O nie\\O dzialal\\O ,\\O brodzik\\O byl\\O zapchany\\O ,\\O smrod\\O z\\O kanalizy\\O ,\\O brudne\\O sciany\\O jak\\O i\\O zaslony\\O .\\O",
+                "opinion_tags": "W\\O nastepnym\\O pokoju\\O pilot\\B nie\\I dzialal\\I ,\\O brodzik\\O byl\\O zapchany\\O ,\\O smrod\\O z\\O kanalizy\\O ,\\O brudne\\O sciany\\O jak\\O i\\O zaslony\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "653d98f3-9cb0-4070-9c6e-a05f5692dc13",
+                "target_tags": "W\\O nastepnym\\O pokoju\\B pilot\\O nie\\O dzialal\\O ,\\O brodzik\\O byl\\O zapchany\\O ,\\O smrod\\O z\\O kanalizy\\O ,\\O brudne\\O sciany\\O jak\\O i\\O zaslony\\O .\\O",
+                "opinion_tags": "W\\O nastepnym\\O pokoju\\O pilot\\O nie\\O dzialal\\O ,\\O brodzik\\B byl\\I zapchany\\I ,\\O smrod\\O z\\O kanalizy\\O ,\\O brudne\\O sciany\\O jak\\O i\\O zaslony\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "612f5f69-e618-445b-98d9-f99bae13c024",
+                "target_tags": "W\\O nastepnym\\O pokoju\\B pilot\\O nie\\O dzialal\\O ,\\O brodzik\\O byl\\O zapchany\\O ,\\O smrod\\O z\\O kanalizy\\O ,\\O brudne\\O sciany\\O jak\\O i\\O zaslony\\O .\\O",
+                "opinion_tags": "W\\O nastepnym\\O pokoju\\O pilot\\O nie\\O dzialal\\O ,\\O brodzik\\O byl\\O zapchany\\O ,\\O smrod\\B z\\I kanalizy\\I ,\\O brudne\\O sciany\\O jak\\O i\\O zaslony\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "eb8956d1-9a0d-47de-8266-b455e404a477",
+                "target_tags": "W\\O nastepnym\\O pokoju\\B pilot\\O nie\\O dzialal\\O ,\\O brodzik\\O byl\\O zapchany\\O ,\\O smrod\\O z\\O kanalizy\\O ,\\O brudne\\O sciany\\O jak\\O i\\O zaslony\\O .\\O",
+                "opinion_tags": "W\\O nastepnym\\O pokoju\\O pilot\\O nie\\O dzialal\\O ,\\O brodzik\\O byl\\O zapchany\\O ,\\O smrod\\O z\\O kanalizy\\O ,\\O brudne\\B sciany\\I jak\\I i\\I zaslony\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "sentence": "Hotel posiada sklep w kt\u00f3rym mo\u017cna kupi\u0107 artyku\u0142y spo\u017cywcze oraz higieniczne jest to du\u017ce udogodnienie poniewa\u017c najbli\u017cszy sklep znajduje sie 40km od hotelu .",
+        "triplets": [
+            {
+                "uuid": "9d6f8ff1-f759-4402-9824-07bba9f7f80e",
+                "target_tags": "Hotel\\B posiada\\O sklep\\O w\\O kt\u00f3rym\\O mo\u017cna\\O kupi\u0107\\O artyku\u0142y\\O spo\u017cywcze\\O oraz\\O higieniczne\\O jest\\O to\\O du\u017ce\\O udogodnienie\\O poniewa\u017c\\O najbli\u017cszy\\O sklep\\O znajduje\\O sie\\O 40km\\O od\\O hotelu\\O .\\O",
+                "opinion_tags": "Hotel\\O posiada\\B sklep\\I w\\O kt\u00f3rym\\O mo\u017cna\\O kupi\u0107\\O artyku\u0142y\\O spo\u017cywcze\\O oraz\\O higieniczne\\O jest\\O to\\O du\u017ce\\O udogodnienie\\O poniewa\u017c\\O najbli\u017cszy\\O sklep\\O znajduje\\O sie\\O 40km\\O od\\O hotelu\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 331,
+        "sentence": "Panowie byli bardzo uprzejmi mili .",
+        "triplets": [
+            {
+                "uuid": "d588a0bd-084b-47ac-88ef-c5fc7332be20",
+                "target_tags": "Panowie\\B byli\\O bardzo\\O uprzejmi\\O mili\\O .\\O",
+                "opinion_tags": "Panowie\\O byli\\O bardzo\\B uprzejmi\\I mili\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "0781459a-389b-42c3-9de7-d1d90f419888",
+                "target_tags": "Panowie\\B byli\\O bardzo\\O uprzejmi\\O mili\\O .\\O",
+                "opinion_tags": "Panowie\\O byli\\O bardzo\\O uprzejmi\\O mili\\B .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "sentence": "Barman m\u00f3g\u0142 by potrenowa\u0107 klasyczne drinki .",
+        "triplets": [
+            {
+                "uuid": "76442d4e-6009-4c28-adfd-633bd609249f",
+                "target_tags": "Barman\\B m\u00f3g\u0142\\O by\\O potrenowa\u0107\\O klasyczne\\O drinki\\O .\\O",
+                "opinion_tags": "Barman\\O m\u00f3g\u0142\\B by\\I potrenowa\u0107\\I klasyczne\\I drinki\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 443,
+        "sentence": "Menu monotonne .",
+        "triplets": [
+            {
+                "uuid": "028ef44e-0ac5-48d7-af15-4ca0dc8a8af9",
+                "target_tags": "Menu\\B monotonne\\O .\\O",
+                "opinion_tags": "Menu\\O monotonne\\B .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 552,
+        "sentence": "Bardzo polecam obiekt na romantyczny wyjazd i nie tylko .",
+        "triplets": [
+            {
+                "uuid": "4f475a02-0d0b-4e4e-8fbc-3a520e265824",
+                "target_tags": "Bardzo\\O polecam\\O obiekt\\B na\\O romantyczny\\O wyjazd\\O i\\O nie\\O tylko\\O .\\O",
+                "opinion_tags": "Bardzo\\B polecam\\I obiekt\\O na\\O romantyczny\\O wyjazd\\O i\\O nie\\O tylko\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 390,
+        "sentence": "Na pierwsze \u015bniadanie jedli \u015bmy pieczywo chyba sprzed 3 - 4 dni , bo nie bu\u0142ki przy krojeniu rozlecia\u0142y si\u0119 na bu\u0142k\u0119 tart\u0105 .",
+        "triplets": [
+            {
+                "uuid": "485b01f8-4d3d-4a7d-b62b-63df04042651",
+                "target_tags": "Na\\O pierwsze\\O \u015bniadanie\\B jedli\\O \u015bmy\\O pieczywo\\O chyba\\O sprzed\\O 3\\O -\\O 4\\O dni\\O ,\\O bo\\O nie\\O bu\u0142ki\\O przy\\O krojeniu\\O rozlecia\u0142y\\O si\u0119\\O na\\O bu\u0142k\u0119\\O tart\u0105\\O .\\O",
+                "opinion_tags": "Na\\O pierwsze\\O \u015bniadanie\\O jedli\\O \u015bmy\\O pieczywo\\B chyba\\I sprzed\\I 3\\I -\\I 4\\I dni\\I ,\\O bo\\O nie\\O bu\u0142ki\\O przy\\O krojeniu\\O rozlecia\u0142y\\O si\u0119\\O na\\O bu\u0142k\u0119\\O tart\u0105\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "sentence": "Wy\u017cywienie smaczne i urozmaicone , a obs\u0142uga restauracji jak i ca\u0142ego hotelu mi\u0142a i \u017cyczliwa .",
+        "triplets": [
+            {
+                "uuid": "07f0d016-643c-4a1c-82b0-5c6ff0bb004e",
+                "target_tags": "Wy\u017cywienie\\B smaczne\\O i\\O urozmaicone\\O ,\\O a\\O obs\u0142uga\\O restauracji\\O jak\\O i\\O ca\u0142ego\\O hotelu\\O mi\u0142a\\O i\\O \u017cyczliwa\\O .\\O",
+                "opinion_tags": "Wy\u017cywienie\\O smaczne\\B i\\O urozmaicone\\O ,\\O a\\O obs\u0142uga\\O restauracji\\O jak\\O i\\O ca\u0142ego\\O hotelu\\O mi\u0142a\\O i\\O \u017cyczliwa\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "00b989d0-53bb-4918-b6e2-c5b6c7a156b6",
+                "target_tags": "Wy\u017cywienie\\B smaczne\\O i\\O urozmaicone\\O ,\\O a\\O obs\u0142uga\\O restauracji\\O jak\\O i\\O ca\u0142ego\\O hotelu\\O mi\u0142a\\O i\\O \u017cyczliwa\\O .\\O",
+                "opinion_tags": "Wy\u017cywienie\\O smaczne\\O i\\O urozmaicone\\B ,\\O a\\O obs\u0142uga\\O restauracji\\O jak\\O i\\O ca\u0142ego\\O hotelu\\O mi\u0142a\\O i\\O \u017cyczliwa\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "908d79fc-d484-45f1-8582-3758fa581b94",
+                "target_tags": "Wy\u017cywienie\\O smaczne\\O i\\O urozmaicone\\O ,\\O a\\O obs\u0142uga\\B restauracji\\O jak\\O i\\O ca\u0142ego\\O hotelu\\O mi\u0142a\\O i\\O \u017cyczliwa\\O .\\O",
+                "opinion_tags": "Wy\u017cywienie\\O smaczne\\O i\\O urozmaicone\\O ,\\O a\\O obs\u0142uga\\O restauracji\\O jak\\O i\\O ca\u0142ego\\O hotelu\\O mi\u0142a\\B i\\O \u017cyczliwa\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "402d30c3-ebbd-48fc-95b5-d939254b2b2b",
+                "target_tags": "Wy\u017cywienie\\O smaczne\\O i\\O urozmaicone\\O ,\\O a\\O obs\u0142uga\\B restauracji\\O jak\\O i\\O ca\u0142ego\\O hotelu\\O mi\u0142a\\O i\\O \u017cyczliwa\\O .\\O",
+                "opinion_tags": "Wy\u017cywienie\\O smaczne\\O i\\O urozmaicone\\O ,\\O a\\O obs\u0142uga\\O restauracji\\O jak\\O i\\O ca\u0142ego\\O hotelu\\O mi\u0142a\\O i\\O \u017cyczliwa\\B .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "sentence": "Standard pokoju tragiczny , zarwane parapety , urwane i nie dzia\u0142aj\u0105ce lampy , odstaj\u0105ce gniazdka .",
+        "triplets": [
+            {
+                "uuid": "d48a6ba7-5e59-4985-906b-c65a4a7a939f",
+                "target_tags": "Standard\\B pokoju\\I tragiczny\\O ,\\O zarwane\\O parapety\\O ,\\O urwane\\O i\\O nie\\O dzia\u0142aj\u0105ce\\O lampy\\O ,\\O odstaj\u0105ce\\O gniazdka\\O .\\O",
+                "opinion_tags": "Standard\\O pokoju\\O tragiczny\\B ,\\O zarwane\\O parapety\\O ,\\O urwane\\O i\\O nie\\O dzia\u0142aj\u0105ce\\O lampy\\O ,\\O odstaj\u0105ce\\O gniazdka\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "cb8eb7ee-bdc2-4e58-b83a-0002dbeb45ee",
+                "target_tags": "Standard\\B pokoju\\I tragiczny\\O ,\\O zarwane\\O parapety\\O ,\\O urwane\\O i\\O nie\\O dzia\u0142aj\u0105ce\\O lampy\\O ,\\O odstaj\u0105ce\\O gniazdka\\O .\\O",
+                "opinion_tags": "Standard\\O pokoju\\O tragiczny\\O ,\\O zarwane\\B parapety\\I ,\\O urwane\\O i\\O nie\\O dzia\u0142aj\u0105ce\\O lampy\\O ,\\O odstaj\u0105ce\\O gniazdka\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "abcf3982-7cfd-4cc1-a812-199faee30d64",
+                "target_tags": "Standard\\B pokoju\\I tragiczny\\O ,\\O zarwane\\O parapety\\O ,\\O urwane\\O i\\O nie\\O dzia\u0142aj\u0105ce\\O lampy\\O ,\\O odstaj\u0105ce\\O gniazdka\\O .\\O",
+                "opinion_tags": "Standard\\O pokoju\\O tragiczny\\O ,\\O zarwane\\O parapety\\O ,\\O urwane\\B i\\I nie\\I dzia\u0142aj\u0105ce\\I lampy\\I ,\\O odstaj\u0105ce\\O gniazdka\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "00d80811-4876-4d85-9596-65f898c135f7",
+                "target_tags": "Standard\\B pokoju\\I tragiczny\\O ,\\O zarwane\\O parapety\\O ,\\O urwane\\O i\\O nie\\O dzia\u0142aj\u0105ce\\O lampy\\O ,\\O odstaj\u0105ce\\O gniazdka\\O .\\O",
+                "opinion_tags": "Standard\\O pokoju\\O tragiczny\\O ,\\O zarwane\\O parapety\\O ,\\O urwane\\O i\\O nie\\O dzia\u0142aj\u0105ce\\O lampy\\O ,\\O odstaj\u0105ce\\B gniazdka\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 288,
+        "sentence": "Hotel w samym centrum .",
+        "triplets": [
+            {
+                "uuid": "7ecb3532-d8af-4d46-a39c-89da920f6a29",
+                "target_tags": "Hotel\\B w\\O samym\\O centrum\\O .\\O",
+                "opinion_tags": "Hotel\\O w\\B samym\\I centrum\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 563,
+        "sentence": "Du\u017cy minus - nieczynna winda .",
+        "triplets": [
+            {
+                "uuid": "a62f7806-2c09-4524-8059-4a5439a71487",
+                "target_tags": "Du\u017cy\\O minus\\O -\\O nieczynna\\O winda\\B .\\O",
+                "opinion_tags": "Du\u017cy\\O minus\\O -\\O nieczynna\\B winda\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "e2dd2552-61eb-4e8c-a35c-8ccda6cbba87",
+                "target_tags": "Du\u017cy\\O minus\\O -\\O nieczynna\\O winda\\B .\\O",
+                "opinion_tags": "Du\u017cy\\B minus\\I -\\O nieczynna\\O winda\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "sentence": "Generalnie strefa SPA bardzo fajna .",
+        "triplets": [
+            {
+                "uuid": "9576d1e8-4992-4d82-a46b-16260c32b249",
+                "target_tags": "Generalnie\\O strefa\\B SPA\\I bardzo\\O fajna\\O .\\O",
+                "opinion_tags": "Generalnie\\O strefa\\O SPA\\O bardzo\\B fajna\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 291,
+        "sentence": "\u015aniadanie jest na s\u0142odko i s\u0142ono , jak kto woli .",
+        "triplets": [
+            {
+                "uuid": "3b63cc61-e882-4f26-9a1e-f529c65be0b2",
+                "target_tags": "\u015aniadanie\\B jest\\O na\\O s\u0142odko\\O i\\O s\u0142ono\\O ,\\O jak\\O kto\\O woli\\O .\\O",
+                "opinion_tags": "\u015aniadanie\\O jest\\O na\\B s\u0142odko\\I i\\I s\u0142ono\\I ,\\O jak\\O kto\\O woli\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 476,
+        "sentence": "Pi\u0119kne widoki z pokoi .",
+        "triplets": [
+            {
+                "uuid": "ad0f1d34-784e-44c5-93d6-20119dcd6d51",
+                "target_tags": "Pi\u0119kne\\O widoki\\O z\\O pokoi\\B .\\O",
+                "opinion_tags": "Pi\u0119kne\\B widoki\\I z\\O pokoi\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 441,
+        "sentence": "w hotelu jest tez drugi bar i inne sale ktore sa udostepniane na rozne spotkania czy imprezy zamkniete .",
+        "triplets": [
+            {
+                "uuid": "04ec7cf6-6bac-4b2f-8a29-488e2ccbcdee",
+                "target_tags": "w\\O hotelu\\B jest\\O tez\\O drugi\\O bar\\O i\\O inne\\O sale\\O ktore\\O sa\\O udostepniane\\O na\\O rozne\\O spotkania\\O czy\\O imprezy\\O zamkniete\\O .\\O",
+                "opinion_tags": "w\\O hotelu\\O jest\\B tez\\I drugi\\I bar\\I i\\O inne\\O sale\\O ktore\\O sa\\O udostepniane\\O na\\O rozne\\O spotkania\\O czy\\O imprezy\\O zamkniete\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "fb2165f2-1ffd-4ed2-8a0a-3b35ea4a4677",
+                "target_tags": "w\\O hotelu\\O jest\\O tez\\O drugi\\O bar\\O i\\O inne\\O sale\\B ktore\\O sa\\O udostepniane\\O na\\O rozne\\O spotkania\\O czy\\O imprezy\\O zamkniete\\O .\\O",
+                "opinion_tags": "w\\O hotelu\\O jest\\O tez\\O drugi\\O bar\\O i\\O inne\\O sale\\O ktore\\O sa\\O udostepniane\\B na\\I rozne\\I spotkania\\I czy\\I imprezy\\I zamkniete\\I .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "sentence": "Pewn\u0105 niedogodno\u015bci\u0105 jest , \u017ce parking hotelowy znajduje si\u0119 w odleg\u0142o\u015bci 300 - 400 metr\u00f3w od hotelu i jest oddzielnie p\u0142atny .",
+        "triplets": [
+            {
+                "uuid": "019276b6-eafe-43cc-8cd6-09fd4b6285a0",
+                "target_tags": "Pewn\u0105\\O niedogodno\u015bci\u0105\\O jest\\O ,\\O \u017ce\\O parking\\B hotelowy\\I znajduje\\O si\u0119\\O w\\O odleg\u0142o\u015bci\\O 300\\O -\\O 400\\O metr\u00f3w\\O od\\O hotelu\\O i\\O jest\\O oddzielnie\\O p\u0142atny\\O .\\O",
+                "opinion_tags": "Pewn\u0105\\O niedogodno\u015bci\u0105\\O jest\\O ,\\O \u017ce\\O parking\\O hotelowy\\O znajduje\\O si\u0119\\O w\\B odleg\u0142o\u015bci\\I 300\\I -\\I 400\\I metr\u00f3w\\I od\\O hotelu\\O i\\O jest\\O oddzielnie\\O p\u0142atny\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "f4901722-7e35-431b-b5c7-890dd7a53a5c",
+                "target_tags": "Pewn\u0105\\O niedogodno\u015bci\u0105\\O jest\\O ,\\O \u017ce\\O parking\\B hotelowy\\I znajduje\\O si\u0119\\O w\\O odleg\u0142o\u015bci\\O 300\\O -\\O 400\\O metr\u00f3w\\O od\\O hotelu\\O i\\O jest\\O oddzielnie\\O p\u0142atny\\O .\\O",
+                "opinion_tags": "Pewn\u0105\\O niedogodno\u015bci\u0105\\O jest\\O ,\\O \u017ce\\O parking\\O hotelowy\\O znajduje\\O si\u0119\\O w\\O odleg\u0142o\u015bci\\O 300\\O -\\O 400\\O metr\u00f3w\\O od\\O hotelu\\O i\\O jest\\O oddzielnie\\O p\u0142atny\\B .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 463,
+        "sentence": "Nie polecam innych pokoi - widoki niekoniecznie uciesz\u0105 . . .",
+        "triplets": [
+            {
+                "uuid": "9865ed35-1e35-489b-bb10-0dc333e17cf8",
+                "target_tags": "Nie\\O polecam\\O innych\\O pokoi\\O -\\O widoki\\B niekoniecznie\\O uciesz\u0105\\O .\\O .\\O .\\O",
+                "opinion_tags": "Nie\\O polecam\\O innych\\O pokoi\\O -\\O widoki\\O niekoniecznie\\B uciesz\u0105\\I .\\O .\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "ec457c19-2dee-4362-b078-dd23dcfe8fb0",
+                "target_tags": "Nie\\O polecam\\O innych\\O pokoi\\B -\\O widoki\\O niekoniecznie\\O uciesz\u0105\\O .\\O .\\O .\\O",
+                "opinion_tags": "Nie\\B polecam\\I innych\\O pokoi\\O -\\O widoki\\O niekoniecznie\\O uciesz\u0105\\O .\\O .\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "sentence": "Przez sciany wszystko bylo slychac dziwne dzwieki z korytarza jak i smiech i glosnie plotkowanie sprzataczek .",
+        "triplets": [
+            {
+                "uuid": "071013db-91f6-45ee-b848-cf6fb74afff4",
+                "target_tags": "Przez\\O sciany\\B wszystko\\O bylo\\O slychac\\O dziwne\\O dzwieki\\O z\\O korytarza\\O jak\\O i\\O smiech\\O i\\O glosnie\\O plotkowanie\\O sprzataczek\\O .\\O",
+                "opinion_tags": "Przez\\O sciany\\O wszystko\\B bylo\\I slychac\\I dziwne\\O dzwieki\\O z\\O korytarza\\O jak\\O i\\O smiech\\O i\\O glosnie\\O plotkowanie\\O sprzataczek\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "sentence": "Natomiast wielkim rozczarowaniem by\u0142o jedzenie - po prostu koszmarne .",
+        "triplets": [
+            {
+                "uuid": "23844924-0fff-4b0a-af98-323c2df1ac42",
+                "target_tags": "Natomiast\\O wielkim\\O rozczarowaniem\\O by\u0142o\\O jedzenie\\B -\\O po\\O prostu\\O koszmarne\\O .\\O",
+                "opinion_tags": "Natomiast\\O wielkim\\O rozczarowaniem\\O by\u0142o\\O jedzenie\\O -\\O po\\O prostu\\O koszmarne\\B .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "f64e60e1-25ed-4ca5-9485-1d97dfe5ed35",
+                "target_tags": "Natomiast\\O wielkim\\O rozczarowaniem\\O by\u0142o\\O jedzenie\\B -\\O po\\O prostu\\O koszmarne\\O .\\O",
+                "opinion_tags": "Natomiast\\O wielkim\\B rozczarowaniem\\I by\u0142o\\O jedzenie\\O -\\O po\\O prostu\\O koszmarne\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 469,
+        "sentence": "Owoce i warzywa do ka\u017cdych posi\u0142k\u00f3w - to na plus .",
+        "triplets": [
+            {
+                "uuid": "dc40561f-5c38-4d28-9db4-837251160b86",
+                "target_tags": "Owoce\\O i\\O warzywa\\O do\\O ka\u017cdych\\O posi\u0142k\u00f3w\\B -\\O to\\O na\\O plus\\O .\\O",
+                "opinion_tags": "Owoce\\B i\\I warzywa\\I do\\I ka\u017cdych\\I posi\u0142k\u00f3w\\O -\\O to\\O na\\O plus\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "258f270c-3113-4d68-9398-1f845a1fae32",
+                "target_tags": "Owoce\\O i\\O warzywa\\O do\\O ka\u017cdych\\O posi\u0142k\u00f3w\\B -\\O to\\O na\\O plus\\O .\\O",
+                "opinion_tags": "Owoce\\O i\\O warzywa\\O do\\O ka\u017cdych\\O posi\u0142k\u00f3w\\O -\\O to\\O na\\B plus\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "sentence": "Kolejna tragedia to kolacja .",
+        "triplets": [
+            {
+                "uuid": "bb2c1f85-13c3-4117-9172-c49b7d8d2146",
+                "target_tags": "Kolejna\\O tragedia\\O to\\O kolacja\\B .\\O",
+                "opinion_tags": "Kolejna\\O tragedia\\B to\\O kolacja\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 264,
+        "sentence": "Generalnie oferta nierzetelna , powinna by\u0107 podzielona na 3 i mo\u017ce 4 , 5 gwiazdki , napewno nie 5 .",
+        "triplets": [
+            {
+                "uuid": "0c91ed97-1002-409a-9da4-57ac4fd5e417",
+                "target_tags": "Generalnie\\O oferta\\B nierzetelna\\O ,\\O powinna\\O by\u0107\\O podzielona\\O na\\O 3\\O i\\O mo\u017ce\\O 4\\O ,\\O 5\\O gwiazdki\\O ,\\O napewno\\O nie\\O 5\\O .\\O",
+                "opinion_tags": "Generalnie\\O oferta\\O nierzetelna\\B ,\\O powinna\\O by\u0107\\O podzielona\\O na\\O 3\\O i\\O mo\u017ce\\O 4\\O ,\\O 5\\O gwiazdki\\O ,\\O napewno\\O nie\\O 5\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "sentence": "My korzystali \u015bmy z pokoju o wy\u017cszym standardzie - by\u0142 bardzo czysty , przestronny , \u0142azienka r\u00f3wnie\u017c czysta i estetyczna .",
+        "triplets": [
+            {
+                "uuid": "edcccaa7-c28b-4e79-85d8-336d804aa425",
+                "target_tags": "My\\O korzystali\\O \u015bmy\\O z\\O pokoju\\O o\\O wy\u017cszym\\O standardzie\\O -\\O by\u0142\\O bardzo\\O czysty\\O ,\\O przestronny\\O ,\\O \u0142azienka\\B r\u00f3wnie\u017c\\O czysta\\O i\\O estetyczna\\O .\\O",
+                "opinion_tags": "My\\O korzystali\\O \u015bmy\\O z\\O pokoju\\O o\\O wy\u017cszym\\O standardzie\\O -\\O by\u0142\\O bardzo\\O czysty\\O ,\\O przestronny\\O ,\\O \u0142azienka\\O r\u00f3wnie\u017c\\O czysta\\B i\\O estetyczna\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "23096776-551c-40a5-b4e9-620d4c2de0b2",
+                "target_tags": "My\\O korzystali\\O \u015bmy\\O z\\O pokoju\\O o\\O wy\u017cszym\\O standardzie\\O -\\O by\u0142\\O bardzo\\O czysty\\O ,\\O przestronny\\O ,\\O \u0142azienka\\B r\u00f3wnie\u017c\\O czysta\\O i\\O estetyczna\\O .\\O",
+                "opinion_tags": "My\\O korzystali\\O \u015bmy\\O z\\O pokoju\\O o\\O wy\u017cszym\\O standardzie\\O -\\O by\u0142\\O bardzo\\O czysty\\O ,\\O przestronny\\O ,\\O \u0142azienka\\O r\u00f3wnie\u017c\\O czysta\\O i\\O estetyczna\\B .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "8e4258b5-236c-4ae8-ab20-862cb4a421b2",
+                "target_tags": "My\\O korzystali\\O \u015bmy\\O z\\O pokoju\\B o\\I wy\u017cszym\\I standardzie\\I -\\O by\u0142\\O bardzo\\O czysty\\O ,\\O przestronny\\O ,\\O \u0142azienka\\O r\u00f3wnie\u017c\\O czysta\\O i\\O estetyczna\\O .\\O",
+                "opinion_tags": "My\\O korzystali\\O \u015bmy\\O z\\O pokoju\\O o\\O wy\u017cszym\\O standardzie\\O -\\O by\u0142\\O bardzo\\B czysty\\I ,\\O przestronny\\O ,\\O \u0142azienka\\O r\u00f3wnie\u017c\\O czysta\\O i\\O estetyczna\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "edeb12c3-c983-4140-9d82-532a26bdda03",
+                "target_tags": "My\\O korzystali\\O \u015bmy\\O z\\O pokoju\\B o\\I wy\u017cszym\\I standardzie\\I -\\O by\u0142\\O bardzo\\O czysty\\O ,\\O przestronny\\O ,\\O \u0142azienka\\O r\u00f3wnie\u017c\\O czysta\\O i\\O estetyczna\\O .\\O",
+                "opinion_tags": "My\\O korzystali\\O \u015bmy\\O z\\O pokoju\\O o\\O wy\u017cszym\\O standardzie\\O -\\O by\u0142\\O bardzo\\O czysty\\O ,\\O przestronny\\B ,\\O \u0142azienka\\O r\u00f3wnie\u017c\\O czysta\\O i\\O estetyczna\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 488,
+        "sentence": "Jedynym plusem by\u0142a czysto\u015b\u0107 w pokojach ( cho\u0107 meble juz troche wys\u0142u\u017cone ) i Restauracja jest niew\u0105tpliwym atutem tego miejsca .",
+        "triplets": [
+            {
+                "uuid": "5e200014-bcb6-4cfa-8ec8-fa6b0b12cc63",
+                "target_tags": "Jedynym\\O plusem\\O by\u0142a\\O czysto\u015b\u0107\\O w\\O pokojach\\O (\\O cho\u0107\\O meble\\O juz\\O troche\\O wys\u0142u\u017cone\\O )\\O i\\O Restauracja\\B jest\\O niew\u0105tpliwym\\O atutem\\O tego\\O miejsca\\O .\\O",
+                "opinion_tags": "Jedynym\\O plusem\\O by\u0142a\\O czysto\u015b\u0107\\O w\\O pokojach\\O (\\O cho\u0107\\O meble\\O juz\\O troche\\O wys\u0142u\u017cone\\O )\\O i\\O Restauracja\\O jest\\O niew\u0105tpliwym\\B atutem\\I tego\\O miejsca\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "f3b9cc6c-f714-4402-9450-51547ba7ea8f",
+                "target_tags": "Jedynym\\O plusem\\O by\u0142a\\O czysto\u015b\u0107\\O w\\O pokojach\\B (\\O cho\u0107\\O meble\\O juz\\O troche\\O wys\u0142u\u017cone\\O )\\O i\\O Restauracja\\O jest\\O niew\u0105tpliwym\\O atutem\\O tego\\O miejsca\\O .\\O",
+                "opinion_tags": "Jedynym\\O plusem\\O by\u0142a\\O czysto\u015b\u0107\\O w\\O pokojach\\O (\\O cho\u0107\\O meble\\B juz\\I troche\\I wys\u0142u\u017cone\\I )\\O i\\O Restauracja\\O jest\\O niew\u0105tpliwym\\O atutem\\O tego\\O miejsca\\O .\\O",
+                "sentiment": "neutral"
+            },
+            {
+                "uuid": "e868ff4b-86b0-40a8-8a83-ff6f43394908",
+                "target_tags": "Jedynym\\O plusem\\O by\u0142a\\O czysto\u015b\u0107\\O w\\O pokojach\\B (\\O cho\u0107\\O meble\\O juz\\O troche\\O wys\u0142u\u017cone\\O )\\O i\\O Restauracja\\O jest\\O niew\u0105tpliwym\\O atutem\\O tego\\O miejsca\\O .\\O",
+                "opinion_tags": "Jedynym\\O plusem\\B by\u0142a\\I czysto\u015b\u0107\\I w\\O pokojach\\O (\\O cho\u0107\\O meble\\O juz\\O troche\\O wys\u0142u\u017cone\\O )\\O i\\O Restauracja\\O jest\\O niew\u0105tpliwym\\O atutem\\O tego\\O miejsca\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "sentence": "Pokoje natomiast schludne , czyste .",
+        "triplets": [
+            {
+                "uuid": "25f19534-0e5a-4640-8d52-4e4048d0fc4d",
+                "target_tags": "Pokoje\\B natomiast\\O schludne\\O ,\\O czyste\\O .\\O",
+                "opinion_tags": "Pokoje\\O natomiast\\O schludne\\B ,\\O czyste\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "188c2f9d-154b-4b04-a502-166a3779d8f9",
+                "target_tags": "Pokoje\\B natomiast\\O schludne\\O ,\\O czyste\\O .\\O",
+                "opinion_tags": "Pokoje\\O natomiast\\O schludne\\O ,\\O czyste\\B .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 487,
+        "sentence": "Zapiera dech basen .",
+        "triplets": [
+            {
+                "uuid": "ca048d5a-5223-43b6-bab6-8499ce105ecd",
+                "target_tags": "Zapiera\\O dech\\O basen\\B .\\O",
+                "opinion_tags": "Zapiera\\B dech\\I basen\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 580,
+        "sentence": "Super plus za specjaln\u0105 zamykan\u0105 stref\u0119 z \u0142\u00f3\u017ckami z baldachimem na tarasie widokowym .",
+        "triplets": [
+            {
+                "uuid": "7389f290-a7c1-4797-b396-c9132054ce04",
+                "target_tags": "Super\\O plus\\O za\\O specjaln\u0105\\O zamykan\u0105\\O stref\u0119\\O z\\O \u0142\u00f3\u017ckami\\O z\\O baldachimem\\O na\\O tarasie\\B widokowym\\I .\\O",
+                "opinion_tags": "Super\\B plus\\I za\\I specjaln\u0105\\I zamykan\u0105\\I stref\u0119\\I z\\I \u0142\u00f3\u017ckami\\I z\\I baldachimem\\I na\\O tarasie\\O widokowym\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 489,
+        "sentence": "Dodatkowy bonus to 2 telewizory w pokoju - na pierwszym \u017cona w sypialni m\u0119czy serial a meczyk przy kieliszeczku na drugim w salonie .",
+        "triplets": [
+            {
+                "uuid": "b43a6ece-e2a4-445f-9104-e634cd7cf7e3",
+                "target_tags": "Dodatkowy\\O bonus\\O to\\O 2\\O telewizory\\O w\\O pokoju\\B -\\O na\\O pierwszym\\O \u017cona\\O w\\O sypialni\\O m\u0119czy\\O serial\\O a\\O meczyk\\O przy\\O kieliszeczku\\O na\\O drugim\\O w\\O salonie\\O .\\O",
+                "opinion_tags": "Dodatkowy\\O bonus\\O to\\O 2\\B telewizory\\I w\\O pokoju\\O -\\O na\\O pierwszym\\O \u017cona\\O w\\O sypialni\\O m\u0119czy\\O serial\\O a\\O meczyk\\O przy\\O kieliszeczku\\O na\\O drugim\\O w\\O salonie\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 268,
+        "sentence": "Plusy : - \u0142adna okolica , - \u0142adne pokoje .",
+        "triplets": [
+            {
+                "uuid": "332ba044-7ce4-4d08-a76f-1714b1eb93d5",
+                "target_tags": "Plusy\\O :\\O -\\O \u0142adna\\O okolica\\B ,\\O -\\O \u0142adne\\O pokoje\\O .\\O",
+                "opinion_tags": "Plusy\\O :\\O -\\O \u0142adna\\B okolica\\O ,\\O -\\O \u0142adne\\O pokoje\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "e406cd71-d53f-4f97-812b-cbf46478513d",
+                "target_tags": "Plusy\\O :\\O -\\O \u0142adna\\O okolica\\O ,\\O -\\O \u0142adne\\O pokoje\\B .\\O",
+                "opinion_tags": "Plusy\\O :\\O -\\O \u0142adna\\O okolica\\O ,\\O -\\O \u0142adne\\B pokoje\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 336,
+        "sentence": "Super lokalizacja , kt\u00f3ra zadecydowa\u0142a o wyborze - kompromis mi\u0119dzy rozs\u0105dn\u0105 odleg\u0142o\u015bci\u0105 do centrum i na pla\u017c\u0119 , a jednocze\u015bnie na tyle daleko , \u017ce ha\u0142as nie zak\u0142\u00f3ca spokoju w nocy .",
+        "triplets": [
+            {
+                "uuid": "5dc58c2b-8b7a-480e-a702-a6578318743b",
+                "target_tags": "Super\\O lokalizacja\\B ,\\O kt\u00f3ra\\O zadecydowa\u0142a\\O o\\O wyborze\\O -\\O kompromis\\O mi\u0119dzy\\O rozs\u0105dn\u0105\\O odleg\u0142o\u015bci\u0105\\O do\\O centrum\\O i\\O na\\O pla\u017c\u0119\\O ,\\O a\\O jednocze\u015bnie\\O na\\O tyle\\O daleko\\O ,\\O \u017ce\\O ha\u0142as\\O nie\\O zak\u0142\u00f3ca\\O spokoju\\O w\\O nocy\\O .\\O",
+                "opinion_tags": "Super\\B lokalizacja\\O ,\\O kt\u00f3ra\\O zadecydowa\u0142a\\O o\\O wyborze\\O -\\O kompromis\\O mi\u0119dzy\\O rozs\u0105dn\u0105\\O odleg\u0142o\u015bci\u0105\\O do\\O centrum\\O i\\O na\\O pla\u017c\u0119\\O ,\\O a\\O jednocze\u015bnie\\O na\\O tyle\\O daleko\\O ,\\O \u017ce\\O ha\u0142as\\O nie\\O zak\u0142\u00f3ca\\O spokoju\\O w\\O nocy\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "677540f7-abb9-44dd-9c52-e66c462ec6ad",
+                "target_tags": "Super\\O lokalizacja\\O ,\\O kt\u00f3ra\\O zadecydowa\u0142a\\O o\\O wyborze\\O -\\O kompromis\\O mi\u0119dzy\\O rozs\u0105dn\u0105\\O odleg\u0142o\u015bci\u0105\\O do\\O centrum\\O i\\O na\\O pla\u017c\u0119\\O ,\\O a\\O jednocze\u015bnie\\O na\\O tyle\\O daleko\\O ,\\O \u017ce\\O ha\u0142as\\B nie\\O zak\u0142\u00f3ca\\O spokoju\\O w\\O nocy\\O .\\O",
+                "opinion_tags": "Super\\O lokalizacja\\O ,\\O kt\u00f3ra\\O zadecydowa\u0142a\\O o\\O wyborze\\O -\\O kompromis\\O mi\u0119dzy\\O rozs\u0105dn\u0105\\O odleg\u0142o\u015bci\u0105\\O do\\O centrum\\O i\\O na\\O pla\u017c\u0119\\O ,\\O a\\O jednocze\u015bnie\\O na\\O tyle\\O daleko\\O ,\\O \u017ce\\O ha\u0142as\\O nie\\B zak\u0142\u00f3ca\\I spokoju\\I w\\I nocy\\I .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "379f15f1-76da-4af1-977b-99033ba659b2",
+                "target_tags": "Super\\O lokalizacja\\B ,\\O kt\u00f3ra\\O zadecydowa\u0142a\\O o\\O wyborze\\O -\\O kompromis\\O mi\u0119dzy\\O rozs\u0105dn\u0105\\O odleg\u0142o\u015bci\u0105\\O do\\O centrum\\O i\\O na\\O pla\u017c\u0119\\O ,\\O a\\O jednocze\u015bnie\\O na\\O tyle\\O daleko\\O ,\\O \u017ce\\O ha\u0142as\\O nie\\O zak\u0142\u00f3ca\\O spokoju\\O w\\O nocy\\O .\\O",
+                "opinion_tags": "Super\\O lokalizacja\\O ,\\O kt\u00f3ra\\O zadecydowa\u0142a\\O o\\O wyborze\\O -\\O kompromis\\B mi\u0119dzy\\I rozs\u0105dn\u0105\\I odleg\u0142o\u015bci\u0105\\I do\\I centrum\\I i\\I na\\I pla\u017c\u0119\\I ,\\O a\\O jednocze\u015bnie\\O na\\O tyle\\O daleko\\O ,\\O \u017ce\\O ha\u0142as\\O nie\\O zak\u0142\u00f3ca\\O spokoju\\O w\\O nocy\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 427,
+        "sentence": "Restauracja serwuje dania regionalne oraz lokalne piwa i mocniejsze trunki , w\u0142\u0105cznie ze \u015bliwowic\u0105 : ) Darmowy , zamykany parking , szybkie Wi - Fi . Pokoje stylowe i wygodne .",
+        "triplets": [
+            {
+                "uuid": "a126317b-f6e8-45ab-b787-df95515c8200",
+                "target_tags": "Restauracja\\O serwuje\\O dania\\O regionalne\\O oraz\\O lokalne\\O piwa\\O i\\O mocniejsze\\O trunki\\O ,\\O w\u0142\u0105cznie\\O ze\\O \u015bliwowic\u0105\\O :\\O )\\O Darmowy\\O ,\\O zamykany\\O parking\\O ,\\O szybkie\\O Wi\\O -\\O Fi\\O .\\O Pokoje\\B stylowe\\O i\\O wygodne\\O .\\O",
+                "opinion_tags": "Restauracja\\O serwuje\\O dania\\O regionalne\\O oraz\\O lokalne\\O piwa\\O i\\O mocniejsze\\O trunki\\O ,\\O w\u0142\u0105cznie\\O ze\\O \u015bliwowic\u0105\\O :\\O )\\O Darmowy\\O ,\\O zamykany\\O parking\\O ,\\O szybkie\\O Wi\\O -\\O Fi\\O .\\O Pokoje\\O stylowe\\B i\\O wygodne\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "f9fde3ae-2d4c-469b-b0f7-d167c55121e6",
+                "target_tags": "Restauracja\\O serwuje\\O dania\\O regionalne\\O oraz\\O lokalne\\O piwa\\O i\\O mocniejsze\\O trunki\\O ,\\O w\u0142\u0105cznie\\O ze\\O \u015bliwowic\u0105\\O :\\O )\\O Darmowy\\O ,\\O zamykany\\O parking\\O ,\\O szybkie\\O Wi\\O -\\O Fi\\O .\\O Pokoje\\B stylowe\\O i\\O wygodne\\O .\\O",
+                "opinion_tags": "Restauracja\\O serwuje\\O dania\\O regionalne\\O oraz\\O lokalne\\O piwa\\O i\\O mocniejsze\\O trunki\\O ,\\O w\u0142\u0105cznie\\O ze\\O \u015bliwowic\u0105\\O :\\O )\\O Darmowy\\O ,\\O zamykany\\O parking\\O ,\\O szybkie\\O Wi\\O -\\O Fi\\O .\\O Pokoje\\O stylowe\\O i\\O wygodne\\B .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "8a4e8551-ddb5-4233-af1d-b83fba1e11d9",
+                "target_tags": "Restauracja\\O serwuje\\O dania\\O regionalne\\O oraz\\O lokalne\\O piwa\\O i\\O mocniejsze\\O trunki\\O ,\\O w\u0142\u0105cznie\\O ze\\O \u015bliwowic\u0105\\O :\\O )\\O Darmowy\\O ,\\O zamykany\\O parking\\O ,\\O szybkie\\O Wi\\B -\\I Fi\\I .\\O Pokoje\\O stylowe\\O i\\O wygodne\\O .\\O",
+                "opinion_tags": "Restauracja\\O serwuje\\O dania\\O regionalne\\O oraz\\O lokalne\\O piwa\\O i\\O mocniejsze\\O trunki\\O ,\\O w\u0142\u0105cznie\\O ze\\O \u015bliwowic\u0105\\O :\\O )\\O Darmowy\\O ,\\O zamykany\\O parking\\O ,\\O szybkie\\B Wi\\O -\\O Fi\\O .\\O Pokoje\\O stylowe\\O i\\O wygodne\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "6e5a1ca5-762e-4f0e-a448-6cdf951cdaa6",
+                "target_tags": "Restauracja\\O serwuje\\O dania\\O regionalne\\O oraz\\O lokalne\\O piwa\\O i\\O mocniejsze\\O trunki\\O ,\\O w\u0142\u0105cznie\\O ze\\O \u015bliwowic\u0105\\O :\\O )\\O Darmowy\\O ,\\O zamykany\\O parking\\B ,\\O szybkie\\O Wi\\O -\\O Fi\\O .\\O Pokoje\\O stylowe\\O i\\O wygodne\\O .\\O",
+                "opinion_tags": "Restauracja\\O serwuje\\O dania\\O regionalne\\O oraz\\O lokalne\\O piwa\\O i\\O mocniejsze\\O trunki\\O ,\\O w\u0142\u0105cznie\\O ze\\O \u015bliwowic\u0105\\O :\\O )\\O Darmowy\\O ,\\O zamykany\\B parking\\O ,\\O szybkie\\O Wi\\O -\\O Fi\\O .\\O Pokoje\\O stylowe\\O i\\O wygodne\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "d72450d4-bf24-4591-be21-8d413e83e812",
+                "target_tags": "Restauracja\\O serwuje\\O dania\\O regionalne\\O oraz\\O lokalne\\O piwa\\O i\\O mocniejsze\\O trunki\\O ,\\O w\u0142\u0105cznie\\O ze\\O \u015bliwowic\u0105\\O :\\O )\\O Darmowy\\O ,\\O zamykany\\O parking\\B ,\\O szybkie\\O Wi\\O -\\O Fi\\O .\\O Pokoje\\O stylowe\\O i\\O wygodne\\O .\\O",
+                "opinion_tags": "Restauracja\\O serwuje\\O dania\\O regionalne\\O oraz\\O lokalne\\O piwa\\O i\\O mocniejsze\\O trunki\\O ,\\O w\u0142\u0105cznie\\O ze\\O \u015bliwowic\u0105\\O :\\O )\\O Darmowy\\B ,\\O zamykany\\O parking\\O ,\\O szybkie\\O Wi\\O -\\O Fi\\O .\\O Pokoje\\O stylowe\\O i\\O wygodne\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "715bc8d9-895b-440a-a9fe-66523a82aaf9",
+                "target_tags": "Restauracja\\B serwuje\\O dania\\O regionalne\\O oraz\\O lokalne\\O piwa\\O i\\O mocniejsze\\O trunki\\O ,\\O w\u0142\u0105cznie\\O ze\\O \u015bliwowic\u0105\\O :\\O )\\O Darmowy\\O ,\\O zamykany\\O parking\\O ,\\O szybkie\\O Wi\\O -\\O Fi\\O .\\O Pokoje\\O stylowe\\O i\\O wygodne\\O .\\O",
+                "opinion_tags": "Restauracja\\O serwuje\\B dania\\I regionalne\\I oraz\\I lokalne\\I piwa\\I i\\I mocniejsze\\I trunki\\I ,\\I w\u0142\u0105cznie\\I ze\\I \u015bliwowic\u0105\\I :\\O )\\O Darmowy\\O ,\\O zamykany\\O parking\\O ,\\O szybkie\\O Wi\\O -\\O Fi\\O .\\O Pokoje\\O stylowe\\O i\\O wygodne\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "sentence": "Blisko supermarket , w kt\u00f3rym mo\u017cna zrobi\u0107 zakupy .",
+        "triplets": [
+            {
+                "uuid": "e007db03-f27f-4dea-83bb-ebb9b51e8b6d",
+                "target_tags": "Blisko\\O supermarket\\B ,\\O w\\O kt\u00f3rym\\O mo\u017cna\\O zrobi\u0107\\O zakupy\\O .\\O",
+                "opinion_tags": "Blisko\\B supermarket\\O ,\\O w\\O kt\u00f3rym\\O mo\u017cna\\O zrobi\u0107\\O zakupy\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "sentence": "Na pocz\u0105tek hotel nie ma swojego parkingu i auto trzeba by\u0142o zostawi\u0107 na parkingu miejskim i i\u015b\u0107 ze wszystkimi baga\u017cami , nie wsz\u0119dzie s\u0105 windy , a wi\u0119c trzeba targa\u0107 walizki , mo\u017cna zarezerwowa\u0107 parking przez hotel , ale to te\u017c s\u0142abe rozwi\u0105zanie poniewa\u017c jest du\u017co dalej i w tej samej cenie , czyli 30 euro za dob\u0119 .",
+        "triplets": [
+            {
+                "uuid": "1a2e3da7-c83d-46cc-a4e1-4d6ff345381f",
+                "target_tags": "Na\\O pocz\u0105tek\\O hotel\\B nie\\O ma\\O swojego\\O parkingu\\O i\\O auto\\O trzeba\\O by\u0142o\\O zostawi\u0107\\O na\\O parkingu\\O miejskim\\O i\\O i\u015b\u0107\\O ze\\O wszystkimi\\O baga\u017cami\\O ,\\O nie\\O wsz\u0119dzie\\O s\u0105\\O windy\\O ,\\O a\\O wi\u0119c\\O trzeba\\O targa\u0107\\O walizki\\O ,\\O mo\u017cna\\O zarezerwowa\u0107\\O parking\\O przez\\O hotel\\O ,\\O ale\\O to\\O te\u017c\\O s\u0142abe\\O rozwi\u0105zanie\\O poniewa\u017c\\O jest\\O du\u017co\\O dalej\\O i\\O w\\O tej\\O samej\\O cenie\\O ,\\O czyli\\O 30\\O euro\\O za\\O dob\u0119\\O .\\O",
+                "opinion_tags": "Na\\O pocz\u0105tek\\O hotel\\O nie\\B ma\\I swojego\\I parkingu\\I i\\O auto\\O trzeba\\O by\u0142o\\O zostawi\u0107\\O na\\O parkingu\\O miejskim\\O i\\O i\u015b\u0107\\O ze\\O wszystkimi\\O baga\u017cami\\O ,\\O nie\\O wsz\u0119dzie\\O s\u0105\\O windy\\O ,\\O a\\O wi\u0119c\\O trzeba\\O targa\u0107\\O walizki\\O ,\\O mo\u017cna\\O zarezerwowa\u0107\\O parking\\O przez\\O hotel\\O ,\\O ale\\O to\\O te\u017c\\O s\u0142abe\\O rozwi\u0105zanie\\O poniewa\u017c\\O jest\\O du\u017co\\O dalej\\O i\\O w\\O tej\\O samej\\O cenie\\O ,\\O czyli\\O 30\\O euro\\O za\\O dob\u0119\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "7aae7f68-a462-4956-951c-72ccdb450b27",
+                "target_tags": "Na\\O pocz\u0105tek\\O hotel\\O nie\\O ma\\O swojego\\O parkingu\\O i\\O auto\\O trzeba\\O by\u0142o\\O zostawi\u0107\\O na\\O parkingu\\O miejskim\\O i\\O i\u015b\u0107\\O ze\\O wszystkimi\\O baga\u017cami\\O ,\\O nie\\O wsz\u0119dzie\\O s\u0105\\O windy\\B ,\\O a\\O wi\u0119c\\O trzeba\\O targa\u0107\\O walizki\\O ,\\O mo\u017cna\\O zarezerwowa\u0107\\O parking\\O przez\\O hotel\\O ,\\O ale\\O to\\O te\u017c\\O s\u0142abe\\O rozwi\u0105zanie\\O poniewa\u017c\\O jest\\O du\u017co\\O dalej\\O i\\O w\\O tej\\O samej\\O cenie\\O ,\\O czyli\\O 30\\O euro\\O za\\O dob\u0119\\O .\\O",
+                "opinion_tags": "Na\\O pocz\u0105tek\\O hotel\\O nie\\O ma\\O swojego\\O parkingu\\O i\\O auto\\O trzeba\\O by\u0142o\\O zostawi\u0107\\O na\\O parkingu\\O miejskim\\O i\\O i\u015b\u0107\\O ze\\O wszystkimi\\O baga\u017cami\\O ,\\O nie\\B wsz\u0119dzie\\I s\u0105\\I windy\\O ,\\O a\\O wi\u0119c\\O trzeba\\O targa\u0107\\O walizki\\O ,\\O mo\u017cna\\O zarezerwowa\u0107\\O parking\\O przez\\O hotel\\O ,\\O ale\\O to\\O te\u017c\\O s\u0142abe\\O rozwi\u0105zanie\\O poniewa\u017c\\O jest\\O du\u017co\\O dalej\\O i\\O w\\O tej\\O samej\\O cenie\\O ,\\O czyli\\O 30\\O euro\\O za\\O dob\u0119\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 334,
+        "sentence": "Dla go\u015bci dost\u0119pne mini SPA - 2 sauny , jacuzzi , s\u0142oneczna \u0142\u0105czka .",
+        "triplets": [
+            {
+                "uuid": "d437aa21-f0a9-4336-bce7-6e670e902478",
+                "target_tags": "Dla\\O go\u015bci\\O dost\u0119pne\\O mini\\B SPA\\I -\\O 2\\O sauny\\O ,\\O jacuzzi\\O ,\\O s\u0142oneczna\\O \u0142\u0105czka\\O .\\O",
+                "opinion_tags": "Dla\\O go\u015bci\\O dost\u0119pne\\B mini\\O SPA\\O -\\O 2\\O sauny\\O ,\\O jacuzzi\\O ,\\O s\u0142oneczna\\O \u0142\u0105czka\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "fcf1f6bd-d1b3-4e8d-9a4e-8b84647f7277",
+                "target_tags": "Dla\\O go\u015bci\\O dost\u0119pne\\O mini\\O SPA\\O -\\O 2\\O sauny\\B ,\\O jacuzzi\\O ,\\O s\u0142oneczna\\O \u0142\u0105czka\\O .\\O",
+                "opinion_tags": "Dla\\O go\u015bci\\O dost\u0119pne\\B mini\\O SPA\\O -\\O 2\\O sauny\\O ,\\O jacuzzi\\O ,\\O s\u0142oneczna\\O \u0142\u0105czka\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "b7b38b32-230c-44aa-9c83-c4805f9720a7",
+                "target_tags": "Dla\\O go\u015bci\\O dost\u0119pne\\O mini\\O SPA\\O -\\O 2\\O sauny\\O ,\\O jacuzzi\\B ,\\O s\u0142oneczna\\O \u0142\u0105czka\\O .\\O",
+                "opinion_tags": "Dla\\O go\u015bci\\O dost\u0119pne\\B mini\\O SPA\\O -\\O 2\\O sauny\\O ,\\O jacuzzi\\O ,\\O s\u0142oneczna\\O \u0142\u0105czka\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 403,
+        "sentence": "Z hotelowego basenu roztacza si\u0119 bardzo \u0142adny widok na wzg\u00f3rze Jaworzyny .",
+        "triplets": [
+            {
+                "uuid": "13838993-6c86-40b9-ba9a-08f905692d74",
+                "target_tags": "Z\\O hotelowego\\O basenu\\B roztacza\\O si\u0119\\O bardzo\\O \u0142adny\\O widok\\O na\\O wzg\u00f3rze\\O Jaworzyny\\O .\\O",
+                "opinion_tags": "Z\\O hotelowego\\O basenu\\O roztacza\\O si\u0119\\O bardzo\\B \u0142adny\\I widok\\I na\\O wzg\u00f3rze\\O Jaworzyny\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 306,
+        "sentence": "Kelnerzy ci\u0105gle w ruchu , sprz\u0105taj\u0105 ze stolik\u00f3w .",
+        "triplets": [
+            {
+                "uuid": "7220d8c7-cdb6-4fea-9175-54a83c070693",
+                "target_tags": "Kelnerzy\\B ci\u0105gle\\O w\\O ruchu\\O ,\\O sprz\u0105taj\u0105\\O ze\\O stolik\u00f3w\\O .\\O",
+                "opinion_tags": "Kelnerzy\\O ci\u0105gle\\B w\\I ruchu\\I ,\\O sprz\u0105taj\u0105\\O ze\\O stolik\u00f3w\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "3de9fffb-e237-4c0f-bafb-43ee49825b4c",
+                "target_tags": "Kelnerzy\\B ci\u0105gle\\O w\\O ruchu\\O ,\\O sprz\u0105taj\u0105\\O ze\\O stolik\u00f3w\\O .\\O",
+                "opinion_tags": "Kelnerzy\\O ci\u0105gle\\O w\\O ruchu\\O ,\\O sprz\u0105taj\u0105\\B ze\\I stolik\u00f3w\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 454,
+        "sentence": "Dodatkowo nie dzia\u0142a\u0142a klimatyzacja i w tym pokoju by\u0142y jeszcze drzwi do s\u0105siedniego pokoju w kt\u00f3rym byli g\u0142o\u015bni Anglicy , wi\u0119c o 5 pobudka !",
+        "triplets": [
+            {
+                "uuid": "d6067e53-f60e-4944-a7dc-21c14de2f82d",
+                "target_tags": "Dodatkowo\\O nie\\O dzia\u0142a\u0142a\\O klimatyzacja\\B i\\O w\\O tym\\O pokoju\\O by\u0142y\\O jeszcze\\O drzwi\\O do\\O s\u0105siedniego\\O pokoju\\O w\\O kt\u00f3rym\\O byli\\O g\u0142o\u015bni\\O Anglicy\\O ,\\O wi\u0119c\\O o\\O 5\\O pobudka\\O !\\O",
+                "opinion_tags": "Dodatkowo\\O nie\\B dzia\u0142a\u0142a\\I klimatyzacja\\O i\\O w\\O tym\\O pokoju\\O by\u0142y\\O jeszcze\\O drzwi\\O do\\O s\u0105siedniego\\O pokoju\\O w\\O kt\u00f3rym\\O byli\\O g\u0142o\u015bni\\O Anglicy\\O ,\\O wi\u0119c\\O o\\O 5\\O pobudka\\O !\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "bc3718a6-fc6e-4376-8c91-e7951d1ed832",
+                "target_tags": "Dodatkowo\\O nie\\O dzia\u0142a\u0142a\\O klimatyzacja\\O i\\O w\\O tym\\O pokoju\\B by\u0142y\\O jeszcze\\O drzwi\\O do\\O s\u0105siedniego\\O pokoju\\O w\\O kt\u00f3rym\\O byli\\O g\u0142o\u015bni\\O Anglicy\\O ,\\O wi\u0119c\\O o\\O 5\\O pobudka\\O !\\O",
+                "opinion_tags": "Dodatkowo\\O nie\\O dzia\u0142a\u0142a\\O klimatyzacja\\O i\\O w\\O tym\\O pokoju\\O by\u0142y\\B jeszcze\\I drzwi\\I do\\I s\u0105siedniego\\I pokoju\\I w\\I kt\u00f3rym\\I byli\\I g\u0142o\u015bni\\I Anglicy\\I ,\\O wi\u0119c\\O o\\O 5\\O pobudka\\O !\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "sentence": "Wystr\u00f3j pokoju by\u0142 bez gustu .",
+        "triplets": [
+            {
+                "uuid": "cbafed03-1d60-482e-ba0b-a023ae718c34",
+                "target_tags": "Wystr\u00f3j\\B pokoju\\I by\u0142\\O bez\\O gustu\\O .\\O",
+                "opinion_tags": "Wystr\u00f3j\\O pokoju\\O by\u0142\\O bez\\B gustu\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "sentence": "Ocen\u0119 obni\u017ca jednak obs\u0142uga .",
+        "triplets": [
+            {
+                "uuid": "33edfcce-37d4-4ddf-83e7-d82c407f9dcc",
+                "target_tags": "Ocen\u0119\\O obni\u017ca\\O jednak\\O obs\u0142uga\\B .\\O",
+                "opinion_tags": "Ocen\u0119\\B obni\u017ca\\I jednak\\O obs\u0142uga\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 562,
+        "sentence": "By\u0142a m zm\u0119czona tym pobytem i zniesmaczona .",
+        "triplets": [
+            {
+                "uuid": "3ee980df-b240-4887-9238-ec0357f9cb4e",
+                "target_tags": "By\u0142a\\O m\\O zm\u0119czona\\O tym\\O pobytem\\B i\\O zniesmaczona\\O .\\O",
+                "opinion_tags": "By\u0142a\\O m\\O zm\u0119czona\\B tym\\O pobytem\\O i\\O zniesmaczona\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "a6bfcae4-e31b-465e-a236-9907eae2ce98",
+                "target_tags": "By\u0142a\\O m\\O zm\u0119czona\\O tym\\O pobytem\\B i\\O zniesmaczona\\O .\\O",
+                "opinion_tags": "By\u0142a\\O m\\O zm\u0119czona\\O tym\\O pobytem\\O i\\O zniesmaczona\\B .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 383,
+        "sentence": "\u015aniadania ka\u017cdego dnia w tej samej ods\u0142onie .",
+        "triplets": [
+            {
+                "uuid": "4a0ea726-e049-4276-8bf6-b4f66e90c346",
+                "target_tags": "\u015aniadania\\B ka\u017cdego\\O dnia\\O w\\O tej\\O samej\\O ods\u0142onie\\O .\\O",
+                "opinion_tags": "\u015aniadania\\O ka\u017cdego\\B dnia\\I w\\I tej\\I samej\\I ods\u0142onie\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 471,
+        "sentence": "Le\u017caki p\u0142atne 7 Euro za dwa .",
+        "triplets": [
+            {
+                "uuid": "da11fe3e-b52f-4bca-833b-6a9ae92ce2d0",
+                "target_tags": "Le\u017caki\\B p\u0142atne\\O 7\\O Euro\\O za\\O dwa\\O .\\O",
+                "opinion_tags": "Le\u017caki\\O p\u0142atne\\B 7\\I Euro\\I za\\I dwa\\I .\\O",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "sentence": "Mi\u0142a obs\u0142uga .",
+        "triplets": [
+            {
+                "uuid": "b595afa7-9c36-4403-a4dd-6a1c39812a3b",
+                "target_tags": "Mi\u0142a\\O obs\u0142uga\\B .\\O",
+                "opinion_tags": "Mi\u0142a\\B obs\u0142uga\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "sentence": "\u015aniadanie - bardzo urozmaicone , pieczywo \u015bwie\u017cutkie .",
+        "triplets": [
+            {
+                "uuid": "c9583089-77b4-4dc9-a02e-37e361a2b03f",
+                "target_tags": "\u015aniadanie\\B -\\O bardzo\\O urozmaicone\\O ,\\O pieczywo\\O \u015bwie\u017cutkie\\O .\\O",
+                "opinion_tags": "\u015aniadanie\\O -\\O bardzo\\B urozmaicone\\I ,\\O pieczywo\\O \u015bwie\u017cutkie\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "e5221cf5-aee5-4200-a367-d94e922c96e7",
+                "target_tags": "\u015aniadanie\\B -\\O bardzo\\O urozmaicone\\O ,\\O pieczywo\\O \u015bwie\u017cutkie\\O .\\O",
+                "opinion_tags": "\u015aniadanie\\O -\\O bardzo\\O urozmaicone\\O ,\\O pieczywo\\B \u015bwie\u017cutkie\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "sentence": "Na terenie hotelu s\u0105 dwa baseny , a pla\u017ca jest bardzo blisko , wystraczy przej\u015b\u0107 prze ulic\u0119 .",
+        "triplets": [
+            {
+                "uuid": "9ab645c8-be1f-4c95-a00d-c6bafd7c9af9",
+                "target_tags": "Na\\O terenie\\O hotelu\\O s\u0105\\O dwa\\O baseny\\O ,\\O a\\O pla\u017ca\\B jest\\O bardzo\\O blisko\\O ,\\O wystraczy\\O przej\u015b\u0107\\O prze\\O ulic\u0119\\O .\\O",
+                "opinion_tags": "Na\\O terenie\\O hotelu\\O s\u0105\\O dwa\\O baseny\\O ,\\O a\\O pla\u017ca\\O jest\\O bardzo\\B blisko\\I ,\\O wystraczy\\O przej\u015b\u0107\\O prze\\O ulic\u0119\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "e165676c-73c0-4c5c-993a-1f97d3735ee5",
+                "target_tags": "Na\\O terenie\\O hotelu\\B s\u0105\\O dwa\\O baseny\\O ,\\O a\\O pla\u017ca\\O jest\\O bardzo\\O blisko\\O ,\\O wystraczy\\O przej\u015b\u0107\\O prze\\O ulic\u0119\\O .\\O",
+                "opinion_tags": "Na\\O terenie\\O hotelu\\O s\u0105\\O dwa\\B baseny\\I ,\\O a\\O pla\u017ca\\O jest\\O bardzo\\O blisko\\O ,\\O wystraczy\\O przej\u015b\u0107\\O prze\\O ulic\u0119\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "sentence": "Bardzo \u0142adny , \u015bwietnie zorganizowany - atrakcji mn\u00f3stwo : stok narciarski , spa , pe\u0142nowymiarowa hala sportowa , si\u0142ownia , basen , konie , golf i wiele wiele innych .",
+        "triplets": [
+            {
+                "uuid": "eaccfac3-9dd2-49e8-87be-ff45b30224c5",
+                "target_tags": "Bardzo\\O \u0142adny\\O ,\\O \u015bwietnie\\O zorganizowany\\O -\\O atrakcji\\B mn\u00f3stwo\\O :\\O stok\\O narciarski\\O ,\\O spa\\O ,\\O pe\u0142nowymiarowa\\O hala\\O sportowa\\O ,\\O si\u0142ownia\\O ,\\O basen\\O ,\\O konie\\O ,\\O golf\\O i\\O wiele\\O wiele\\O innych\\O .\\O",
+                "opinion_tags": "Bardzo\\O \u0142adny\\O ,\\O \u015bwietnie\\O zorganizowany\\O -\\O atrakcji\\O mn\u00f3stwo\\B :\\O stok\\O narciarski\\O ,\\O spa\\O ,\\O pe\u0142nowymiarowa\\O hala\\O sportowa\\O ,\\O si\u0142ownia\\O ,\\O basen\\O ,\\O konie\\O ,\\O golf\\O i\\O wiele\\O wiele\\O innych\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 490,
+        "sentence": "Otrzymali \u015bmy wszyscy pokoje o numerach trzy cyfrowych , czyli stare , \u0142azienka ze star\u0105 wann\u0105 i zas\u0142onk\u0105 ? !",
+        "triplets": [
+            {
+                "uuid": "cef17f1a-a432-4bef-b246-75f6ef9ca236",
+                "target_tags": "Otrzymali\\O \u015bmy\\O wszyscy\\O pokoje\\O o\\O numerach\\O trzy\\O cyfrowych\\O ,\\O czyli\\O stare\\O ,\\O \u0142azienka\\B ze\\O star\u0105\\O wann\u0105\\O i\\O zas\u0142onk\u0105\\O ?\\O !\\O",
+                "opinion_tags": "Otrzymali\\O \u015bmy\\O wszyscy\\O pokoje\\O o\\O numerach\\O trzy\\O cyfrowych\\O ,\\O czyli\\O stare\\O ,\\O \u0142azienka\\O ze\\B star\u0105\\I wann\u0105\\I i\\I zas\u0142onk\u0105\\I ?\\O !\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "a024e442-b910-48ea-9fa0-7da7b0b289d8",
+                "target_tags": "Otrzymali\\O \u015bmy\\O wszyscy\\O pokoje\\B o\\O numerach\\O trzy\\O cyfrowych\\O ,\\O czyli\\O stare\\O ,\\O \u0142azienka\\O ze\\O star\u0105\\O wann\u0105\\O i\\O zas\u0142onk\u0105\\O ?\\O !\\O",
+                "opinion_tags": "Otrzymali\\O \u015bmy\\O wszyscy\\O pokoje\\O o\\O numerach\\O trzy\\O cyfrowych\\O ,\\O czyli\\O stare\\B ,\\O \u0142azienka\\O ze\\O star\u0105\\O wann\u0105\\O i\\O zas\u0142onk\u0105\\O ?\\O !\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 253,
+        "sentence": "Obaj Panowie bardzo pomocni .",
+        "triplets": [
+            {
+                "uuid": "a9658319-f698-4a8c-aff4-b622bc60c875",
+                "target_tags": "Obaj\\O Panowie\\B bardzo\\O pomocni\\O .\\O",
+                "opinion_tags": "Obaj\\O Panowie\\O bardzo\\B pomocni\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 571,
+        "sentence": "W dw\u00f3ch pokojach na trzy by\u0142y lod\u00f3wki , we wszystkich czajniki co jest bardzo wygodne .",
+        "triplets": [
+            {
+                "uuid": "5d98321d-6e64-4414-9715-46ded1db87cd",
+                "target_tags": "W\\O dw\u00f3ch\\O pokojach\\B na\\O trzy\\O by\u0142y\\O lod\u00f3wki\\O ,\\O we\\O wszystkich\\O czajniki\\O co\\O jest\\O bardzo\\O wygodne\\O .\\O",
+                "opinion_tags": "W\\O dw\u00f3ch\\O pokojach\\O na\\O trzy\\O by\u0142y\\B lod\u00f3wki\\I ,\\O we\\O wszystkich\\O czajniki\\O co\\O jest\\O bardzo\\O wygodne\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "4165399a-c1cf-4262-a5b2-f2a003a50ba8",
+                "target_tags": "W\\O dw\u00f3ch\\O pokojach\\B na\\O trzy\\O by\u0142y\\O lod\u00f3wki\\O ,\\O we\\O wszystkich\\O czajniki\\O co\\O jest\\O bardzo\\O wygodne\\O .\\O",
+                "opinion_tags": "W\\O dw\u00f3ch\\O pokojach\\O na\\O trzy\\O by\u0142y\\O lod\u00f3wki\\O ,\\O we\\B wszystkich\\I czajniki\\I co\\I jest\\I bardzo\\I wygodne\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 273,
+        "sentence": "\u0141azienki do remontu .",
+        "triplets": [
+            {
+                "uuid": "97312ab8-ca37-45c8-88fd-df0783f626ea",
+                "target_tags": "\u0141azienki\\B do\\O remontu\\O .\\O",
+                "opinion_tags": "\u0141azienki\\O do\\B remontu\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "sentence": "Bardzo dobry stosunek ceny do jako\u015bci .",
+        "triplets": [
+            {
+                "uuid": "7d2880ae-24f2-48ee-bfe1-deb1a70c1087",
+                "target_tags": "Bardzo\\O dobry\\O stosunek\\B ceny\\I do\\I jako\u015bci\\I .\\O",
+                "opinion_tags": "Bardzo\\B dobry\\I stosunek\\O ceny\\O do\\O jako\u015bci\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 458,
+        "sentence": "Bardzo brakowa\u0142o nam te\u017c jakichkolwiek informacji o menu i formie obiadokolacji .",
+        "triplets": [
+            {
+                "uuid": "84256780-6b4b-4f7b-8fcb-d5c2f277d423",
+                "target_tags": "Bardzo\\O brakowa\u0142o\\O nam\\O te\u017c\\O jakichkolwiek\\O informacji\\O o\\O menu\\O i\\O formie\\O obiadokolacji\\B .\\O",
+                "opinion_tags": "Bardzo\\B brakowa\u0142o\\I nam\\I te\u017c\\I jakichkolwiek\\I informacji\\I o\\I menu\\I i\\I formie\\I obiadokolacji\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 493,
+        "sentence": "W oknach kraty , do tego miniaturowy telewizor , kt\u00f3ry nie odbiera\u0142 wi\u0119kszo\u015bci kana\u0142\u00f3w .",
+        "triplets": [
+            {
+                "uuid": "2602a3f7-7ef9-47ce-b49c-34bc9b0c9066",
+                "target_tags": "W\\O oknach\\O kraty\\O ,\\O do\\O tego\\O miniaturowy\\O telewizor\\B ,\\O kt\u00f3ry\\O nie\\O odbiera\u0142\\O wi\u0119kszo\u015bci\\O kana\u0142\u00f3w\\O .\\O",
+                "opinion_tags": "W\\O oknach\\O kraty\\O ,\\O do\\O tego\\O miniaturowy\\B telewizor\\O ,\\O kt\u00f3ry\\O nie\\O odbiera\u0142\\O wi\u0119kszo\u015bci\\O kana\u0142\u00f3w\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "dbbf9f7a-5cd2-47ca-9950-8861e657f7ac",
+                "target_tags": "W\\O oknach\\O kraty\\O ,\\O do\\O tego\\O miniaturowy\\O telewizor\\B ,\\O kt\u00f3ry\\O nie\\O odbiera\u0142\\O wi\u0119kszo\u015bci\\O kana\u0142\u00f3w\\O .\\O",
+                "opinion_tags": "W\\O oknach\\O kraty\\O ,\\O do\\O tego\\O miniaturowy\\O telewizor\\O ,\\O kt\u00f3ry\\O nie\\B odbiera\u0142\\I wi\u0119kszo\u015bci\\I kana\u0142\u00f3w\\I .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "9e38aef7-d16e-4fa7-95e2-86d3958238db",
+                "target_tags": "W\\O oknach\\B kraty\\O ,\\O do\\O tego\\O miniaturowy\\O telewizor\\O ,\\O kt\u00f3ry\\O nie\\O odbiera\u0142\\O wi\u0119kszo\u015bci\\O kana\u0142\u00f3w\\O .\\O",
+                "opinion_tags": "W\\O oknach\\O kraty\\B ,\\O do\\O tego\\O miniaturowy\\O telewizor\\O ,\\O kt\u00f3ry\\O nie\\O odbiera\u0142\\O wi\u0119kszo\u015bci\\O kana\u0142\u00f3w\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "sentence": "Prysznice s\u0105 ciasne i po\u0142\u0105czone z ubikacj\u0105 przez co robi\u0105 si\u0119 kolejki .",
+        "triplets": [
+            {
+                "uuid": "fe6f7cb7-97e3-48ce-a364-4b86fc901fcc",
+                "target_tags": "Prysznice\\B s\u0105\\O ciasne\\O i\\O po\u0142\u0105czone\\O z\\O ubikacj\u0105\\O przez\\O co\\O robi\u0105\\O si\u0119\\O kolejki\\O .\\O",
+                "opinion_tags": "Prysznice\\O s\u0105\\O ciasne\\B i\\O po\u0142\u0105czone\\O z\\O ubikacj\u0105\\O przez\\O co\\O robi\u0105\\O si\u0119\\O kolejki\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "7785259c-084b-45fd-8f61-3d65074fc557",
+                "target_tags": "Prysznice\\B s\u0105\\O ciasne\\O i\\O po\u0142\u0105czone\\O z\\O ubikacj\u0105\\O przez\\O co\\O robi\u0105\\O si\u0119\\O kolejki\\O .\\O",
+                "opinion_tags": "Prysznice\\O s\u0105\\O ciasne\\O i\\O po\u0142\u0105czone\\B z\\I ubikacj\u0105\\I przez\\I co\\I robi\u0105\\I si\u0119\\I kolejki\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 312,
+        "sentence": "Brak szamponu , balsamu do cia\u0142a i odzywki do w\u0142os\u00f3w , co w innych hotelach 4 gwiazdkowych jest standardem .",
+        "triplets": [
+            {
+                "uuid": "dbae5947-a2b3-4f5b-b3eb-aa671106720c",
+                "target_tags": "Brak\\O szamponu\\B ,\\O balsamu\\O do\\O cia\u0142a\\O i\\O odzywki\\O do\\O w\u0142os\u00f3w\\O ,\\O co\\O w\\O innych\\O hotelach\\O 4\\O gwiazdkowych\\O jest\\O standardem\\O .\\O",
+                "opinion_tags": "Brak\\B szamponu\\O ,\\O balsamu\\O do\\O cia\u0142a\\O i\\O odzywki\\O do\\O w\u0142os\u00f3w\\O ,\\O co\\O w\\O innych\\O hotelach\\O 4\\O gwiazdkowych\\O jest\\O standardem\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "8bd92859-72fb-45ae-b8d5-086155cee3dc",
+                "target_tags": "Brak\\O szamponu\\O ,\\O balsamu\\B do\\I cia\u0142a\\I i\\O odzywki\\O do\\O w\u0142os\u00f3w\\O ,\\O co\\O w\\O innych\\O hotelach\\O 4\\O gwiazdkowych\\O jest\\O standardem\\O .\\O",
+                "opinion_tags": "Brak\\B szamponu\\O ,\\O balsamu\\O do\\O cia\u0142a\\O i\\O odzywki\\O do\\O w\u0142os\u00f3w\\O ,\\O co\\O w\\O innych\\O hotelach\\O 4\\O gwiazdkowych\\O jest\\O standardem\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "98264eb3-b8e8-46ee-b45d-ac3c127ea0ed",
+                "target_tags": "Brak\\O szamponu\\O ,\\O balsamu\\O do\\O cia\u0142a\\O i\\O odzywki\\B do\\I w\u0142os\u00f3w\\I ,\\O co\\O w\\O innych\\O hotelach\\O 4\\O gwiazdkowych\\O jest\\O standardem\\O .\\O",
+                "opinion_tags": "Brak\\B szamponu\\O ,\\O balsamu\\O do\\O cia\u0142a\\O i\\O odzywki\\O do\\O w\u0142os\u00f3w\\O ,\\O co\\O w\\O innych\\O hotelach\\O 4\\O gwiazdkowych\\O jest\\O standardem\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "sentence": "Ciekawa aran\u017cacja , mo\u017cna poczu\u0107 si\u0119 jak w pa\u0142acu mimo , \u017ce to 3 * hotel .",
+        "triplets": [
+            {
+                "uuid": "0c522131-bc4c-4908-849b-2bf91faa91ca",
+                "target_tags": "Ciekawa\\O aran\u017cacja\\B ,\\O mo\u017cna\\O poczu\u0107\\O si\u0119\\O jak\\O w\\O pa\u0142acu\\O mimo\\O ,\\O \u017ce\\O to\\O 3\\O *\\O hotel\\O .\\O",
+                "opinion_tags": "Ciekawa\\B aran\u017cacja\\O ,\\O mo\u017cna\\O poczu\u0107\\O si\u0119\\O jak\\O w\\O pa\u0142acu\\O mimo\\O ,\\O \u017ce\\O to\\O 3\\O *\\O hotel\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "41bd5fa7-c793-4708-b8e2-105aac53851d",
+                "target_tags": "Ciekawa\\O aran\u017cacja\\B ,\\O mo\u017cna\\O poczu\u0107\\O si\u0119\\O jak\\O w\\O pa\u0142acu\\O mimo\\O ,\\O \u017ce\\O to\\O 3\\O *\\O hotel\\O .\\O",
+                "opinion_tags": "Ciekawa\\O aran\u017cacja\\O ,\\O mo\u017cna\\B poczu\u0107\\I si\u0119\\I jak\\I w\\I pa\u0142acu\\I mimo\\O ,\\O \u017ce\\O to\\O 3\\O *\\O hotel\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 459,
+        "sentence": "Generalnie gory kartofli , zupy tluste i geste , az lyzka staje .",
+        "triplets": [
+            {
+                "uuid": "a08510e6-e921-4fce-ad1e-866947d78d45",
+                "target_tags": "Generalnie\\O gory\\O kartofli\\O ,\\O zupy\\B tluste\\O i\\O geste\\O ,\\O az\\O lyzka\\O staje\\O .\\O",
+                "opinion_tags": "Generalnie\\O gory\\O kartofli\\O ,\\O zupy\\O tluste\\B i\\O geste\\O ,\\O az\\O lyzka\\O staje\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "a4e72b53-1922-4169-b9c1-1d659ad3bc92",
+                "target_tags": "Generalnie\\O gory\\O kartofli\\O ,\\O zupy\\B tluste\\O i\\O geste\\O ,\\O az\\O lyzka\\O staje\\O .\\O",
+                "opinion_tags": "Generalnie\\O gory\\O kartofli\\O ,\\O zupy\\O tluste\\O i\\O geste\\B ,\\O az\\O lyzka\\O staje\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "sentence": "Hotel z czystym sumieniem mog\u0119 wszystkim poleci\u0107 .",
+        "triplets": [
+            {
+                "uuid": "614cc77f-bb19-4efe-93cd-49e4a9583711",
+                "target_tags": "Hotel\\B z\\O czystym\\O sumieniem\\O mog\u0119\\O wszystkim\\O poleci\u0107\\O .\\O",
+                "opinion_tags": "Hotel\\O z\\O czystym\\O sumieniem\\O mog\u0119\\B wszystkim\\I poleci\u0107\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 363,
+        "sentence": "Najgorsze co nas spotka\u0142o to pok\u00f3j 250 / 1 - musieli \u015bmy spa\u0107 na balkonie , bo pod\u0142oga by\u0142a zgnita z dziurami a od\u00f3r taki , \u017ce nie da\u0142o si\u0119 w nim spa\u0107 .",
+        "triplets": [
+            {
+                "uuid": "7d3743cd-732a-48f6-834d-94b0fb78b5fd",
+                "target_tags": "Najgorsze\\O co\\O nas\\O spotka\u0142o\\O to\\O pok\u00f3j\\B 250\\O /\\O 1\\O -\\O musieli\\O \u015bmy\\O spa\u0107\\O na\\O balkonie\\O ,\\O bo\\O pod\u0142oga\\O by\u0142a\\O zgnita\\O z\\O dziurami\\O a\\O od\u00f3r\\O taki\\O ,\\O \u017ce\\O nie\\O da\u0142o\\O si\u0119\\O w\\O nim\\O spa\u0107\\O .\\O",
+                "opinion_tags": "Najgorsze\\B co\\I nas\\I spotka\u0142o\\I to\\O pok\u00f3j\\O 250\\O /\\O 1\\O -\\O musieli\\O \u015bmy\\O spa\u0107\\O na\\O balkonie\\O ,\\O bo\\O pod\u0142oga\\O by\u0142a\\O zgnita\\O z\\O dziurami\\O a\\O od\u00f3r\\O taki\\O ,\\O \u017ce\\O nie\\O da\u0142o\\O si\u0119\\O w\\O nim\\O spa\u0107\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "ab605447-d93d-4fe5-bd4c-c6f87e809be0",
+                "target_tags": "Najgorsze\\O co\\O nas\\O spotka\u0142o\\O to\\O pok\u00f3j\\B 250\\O /\\O 1\\O -\\O musieli\\O \u015bmy\\O spa\u0107\\O na\\O balkonie\\O ,\\O bo\\O pod\u0142oga\\O by\u0142a\\O zgnita\\O z\\O dziurami\\O a\\O od\u00f3r\\O taki\\O ,\\O \u017ce\\O nie\\O da\u0142o\\O si\u0119\\O w\\O nim\\O spa\u0107\\O .\\O",
+                "opinion_tags": "Najgorsze\\O co\\O nas\\O spotka\u0142o\\O to\\O pok\u00f3j\\O 250\\O /\\O 1\\O -\\O musieli\\O \u015bmy\\O spa\u0107\\O na\\O balkonie\\O ,\\O bo\\O pod\u0142oga\\O by\u0142a\\O zgnita\\O z\\O dziurami\\O a\\O od\u00f3r\\B taki\\I ,\\I \u017ce\\I nie\\I da\u0142o\\I si\u0119\\I w\\I nim\\I spa\u0107\\I .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "a05a3837-1a92-4f89-bcd6-ce5346076613",
+                "target_tags": "Najgorsze\\O co\\O nas\\O spotka\u0142o\\O to\\O pok\u00f3j\\O 250\\O /\\O 1\\O -\\O musieli\\O \u015bmy\\O spa\u0107\\O na\\O balkonie\\O ,\\O bo\\O pod\u0142oga\\B by\u0142a\\O zgnita\\O z\\O dziurami\\O a\\O od\u00f3r\\O taki\\O ,\\O \u017ce\\O nie\\O da\u0142o\\O si\u0119\\O w\\O nim\\O spa\u0107\\O .\\O",
+                "opinion_tags": "Najgorsze\\O co\\O nas\\O spotka\u0142o\\O to\\O pok\u00f3j\\O 250\\O /\\O 1\\O -\\O musieli\\O \u015bmy\\O spa\u0107\\O na\\O balkonie\\O ,\\O bo\\O pod\u0142oga\\O by\u0142a\\O zgnita\\B z\\O dziurami\\O a\\O od\u00f3r\\O taki\\O ,\\O \u017ce\\O nie\\O da\u0142o\\O si\u0119\\O w\\O nim\\O spa\u0107\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "4dfc2e23-3371-4068-ba95-a668239768ab",
+                "target_tags": "Najgorsze\\O co\\O nas\\O spotka\u0142o\\O to\\O pok\u00f3j\\O 250\\O /\\O 1\\O -\\O musieli\\O \u015bmy\\O spa\u0107\\O na\\O balkonie\\O ,\\O bo\\O pod\u0142oga\\B by\u0142a\\O zgnita\\O z\\O dziurami\\O a\\O od\u00f3r\\O taki\\O ,\\O \u017ce\\O nie\\O da\u0142o\\O si\u0119\\O w\\O nim\\O spa\u0107\\O .\\O",
+                "opinion_tags": "Najgorsze\\O co\\O nas\\O spotka\u0142o\\O to\\O pok\u00f3j\\O 250\\O /\\O 1\\O -\\O musieli\\O \u015bmy\\O spa\u0107\\O na\\O balkonie\\O ,\\O bo\\O pod\u0142oga\\O by\u0142a\\O zgnita\\O z\\B dziurami\\I a\\O od\u00f3r\\O taki\\O ,\\O \u017ce\\O nie\\O da\u0142o\\O si\u0119\\O w\\O nim\\O spa\u0107\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "sentence": "Obs\u0142uga chodzi i obs\u0142uguje jak za kare , lekcewa\u017c\u0105co jak by pracowali z musu .",
+        "triplets": [
+            {
+                "uuid": "7862d690-15a7-40fc-904c-9c8d430012ea",
+                "target_tags": "Obs\u0142uga\\B chodzi\\O i\\O obs\u0142uguje\\O jak\\O za\\O kare\\O ,\\O lekcewa\u017c\u0105co\\O jak\\O by\\O pracowali\\O z\\O musu\\O .\\O",
+                "opinion_tags": "Obs\u0142uga\\O chodzi\\O i\\O obs\u0142uguje\\B jak\\I za\\I kare\\I ,\\O lekcewa\u017c\u0105co\\O jak\\O by\\O pracowali\\O z\\O musu\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "80ab8283-f982-4bcf-be35-d07918db303c",
+                "target_tags": "Obs\u0142uga\\B chodzi\\O i\\O obs\u0142uguje\\O jak\\O za\\O kare\\O ,\\O lekcewa\u017c\u0105co\\O jak\\O by\\O pracowali\\O z\\O musu\\O .\\O",
+                "opinion_tags": "Obs\u0142uga\\O chodzi\\O i\\O obs\u0142uguje\\O jak\\O za\\O kare\\O ,\\O lekcewa\u017c\u0105co\\B jak\\O by\\O pracowali\\O z\\O musu\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "c567bce9-9d50-4e99-89c1-252010f298ed",
+                "target_tags": "Obs\u0142uga\\B chodzi\\O i\\O obs\u0142uguje\\O jak\\O za\\O kare\\O ,\\O lekcewa\u017c\u0105co\\O jak\\O by\\O pracowali\\O z\\O musu\\O .\\O",
+                "opinion_tags": "Obs\u0142uga\\O chodzi\\O i\\O obs\u0142uguje\\O jak\\O za\\O kare\\O ,\\O lekcewa\u017c\u0105co\\O jak\\B by\\I pracowali\\I z\\I musu\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 370,
+        "sentence": "No i bardzo nieprzyjemny wystr\u00f3j .",
+        "triplets": [
+            {
+                "uuid": "a0dc5a01-4f5c-4ee9-89d0-a362b5b32340",
+                "target_tags": "No\\O i\\O bardzo\\O nieprzyjemny\\O wystr\u00f3j\\B .\\O",
+                "opinion_tags": "No\\O i\\O bardzo\\B nieprzyjemny\\I wystr\u00f3j\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 444,
+        "sentence": "Tu mamy du\u017cy basen ( jak na hotele w Zakopanym ) jacuzzi , kr\u0119gle ( dwa tory ) , bilard .",
+        "triplets": [
+            {
+                "uuid": "f87827b4-d8c8-454c-970d-09f3c05eb848",
+                "target_tags": "Tu\\O mamy\\O du\u017cy\\O basen\\B (\\O jak\\O na\\O hotele\\O w\\O Zakopanym\\O )\\O jacuzzi\\O ,\\O kr\u0119gle\\O (\\O dwa\\O tory\\O )\\O ,\\O bilard\\O .\\O",
+                "opinion_tags": "Tu\\O mamy\\O du\u017cy\\B basen\\O (\\O jak\\O na\\O hotele\\O w\\O Zakopanym\\O )\\O jacuzzi\\O ,\\O kr\u0119gle\\O (\\O dwa\\O tory\\O )\\O ,\\O bilard\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 333,
+        "sentence": "Pok\u00f3j by\u0142 \u015bliczny , wszystko tak jak na zdj\u0119ciu .",
+        "triplets": [
+            {
+                "uuid": "bcb13cd5-25da-427a-a1eb-bb18c8e0a60a",
+                "target_tags": "Pok\u00f3j\\B by\u0142\\O \u015bliczny\\O ,\\O wszystko\\O tak\\O jak\\O na\\O zdj\u0119ciu\\O .\\O",
+                "opinion_tags": "Pok\u00f3j\\O by\u0142\\O \u015bliczny\\B ,\\O wszystko\\O tak\\O jak\\O na\\O zdj\u0119ciu\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "f1b08f0a-1a24-463a-9143-e6768afea2ab",
+                "target_tags": "Pok\u00f3j\\B by\u0142\\O \u015bliczny\\O ,\\O wszystko\\O tak\\O jak\\O na\\O zdj\u0119ciu\\O .\\O",
+                "opinion_tags": "Pok\u00f3j\\O by\u0142\\O \u015bliczny\\O ,\\O wszystko\\O tak\\O jak\\B na\\I zdj\u0119ciu\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 579,
+        "sentence": "Je\u015bli wi\u0119c chcesz sp\u0119dzi\u0107 czas w pi\u0119knych Borach Tucholskich i lubisz porz\u0105dek i \u0142ad , jeste\u015b smakoszem dobrej kuchni i zale\u017cy Ci na udanym wypoczynku OMIJAJ HOTEL HOLLAND SZEROKIM \u0141UKIEM ; ) )",
+        "triplets": [
+            {
+                "uuid": "7e62e6fc-a295-4de8-bca8-fd3418470419",
+                "target_tags": "Je\u015bli\\O wi\u0119c\\O chcesz\\O sp\u0119dzi\u0107\\O czas\\O w\\O pi\u0119knych\\O Borach\\O Tucholskich\\O i\\O lubisz\\O porz\u0105dek\\O i\\O \u0142ad\\O ,\\O jeste\u015b\\O smakoszem\\O dobrej\\O kuchni\\O i\\O zale\u017cy\\O Ci\\O na\\O udanym\\O wypoczynku\\O OMIJAJ\\O HOTEL\\B HOLLAND\\O SZEROKIM\\O \u0141UKIEM\\O ;\\O )\\O )\\O",
+                "opinion_tags": "Je\u015bli\\O wi\u0119c\\O chcesz\\O sp\u0119dzi\u0107\\O czas\\O w\\O pi\u0119knych\\O Borach\\O Tucholskich\\O i\\O lubisz\\O porz\u0105dek\\O i\\O \u0142ad\\O ,\\O jeste\u015b\\O smakoszem\\O dobrej\\O kuchni\\O i\\O zale\u017cy\\O Ci\\O na\\O udanym\\O wypoczynku\\O OMIJAJ\\B HOTEL\\O HOLLAND\\O SZEROKIM\\O \u0141UKIEM\\O ;\\O )\\O )\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "sentence": "Recepcja czynna teoretycznie od godziny 7 . 00 rano , ale o 7 . 05 obs\u0142uga by\u0142a jeszcze \" w drodze \" .",
+        "triplets": [
+            {
+                "uuid": "f03df428-7008-478c-aa69-2ea10f2b9566",
+                "target_tags": "Recepcja\\B czynna\\O teoretycznie\\O od\\O godziny\\O 7\\O .\\O 00\\O rano\\O ,\\O ale\\O o\\O 7\\O .\\O 05\\O obs\u0142uga\\O by\u0142a\\O jeszcze\\O \"\\O w\\O drodze\\O \"\\O .\\O",
+                "opinion_tags": "Recepcja\\O czynna\\B teoretycznie\\I od\\I godziny\\I 7\\I .\\I 00\\I rano\\I ,\\I ale\\I o\\I 7\\I .\\I 05\\I obs\u0142uga\\I by\u0142a\\I jeszcze\\I \"\\I w\\I drodze\\I \"\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 422,
+        "sentence": "\u015aniadania bardzo urozmaicone , wida\u0107 , \u017ce Panie z kuchni dok\u0142adaj\u0105 wszelkich stara\u0144 \u017ceby go\u015bciom smakowa\u0142o .",
+        "triplets": [
+            {
+                "uuid": "a5cff0a5-d2ac-429b-a1ac-7f7f39151b8f",
+                "target_tags": "\u015aniadania\\B bardzo\\O urozmaicone\\O ,\\O wida\u0107\\O ,\\O \u017ce\\O Panie\\O z\\O kuchni\\O dok\u0142adaj\u0105\\O wszelkich\\O stara\u0144\\O \u017ceby\\O go\u015bciom\\O smakowa\u0142o\\O .\\O",
+                "opinion_tags": "\u015aniadania\\O bardzo\\B urozmaicone\\I ,\\O wida\u0107\\O ,\\O \u017ce\\O Panie\\O z\\O kuchni\\O dok\u0142adaj\u0105\\O wszelkich\\O stara\u0144\\O \u017ceby\\O go\u015bciom\\O smakowa\u0142o\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "6111d6f6-6822-44d3-b011-5b8a63f8010b",
+                "target_tags": "\u015aniadania\\O bardzo\\O urozmaicone\\O ,\\O wida\u0107\\O ,\\O \u017ce\\O Panie\\B z\\I kuchni\\I dok\u0142adaj\u0105\\O wszelkich\\O stara\u0144\\O \u017ceby\\O go\u015bciom\\O smakowa\u0142o\\O .\\O",
+                "opinion_tags": "\u015aniadania\\O bardzo\\O urozmaicone\\O ,\\O wida\u0107\\O ,\\O \u017ce\\O Panie\\O z\\O kuchni\\O dok\u0142adaj\u0105\\B wszelkich\\I stara\u0144\\I \u017ceby\\I go\u015bciom\\I smakowa\u0142o\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "sentence": "Restauracja wygl\u0105da\u0142a jak jad\u0142odajnia , bardzo du\u017cy ha\u0142as ale to nie wina hotelu tylko go\u015bci .",
+        "triplets": [
+            {
+                "uuid": "9139fb9e-9884-4db8-8f28-376977fcad53",
+                "target_tags": "Restauracja\\B wygl\u0105da\u0142a\\O jak\\O jad\u0142odajnia\\O ,\\O bardzo\\O du\u017cy\\O ha\u0142as\\O ale\\O to\\O nie\\O wina\\O hotelu\\O tylko\\O go\u015bci\\O .\\O",
+                "opinion_tags": "Restauracja\\O wygl\u0105da\u0142a\\B jak\\I jad\u0142odajnia\\I ,\\O bardzo\\O du\u017cy\\O ha\u0142as\\O ale\\O to\\O nie\\O wina\\O hotelu\\O tylko\\O go\u015bci\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "3e63877f-f512-4319-8566-750c61f41f9c",
+                "target_tags": "Restauracja\\B wygl\u0105da\u0142a\\O jak\\O jad\u0142odajnia\\O ,\\O bardzo\\O du\u017cy\\O ha\u0142as\\O ale\\O to\\O nie\\O wina\\O hotelu\\O tylko\\O go\u015bci\\O .\\O",
+                "opinion_tags": "Restauracja\\O wygl\u0105da\u0142a\\O jak\\O jad\u0142odajnia\\O ,\\O bardzo\\B du\u017cy\\I ha\u0142as\\I ale\\O to\\O nie\\O wina\\O hotelu\\O tylko\\O go\u015bci\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 404,
+        "sentence": "WiFi dziala przyzwoicie .",
+        "triplets": [
+            {
+                "uuid": "62e428ed-33c7-4ed9-84b2-016de6a98d1f",
+                "target_tags": "WiFi\\B dziala\\O przyzwoicie\\O .\\O",
+                "opinion_tags": "WiFi\\O dziala\\B przyzwoicie\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 511,
+        "sentence": "Darmowe WiFi s\u0142abe tylko obok recepcji , p\u0142atne te\u017c bez rewelacji .",
+        "triplets": [
+            {
+                "uuid": "2a94e102-5049-4129-92fe-4881211e3c0e",
+                "target_tags": "Darmowe\\B WiFi\\I s\u0142abe\\O tylko\\O obok\\O recepcji\\O ,\\O p\u0142atne\\O te\u017c\\O bez\\O rewelacji\\O .\\O",
+                "opinion_tags": "Darmowe\\O WiFi\\O s\u0142abe\\B tylko\\O obok\\O recepcji\\O ,\\O p\u0142atne\\O te\u017c\\O bez\\O rewelacji\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "5153b6b5-168f-4711-abf6-07b2c6baca43",
+                "target_tags": "Darmowe\\B WiFi\\I s\u0142abe\\O tylko\\O obok\\O recepcji\\O ,\\O p\u0142atne\\O te\u017c\\O bez\\O rewelacji\\O .\\O",
+                "opinion_tags": "Darmowe\\O WiFi\\O s\u0142abe\\O tylko\\B obok\\I recepcji\\I ,\\O p\u0142atne\\O te\u017c\\O bez\\O rewelacji\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "950a5628-30b2-4779-ae0f-135912e61521",
+                "target_tags": "Darmowe\\O WiFi\\O s\u0142abe\\O tylko\\O obok\\O recepcji\\O ,\\O p\u0142atne\\B te\u017c\\O bez\\O rewelacji\\O .\\O",
+                "opinion_tags": "Darmowe\\O WiFi\\O s\u0142abe\\O tylko\\O obok\\O recepcji\\O ,\\O p\u0142atne\\O te\u017c\\O bez\\B rewelacji\\I .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 525,
+        "sentence": "Zar\u00f3wno miejsce jak i ca\u0142y resort godne polecenia , czysto , pokoje przestronne , codzienny serwis sprz\u0105taj\u0105cy , przy ka\u017cdym budynku basen , ogromny wyb\u00f3r jedzenia , o bardzo cz\u0119stych porach .",
+        "triplets": [
+            {
+                "uuid": "463629d7-0bde-431e-a860-6145025fcf6a",
+                "target_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\B godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\O przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\O ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "opinion_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\B polecenia\\I ,\\O czysto\\O ,\\O pokoje\\O przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\O ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "aef4f11f-0a38-4f6f-bffd-a2cefbed1db8",
+                "target_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\B godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\O przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\O ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "opinion_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\O polecenia\\O ,\\O czysto\\B ,\\O pokoje\\O przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\O ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "97f6256d-c83e-4699-aed1-47b41e4728c8",
+                "target_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\B przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\O ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "opinion_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\O przestronne\\B ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\O ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "20f5892a-2356-4d90-8964-27c9fe46c049",
+                "target_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\O przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\B ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "opinion_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\O przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\O ,\\O o\\O bardzo\\B cz\u0119stych\\I porach\\I .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "87743098-6d90-4fc9-8e7e-9e0f5f8f9407",
+                "target_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\O przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\B ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "opinion_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\O przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\B wyb\u00f3r\\I jedzenia\\O ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "098e8cc1-7bc8-4a75-8a87-f32fcf08de37",
+                "target_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\B przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\O ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "opinion_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\O przestronne\\O ,\\O codzienny\\B serwis\\I sprz\u0105taj\u0105cy\\I ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\O ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "106d068e-eb02-4a90-899e-b280195e1a36",
+                "target_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\O przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\O ka\u017cdym\\O budynku\\O basen\\B ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\O ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "opinion_tags": "Zar\u00f3wno\\O miejsce\\O jak\\O i\\O ca\u0142y\\O resort\\O godne\\O polecenia\\O ,\\O czysto\\O ,\\O pokoje\\O przestronne\\O ,\\O codzienny\\O serwis\\O sprz\u0105taj\u0105cy\\O ,\\O przy\\B ka\u017cdym\\I budynku\\I basen\\O ,\\O ogromny\\O wyb\u00f3r\\O jedzenia\\O ,\\O o\\O bardzo\\O cz\u0119stych\\O porach\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "sentence": "Kilka dni temu sp\u0119dzili \u015bmy weekend w tym hotelu , fajna lokalizacja , wygodne \u0142\u00f3\u017cko i przestronny pok\u00f3j .",
+        "triplets": [
+            {
+                "uuid": "daac3929-896a-4e67-b192-6e2439bb887e",
+                "target_tags": "Kilka\\O dni\\O temu\\O sp\u0119dzili\\O \u015bmy\\O weekend\\O w\\O tym\\O hotelu\\O ,\\O fajna\\O lokalizacja\\B ,\\O wygodne\\O \u0142\u00f3\u017cko\\O i\\O przestronny\\O pok\u00f3j\\O .\\O",
+                "opinion_tags": "Kilka\\O dni\\O temu\\O sp\u0119dzili\\O \u015bmy\\O weekend\\O w\\O tym\\O hotelu\\O ,\\O fajna\\B lokalizacja\\O ,\\O wygodne\\O \u0142\u00f3\u017cko\\O i\\O przestronny\\O pok\u00f3j\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "7083f1dc-0ada-413b-8023-1d9e63710577",
+                "target_tags": "Kilka\\O dni\\O temu\\O sp\u0119dzili\\O \u015bmy\\O weekend\\O w\\O tym\\O hotelu\\O ,\\O fajna\\O lokalizacja\\O ,\\O wygodne\\O \u0142\u00f3\u017cko\\B i\\O przestronny\\O pok\u00f3j\\O .\\O",
+                "opinion_tags": "Kilka\\O dni\\O temu\\O sp\u0119dzili\\O \u015bmy\\O weekend\\O w\\O tym\\O hotelu\\O ,\\O fajna\\O lokalizacja\\O ,\\O wygodne\\B \u0142\u00f3\u017cko\\O i\\O przestronny\\O pok\u00f3j\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "ea881418-ba3e-4013-8de5-2b6f094e9607",
+                "target_tags": "Kilka\\O dni\\O temu\\O sp\u0119dzili\\O \u015bmy\\O weekend\\O w\\O tym\\O hotelu\\O ,\\O fajna\\O lokalizacja\\O ,\\O wygodne\\O \u0142\u00f3\u017cko\\O i\\O przestronny\\O pok\u00f3j\\B .\\O",
+                "opinion_tags": "Kilka\\O dni\\O temu\\O sp\u0119dzili\\O \u015bmy\\O weekend\\O w\\O tym\\O hotelu\\O ,\\O fajna\\O lokalizacja\\O ,\\O wygodne\\O \u0142\u00f3\u017cko\\O i\\O przestronny\\B pok\u00f3j\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "sentence": "Polecam wszystkim Hotel Podklasztorze jako miejsce zar\u00f3wno do wypoczynku rodzinnego jak i do organizowania imprez firmowych .",
+        "triplets": [
+            {
+                "uuid": "713b7f84-7655-476c-88e0-4c5d30f849cf",
+                "target_tags": "Polecam\\O wszystkim\\O Hotel\\B Podklasztorze\\O jako\\O miejsce\\O zar\u00f3wno\\O do\\O wypoczynku\\O rodzinnego\\O jak\\O i\\O do\\O organizowania\\O imprez\\O firmowych\\O .\\O",
+                "opinion_tags": "Polecam\\B wszystkim\\I Hotel\\O Podklasztorze\\O jako\\O miejsce\\O zar\u00f3wno\\O do\\O wypoczynku\\O rodzinnego\\O jak\\O i\\O do\\O organizowania\\O imprez\\O firmowych\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 303,
+        "sentence": "Nieliczna obs\u0142uga hotelowa wieczorem , recepcjonista obs\u0142ugiwa\u0142 tak\u017ce go\u015bci w restauracji i barze .",
+        "triplets": [
+            {
+                "uuid": "f93ad50e-7cec-4656-a0d1-63f5ddb90a28",
+                "target_tags": "Nieliczna\\O obs\u0142uga\\B hotelowa\\O wieczorem\\O ,\\O recepcjonista\\O obs\u0142ugiwa\u0142\\O tak\u017ce\\O go\u015bci\\O w\\O restauracji\\O i\\O barze\\O .\\O",
+                "opinion_tags": "Nieliczna\\B obs\u0142uga\\O hotelowa\\O wieczorem\\O ,\\O recepcjonista\\O obs\u0142ugiwa\u0142\\O tak\u017ce\\O go\u015bci\\O w\\O restauracji\\O i\\O barze\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "sentence": "My odwiedzili \u015bmy go w grudniu Obs\u0142uga bardzo mi\u0142a i profesjonalna , dyrektor tego hotelu pani Barbara bardzo fajna profesjonalna kobieta [ Super Babka ] .",
+        "triplets": [
+            {
+                "uuid": "20be54fa-0bb5-4663-9e58-0c08dbbf660d",
+                "target_tags": "My\\O odwiedzili\\O \u015bmy\\O go\\O w\\O grudniu\\O Obs\u0142uga\\B bardzo\\O mi\u0142a\\O i\\O profesjonalna\\O ,\\O dyrektor\\O tego\\O hotelu\\O pani\\O Barbara\\O bardzo\\O fajna\\O profesjonalna\\O kobieta\\O [\\O Super\\O Babka\\O ]\\O .\\O",
+                "opinion_tags": "My\\O odwiedzili\\O \u015bmy\\O go\\O w\\O grudniu\\O Obs\u0142uga\\O bardzo\\B mi\u0142a\\I i\\O profesjonalna\\O ,\\O dyrektor\\O tego\\O hotelu\\O pani\\O Barbara\\O bardzo\\O fajna\\O profesjonalna\\O kobieta\\O [\\O Super\\O Babka\\O ]\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "c06cc004-b6be-4ec8-bb11-c72a4617fe60",
+                "target_tags": "My\\O odwiedzili\\O \u015bmy\\O go\\O w\\O grudniu\\O Obs\u0142uga\\B bardzo\\O mi\u0142a\\O i\\O profesjonalna\\O ,\\O dyrektor\\O tego\\O hotelu\\O pani\\O Barbara\\O bardzo\\O fajna\\O profesjonalna\\O kobieta\\O [\\O Super\\O Babka\\O ]\\O .\\O",
+                "opinion_tags": "My\\O odwiedzili\\O \u015bmy\\O go\\O w\\O grudniu\\O Obs\u0142uga\\O bardzo\\O mi\u0142a\\O i\\O profesjonalna\\B ,\\O dyrektor\\O tego\\O hotelu\\O pani\\O Barbara\\O bardzo\\O fajna\\O profesjonalna\\O kobieta\\O [\\O Super\\O Babka\\O ]\\O .\\O",
+                "sentiment": "negative"
+            },
+            {
+                "uuid": "1b547bbb-639b-4049-ae91-ebc4d1f3aa02",
+                "target_tags": "My\\O odwiedzili\\O \u015bmy\\O go\\O w\\O grudniu\\O Obs\u0142uga\\O bardzo\\O mi\u0142a\\O i\\O profesjonalna\\O ,\\O dyrektor\\B tego\\O hotelu\\O pani\\O Barbara\\O bardzo\\O fajna\\O profesjonalna\\O kobieta\\O [\\O Super\\O Babka\\O ]\\O .\\O",
+                "opinion_tags": "My\\O odwiedzili\\O \u015bmy\\O go\\O w\\O grudniu\\O Obs\u0142uga\\O bardzo\\O mi\u0142a\\O i\\O profesjonalna\\O ,\\O dyrektor\\O tego\\O hotelu\\O pani\\O Barbara\\O bardzo\\B fajna\\I profesjonalna\\O kobieta\\O [\\O Super\\O Babka\\O ]\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "bde5c849-9d33-4dee-8117-5615897a4dd8",
+                "target_tags": "My\\O odwiedzili\\O \u015bmy\\O go\\O w\\O grudniu\\O Obs\u0142uga\\O bardzo\\O mi\u0142a\\O i\\O profesjonalna\\O ,\\O dyrektor\\B tego\\O hotelu\\O pani\\O Barbara\\O bardzo\\O fajna\\O profesjonalna\\O kobieta\\O [\\O Super\\O Babka\\O ]\\O .\\O",
+                "opinion_tags": "My\\O odwiedzili\\O \u015bmy\\O go\\O w\\O grudniu\\O Obs\u0142uga\\O bardzo\\O mi\u0142a\\O i\\O profesjonalna\\O ,\\O dyrektor\\O tego\\O hotelu\\O pani\\O Barbara\\O bardzo\\O fajna\\O profesjonalna\\B kobieta\\O [\\O Super\\O Babka\\O ]\\O .\\O",
+                "sentiment": "positive"
+            },
+            {
+                "uuid": "94e95117-ee74-4b0f-a81d-f0f78dcf85c5",
+                "target_tags": "My\\O odwiedzili\\O \u015bmy\\O go\\O w\\O grudniu\\O Obs\u0142uga\\O bardzo\\O mi\u0142a\\O i\\O profesjonalna\\O ,\\O dyrektor\\B tego\\O hotelu\\O pani\\O Barbara\\O bardzo\\O fajna\\O profesjonalna\\O kobieta\\O [\\O Super\\O Babka\\O ]\\O .\\O",
+                "opinion_tags": "My\\O odwiedzili\\O \u015bmy\\O go\\O w\\O grudniu\\O Obs\u0142uga\\O bardzo\\O mi\u0142a\\O i\\O profesjonalna\\O ,\\O dyrektor\\O tego\\O hotelu\\O pani\\O Barbara\\O bardzo\\O fajna\\O profesjonalna\\O kobieta\\O [\\O Super\\B Babka\\I ]\\O .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "id": 308,
+        "sentence": "Zdecydowanie nie polecam tego \" hotelu \" .",
+        "triplets": [
+            {
+                "uuid": "67171df0-ef76-44d2-b12b-f54939d2fc38",
+                "target_tags": "Zdecydowanie\\O nie\\O polecam\\O tego\\O \"\\O hotelu\\B \"\\O .\\O",
+                "opinion_tags": "Zdecydowanie\\O nie\\B polecam\\I tego\\O \"\\O hotelu\\O \"\\O .\\O",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "sentence": "Pobyt oceniam bardzo pozytywnie .",
+        "triplets": [
+            {
+                "uuid": "76a2065e-4606-4e3a-a983-1d5f222133d8",
+                "target_tags": "Pobyt\\B oceniam\\O bardzo\\O pozytywnie\\O .\\O",
+                "opinion_tags": "Pobyt\\O oceniam\\O bardzo\\B pozytywnie\\I .\\O",
+                "sentiment": "positive"
+            }
+        ]
+    }
+]
